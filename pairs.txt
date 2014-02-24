@@ -1,0 +1,7251 @@
+Tool:Sigur Rós
+Disturbed:Death Cab for Cutie
+Kanye West:The Offspring
+Pixies:The Who
+Nine Inch Nails:Slayer
+Iron Maiden:Avenged Sevenfold
+The Smiths:Rise Against
+Ramones:Daft Punk
+Alice in Chains:The White Stripes
+Led Zeppelin:Tool
+The Smashing Pumpkins:Radiohead
+Breaking Benjamin:Nirvana
+Pearl Jam:Rammstein
+Iron Maiden:Death Cab for Cutie
+Beyoncé:Portishead
+Iron Maiden:Papa Roach
+Radiohead:Opeth
+Christina Aguilera:The Killers
+Britney Spears:Megadeth
+Incubus:Papa Roach
+The Doors:Incubus
+Breaking Benjamin:U2
+Iron Maiden:Yeah Yeah Yeahs
+Weezer:Rise Against
+Slayer:Pixies
+The Smiths:Jimi Hendrix
+All Time Low:Blur
+Iron Maiden:System of a Down
+My Chemical Romance:Queen
+Green Day:Depeche Mode
+Foo Fighters:Portishead
+Regina Spektor:Marilyn Manson
+Papa Roach:Radiohead
+Lady Gaga:The Rolling Stones
+Breaking Benjamin:Avril Lavigne
+blink-182:Lily Allen
+The Beatles:3OH!3
+The Smashing Pumpkins:Snow Patrol
+Gorillaz:Panic! At the Disco
+Massive Attack:Evanescence
+Tool:Metallica
+All Time Low:Lily Allen
+Avenged Sevenfold:The Prodigy
+Bullet for My Valentine:Slipknot
+The White Stripes:Nightwish
+Regina Spektor:Daft Punk
+Nightwish:Three Days Grace
+Nightwish:Disturbed
+Eminem:Christina Aguilera
+Children of Bodom:Queen
+Slayer:The Rolling Stones
+U2:The Strokes
+Nickelback:Marilyn Manson
+Ramones:AC/DC
+Nightwish:MGMT
+Slayer:Muse
+Green Day:Franz Ferdinand
+The Rolling Stones:The Doors
+Avril Lavigne:The Killers
+Muse:Coldplay
+My Chemical Romance:The Clash
+Jimi Hendrix:David Bowie
+Queens of the Stone Age:The Rolling Stones
+Muse:Nightwish
+The Offspring:Fall Out Boy
+Sigur Rós:Muse
+Depeche Mode:Daft Punk
+The Killers:Cobra Starship
+Taylor Swift:Oasis
+30 Seconds to Mars:Alice in Chains
+Tool:Nickelback
+AC/DC:Blur
+Pearl Jam:Fall Out Boy
+Jimi Hendrix:Yeah Yeah Yeahs
+The Beatles:U2
+Tool:Black Eyed Peas
+Muse:Kasabian
+Crystal Castles:Radiohead
+Deftones:Paramore
+Bullet for My Valentine:Slayer
+3OH!3:Yeah Yeah Yeahs
+blink-182:The White Stripes
+Madonna:Amy Winehouse
+Regina Spektor:The Doors
+Lily Allen:Cobra Starship
+Phoenix:Lily Allen
+The All-American Rejects:Fall Out Boy
+The Used:Metallica
+Madonna:Tegan and Sara
+Rammstein:Metallica
+The xx:Regina Spektor
+Avril Lavigne:Amy Winehouse
+Weezer:Metallica
+AC/DC:Cobra Starship
+My Chemical Romance:Tool
+Yeah Yeah Yeahs:Papa Roach
+Britney Spears:Weezer
+Muse:Britney Spears
+The Smiths:Regina Spektor
+Led Zeppelin:A Perfect Circle
+Green Day:Muse
+The Offspring:Christina Aguilera
+Beyoncé:Belle and Sebastian
+Christina Aguilera:Pearl Jam
+Franz Ferdinand:Foo Fighters
+Slipknot:Blur
+Ke$ha:blink-182
+The Beatles:Avril Lavigne
+Papa Roach:Red Hot Chili Peppers
+System of a Down:Oasis
+Regina Spektor:Bob Dylan
+Panic! At the Disco:The All-American Rejects
+Nirvana:MGMT
+Aerosmith:Rihanna
+Kings of Leon:Jimi Hendrix
+Lily Allen:Ramones
+Opeth:The Who
+Foo Fighters:Avenged Sevenfold
+Keane:Beck
+Cobra Starship:MGMT
+Rise Against:Nightwish
+The Prodigy:Eminem
+Tegan and Sara:Crystal Castles
+Guns N' Roses:Tegan and Sara
+MGMT:Amy Winehouse
+Rise Against:Taylor Swift
+The Beatles:Foo Fighters
+The Smiths:All Time Low
+The Smiths:Led Zeppelin
+The Doors:Interpol
+The Smiths:Florence + the Machine
+Belle and Sebastian:Kasabian
+Oasis:The Offspring
+Megadeth:Beyoncé
+Franz Ferdinand:Portishead
+Bullet for My Valentine:Gorillaz
+The Clash:Phoenix
+The Strokes:Rammstein
+System of a Down:Yeah Yeah Yeahs
+Nightwish:Kings of Leon
+System of a Down:Nickelback
+The Smiths:Crystal Castles
+Beyoncé:Franz Ferdinand
+Oasis:Regina Spektor
+Interpol:System of a Down
+Aerosmith:Weezer
+Megadeth:Joy Division
+Beck:Iron Maiden
+Pink Floyd:Placebo
+Led Zeppelin:Phoenix
+Belle and Sebastian:Lady Gaga
+Rise Against:Rammstein
+Metallica:Interpol
+Franz Ferdinand:Phoenix
+Pearl Jam:Metallica
+AC/DC:Bloc Party
+The Who:Death Cab for Cutie
+Pink Floyd:Marilyn Manson
+Modest Mouse:Madonna
+Green Day:Bloc Party
+Christina Aguilera:Taylor Swift
+Nightwish:Snow Patrol
+The Beatles:Paramore
+Black Eyed Peas:Depeche Mode
+Arctic Monkeys:Phoenix
+The All-American Rejects:Linkin Park
+Rammstein:Britney Spears
+Lady Gaga:Gorillaz
+Belle and Sebastian:Incubus
+The Used:Christina Aguilera
+U2:The Clash
+Nickelback:Christina Aguilera
+The White Stripes:The Beatles
+Led Zeppelin:Bob Dylan
+Joy Division:Ramones
+Interpol:Oasis
+All Time Low:Vampire Weekend
+Weezer:Queens of the Stone Age
+Evanescence:Gorillaz
+Lily Allen:David Bowie
+Black Eyed Peas:3OH!3
+Marilyn Manson:Alice in Chains
+Ramones:Phoenix
+Joy Division:Black Sabbath
+Megadeth:Yeah Yeah Yeahs
+Muse:Blur
+Placebo:Death Cab for Cutie
+Guns N' Roses:Vampire Weekend
+Eminem:Ramones
+The Who:Avril Lavigne
+Sigur Rós:Marilyn Manson
+Linkin Park:The Prodigy
+Interpol:Björk
+Crystal Castles:Christina Aguilera
+My Chemical Romance:Arctic Monkeys
+The Doors:The Offspring
+Marilyn Manson:Pearl Jam
+The Smiths:Coldplay
+The xx:Eminem
+The Used:The Prodigy
+Kings of Leon:Placebo
+Opeth:Children of Bodom
+The Beatles:Björk
+Arctic Monkeys:Daft Punk
+Bob Dylan:The xx
+Queens of the Stone Age:Pearl Jam
+Bloc Party:Interpol
+Cobra Starship:30 Seconds to Mars
+The Cure:Katy Perry
+Paramore:Queens of the Stone Age
+The Clash:Regina Spektor
+Avenged Sevenfold:Queens of the Stone Age
+Marilyn Manson:AC/DC
+The xx:The Cure
+Lady Gaga:Bob Dylan
+Queens of the Stone Age:Kasabian
+Lady Gaga:3OH!3
+Children of Bodom:Breaking Benjamin
+Fall Out Boy:Interpol
+Kasabian:Vampire Weekend
+Crystal Castles:Amy Winehouse
+The Kooks:Jimi Hendrix
+Depeche Mode:Massive Attack
+Incubus:Bullet for My Valentine
+Children of Bodom:Modest Mouse
+Amy Winehouse:The Cure
+Muse:Guns N' Roses
+Nirvana:Eminem
+Pixies:Katy Perry
+Linkin Park:Rise Against
+Depeche Mode:3OH!3
+Regina Spektor:Paramore
+Madonna:Led Zeppelin
+Queens of the Stone Age:The xx
+Arctic Monkeys:Kanye West
+Fall Out Boy:Three Days Grace
+Paramore:System of a Down
+The xx:Nickelback
+Sigur Rós:Katy Perry
+The Rolling Stones:The Kooks
+Rammstein:U2
+The Doors:Vampire Weekend
+Queen:Deftones
+Ramones:Pink Floyd
+The Cure:Evanescence
+Radiohead:Franz Ferdinand
+Nightwish:Marilyn Manson
+Keane:Green Day
+Queens of the Stone Age:Disturbed
+System of a Down:Britney Spears
+Belle and Sebastian:The xx
+Pink Floyd:System of a Down
+The Rolling Stones:Coldplay
+Cobra Starship:Tegan and Sara
+Alice in Chains:The Prodigy
+Massive Attack:blink-182
+Linkin Park:AC/DC
+Beyoncé:Jimi Hendrix
+Jimi Hendrix:Beck
+Iron Maiden:Kings of Leon
+Queens of the Stone Age:Vampire Weekend
+Portishead:Kings of Leon
+Vampire Weekend:Keane
+Beyoncé:Eminem
+Pink Floyd:Rihanna
+A Perfect Circle:Kings of Leon
+The Offspring:Avril Lavigne
+Nirvana:All Time Low
+Belle and Sebastian:Tegan and Sara
+Breaking Benjamin:Joy Division
+Yeah Yeah Yeahs:Rise Against
+Slayer:Rammstein
+Children of Bodom:Tool
+Tool:A Perfect Circle
+Guns N' Roses:Eminem
+The Offspring:David Bowie
+Beck:30 Seconds to Mars
+Kings of Leon:Depeche Mode
+Taylor Swift:Cobra Starship
+Placebo:Kanye West
+Rise Against:Kasabian
+Crystal Castles:The xx
+The Used:Taylor Swift
+Sigur Rós:Lady Gaga
+All Time Low:Cobra Starship
+The Smashing Pumpkins:Alice in Chains
+Arctic Monkeys:Blur
+Arctic Monkeys:Aerosmith
+The Cure:The Who
+Regina Spektor:The Strokes
+Crystal Castles:Kanye West
+Slayer:Tool
+Jimi Hendrix:Pink Floyd
+Snow Patrol:Red Hot Chili Peppers
+Papa Roach:Korn
+Bob Dylan:Madonna
+Queens of the Stone Age:U2
+The All-American Rejects:Weezer
+Katy Perry:Lily Allen
+Placebo:Amy Winehouse
+Oasis:MGMT
+AC/DC:Pink Floyd
+Bob Dylan:The Clash
+Interpol:The Clash
+The Doors:Coldplay
+Modest Mouse:Yeah Yeah Yeahs
+The Rolling Stones:Incubus
+Arctic Monkeys:System of a Down
+Black Eyed Peas:Bob Dylan
+Michael Jackson:Depeche Mode
+The Offspring:30 Seconds to Mars
+Led Zeppelin:Pink Floyd
+Kings of Leon:Gorillaz
+Avril Lavigne:30 Seconds to Mars
+Queens of the Stone Age:Death Cab for Cutie
+Black Sabbath:Crystal Castles
+Katy Perry:Modest Mouse
+Iron Maiden:blink-182
+Disturbed:The All-American Rejects
+Christina Aguilera:Belle and Sebastian
+Cobra Starship:The Rolling Stones
+All Time Low:Beyoncé
+Daft Punk:U2
+The Killers:Papa Roach
+Deftones:Weezer
+The Doors:The Smashing Pumpkins
+Michael Jackson:Aerosmith
+The Smashing Pumpkins:Belle and Sebastian
+Pearl Jam:Bob Dylan
+Britney Spears:AC/DC
+The Who:Nirvana
+Oasis:Three Days Grace
+Bloc Party:U2
+Three Days Grace:Bullet for My Valentine
+Pearl Jam:Modest Mouse
+Joy Division:Slipknot
+My Chemical Romance:Lily Allen
+Lady Gaga:Paramore
+My Chemical Romance:Panic! At the Disco
+The Killers:Massive Attack
+Pixies:The White Stripes
+30 Seconds to Mars:Lily Allen
+Vampire Weekend:Katy Perry
+Pink Floyd:The xx
+U2:Tegan and Sara
+System of a Down:Weezer
+Breaking Benjamin:MGMT
+Joy Division:Deftones
+Daft Punk:Pearl Jam
+Michael Jackson:Panic! At the Disco
+Crystal Castles:Yeah Yeah Yeahs
+Avenged Sevenfold:Joy Division
+Cobra Starship:Crystal Castles
+Evanescence:Michael Jackson
+Avril Lavigne:blink-182
+Eminem:Pearl Jam
+Bob Dylan:3OH!3
+Ramones:Foo Fighters
+Crystal Castles:Ke$ha
+Britney Spears:Katy Perry
+Iron Maiden:The Offspring
+Led Zeppelin:Interpol
+Sigur Rós:Regina Spektor
+Death Cab for Cutie:Gorillaz
+The Doors:Bob Dylan
+Oasis:Aerosmith
+Queen:The xx
+Slipknot:Crystal Castles
+The xx:System of a Down
+Sigur Rós:A Perfect Circle
+Kasabian:Phoenix
+Jimi Hendrix:Foo Fighters
+Cobra Starship:Kasabian
+The Smashing Pumpkins:Pink Floyd
+Nirvana:Christina Aguilera
+Eminem:Avenged Sevenfold
+Red Hot Chili Peppers:Jimi Hendrix
+The Smashing Pumpkins:Red Hot Chili Peppers
+Florence + the Machine:Michael Jackson
+Led Zeppelin:Queen
+Avril Lavigne:Eminem
+Jimi Hendrix:Children of Bodom
+Phoenix:Tool
+Coldplay:Taylor Swift
+Weezer:The Smiths
+Kings of Leon:MGMT
+Nickelback:blink-182
+Rise Against:Pixies
+Children of Bodom:Disturbed
+Rammstein:Radiohead
+Ramones:Pixies
+Rise Against:Cobra Starship
+3OH!3:Belle and Sebastian
+Vampire Weekend:Slipknot
+Portishead:Avenged Sevenfold
+Deftones:Lily Allen
+Jimi Hendrix:Ramones
+Slipknot:MGMT
+Tegan and Sara:The Who
+Bloc Party:The Rolling Stones
+Metallica:Katy Perry
+Modest Mouse:Metallica
+Cobra Starship:Blur
+Papa Roach:Kanye West
+The Strokes:Blur
+Led Zeppelin:Blur
+Guns N' Roses:Bloc Party
+Queen:Guns N' Roses
+Kings of Leon:Blur
+Ramones:The White Stripes
+The Cure:Britney Spears
+The Doors:Red Hot Chili Peppers
+Slayer:Tegan and Sara
+Daft Punk:Bloc Party
+Belle and Sebastian:The Doors
+The Prodigy:Michael Jackson
+Coldplay:The Who
+The Killers:Three Days Grace
+Interpol:Rammstein
+Madonna:Coldplay
+Slipknot:The Used
+Avenged Sevenfold:Evanescence
+The White Stripes:Slayer
+Guns N' Roses:Fall Out Boy
+Madonna:Massive Attack
+The Beatles:The Rolling Stones
+Gorillaz:Phoenix
+Ramones:Interpol
+Belle and Sebastian:Crystal Castles
+blink-182:Arctic Monkeys
+Rihanna:Portishead
+Lady Gaga:Nirvana
+Crystal Castles:Nine Inch Nails
+Guns N' Roses:The All-American Rejects
+Nine Inch Nails:Alice in Chains
+Oasis:Joy Division
+System of a Down:AC/DC
+Red Hot Chili Peppers:Opeth
+System of a Down:Jimi Hendrix
+Tool:Joy Division
+Christina Aguilera:U2
+Alice in Chains:Bullet for My Valentine
+David Bowie:Megadeth
+Bloc Party:Amy Winehouse
+Nightwish:The All-American Rejects
+Avenged Sevenfold:Placebo
+Joy Division:David Bowie
+Daft Punk:Kings of Leon
+Tool:Fall Out Boy
+The Beatles:Pink Floyd
+Marilyn Manson:Incubus
+Radiohead:Nightwish
+Amy Winehouse:Guns N' Roses
+Christina Aguilera:Aerosmith
+Kings of Leon:Black Eyed Peas
+Katy Perry:The Prodigy
+Tool:Portishead
+Tool:Slipknot
+Papa Roach:Gorillaz
+Queen:Britney Spears
+Muse:Three Days Grace
+Coldplay:Katy Perry
+Kasabian:Ramones
+David Bowie:The Kooks
+The White Stripes:The Offspring
+A Perfect Circle:Daft Punk
+Björk:Keane
+Arctic Monkeys:Pink Floyd
+Tegan and Sara:Evanescence
+Iron Maiden:Snow Patrol
+Incubus:Franz Ferdinand
+Michael Jackson:Bullet for My Valentine
+Nightwish:Avril Lavigne
+Pink Floyd:The Cure
+Ke$ha:Three Days Grace
+Madonna:Franz Ferdinand
+Bloc Party:Kasabian
+A Perfect Circle:Bob Dylan
+Nightwish:blink-182
+Alice in Chains:Foo Fighters
+Iron Maiden:Vampire Weekend
+Lily Allen:Franz Ferdinand
+Joy Division:Amy Winehouse
+Evanescence:Amy Winehouse
+Radiohead:The Smiths
+Arctic Monkeys:Foo Fighters
+Opeth:Coldplay
+Disturbed:Iron Maiden
+Blur:Tool
+Breaking Benjamin:Lady Gaga
+Blur:Björk
+Disturbed:Tegan and Sara
+The Used:Yeah Yeah Yeahs
+The Prodigy:Nirvana
+Tegan and Sara:Vampire Weekend
+All Time Low:Rihanna
+Depeche Mode:Opeth
+Led Zeppelin:Papa Roach
+Franz Ferdinand:3OH!3
+Three Days Grace:Daft Punk
+System of a Down:The All-American Rejects
+AC/DC:The Offspring
+The Kooks:Evanescence
+The Rolling Stones:Radiohead
+Amy Winehouse:Eminem
+Eminem:Kasabian
+Blur:System of a Down
+Papa Roach:The Prodigy
+Green Day:Gorillaz
+Avril Lavigne:My Chemical Romance
+Florence + the Machine:The Doors
+Pixies:Vampire Weekend
+Daft Punk:Deftones
+Eminem:Queens of the Stone Age
+Panic! At the Disco:Black Eyed Peas
+Bloc Party:Michael Jackson
+U2:Disturbed
+All Time Low:Three Days Grace
+The Who:Keane
+All Time Low:Britney Spears
+Coldplay:Phoenix
+Björk:Pixies
+Joy Division:The Used
+Kings of Leon:Eminem
+Depeche Mode:Christina Aguilera
+Ramones:Disturbed
+Coldplay:Linkin Park
+Fall Out Boy:Vampire Weekend
+Vampire Weekend:Avenged Sevenfold
+Regina Spektor:Phoenix
+Queens of the Stone Age:Three Days Grace
+The White Stripes:Black Eyed Peas
+All Time Low:Black Eyed Peas
+Ramones:Three Days Grace
+Kanye West:Rise Against
+Death Cab for Cutie:Pink Floyd
+Snow Patrol:Incubus
+Lily Allen:Beck
+Yeah Yeah Yeahs:Foo Fighters
+Aerosmith:Cobra Starship
+Keane:The Prodigy
+blink-182:Regina Spektor
+Regina Spektor:The Kooks
+Lady Gaga:Katy Perry
+The Rolling Stones:Queen
+Paramore:Placebo
+Bloc Party:Paramore
+Metallica:Michael Jackson
+Green Day:Coldplay
+Massive Attack:The Cure
+Alice in Chains:The Strokes
+Lady Gaga:Slayer
+Metallica:Taylor Swift
+Metallica:Queen
+Kasabian:Pink Floyd
+Ke$ha:Ramones
+Fall Out Boy:Rise Against
+Massive Attack:The Strokes
+3OH!3:Rammstein
+Britney Spears:Alice in Chains
+Radiohead:Blur
+Muse:Lady Gaga
+Guns N' Roses:Ke$ha
+U2:Bob Dylan
+Queen:Black Sabbath
+3OH!3:The Doors
+Alice in Chains:The Who
+Katy Perry:Weezer
+The Smashing Pumpkins:AC/DC
+Radiohead:Bob Dylan
+Bob Dylan:System of a Down
+Interpol:The Offspring
+Rise Against:The All-American Rejects
+The Kooks:The Used
+Linkin Park:Papa Roach
+Pink Floyd:The Prodigy
+Fall Out Boy:Portishead
+The Kooks:Nine Inch Nails
+Bullet for My Valentine:Daft Punk
+Korn:Gorillaz
+Franz Ferdinand:Death Cab for Cutie
+Christina Aguilera:The Cure
+My Chemical Romance:Metallica
+Oasis:Belle and Sebastian
+Bloc Party:System of a Down
+All Time Low:Bloc Party
+Megadeth:A Perfect Circle
+The xx:Lily Allen
+Children of Bodom:The Doors
+Rammstein:Foo Fighters
+Weezer:Kasabian
+Lily Allen:Alice in Chains
+Christina Aguilera:Lily Allen
+Deftones:Sigur Rós
+Foo Fighters:System of a Down
+Weezer:Bob Dylan
+Slipknot:Pixies
+Nightwish:Florence + the Machine
+Björk:Pearl Jam
+Tegan and Sara:The Doors
+Radiohead:Depeche Mode
+Linkin Park:Taylor Swift
+The Strokes:30 Seconds to Mars
+Avril Lavigne:Children of Bodom
+My Chemical Romance:Snow Patrol
+The xx:Radiohead
+Aerosmith:Queens of the Stone Age
+Green Day:Evanescence
+Pearl Jam:Radiohead
+Nirvana:David Bowie
+Depeche Mode:Black Sabbath
+The Killers:Slipknot
+Ramones:The Strokes
+System of a Down:Michael Jackson
+Avenged Sevenfold:The Used
+The Offspring:Vampire Weekend
+Bullet for My Valentine:System of a Down
+Placebo:The Kooks
+Muse:U2
+Kanye West:Black Eyed Peas
+Lily Allen:Rammstein
+Katy Perry:Children of Bodom
+Michael Jackson:Placebo
+Guns N' Roses:The Who
+Keane:Children of Bodom
+Cobra Starship:Vampire Weekend
+Nine Inch Nails:The Offspring
+Three Days Grace:Black Eyed Peas
+Bob Dylan:Avril Lavigne
+The xx:30 Seconds to Mars
+Bloc Party:Deftones
+Incubus:The White Stripes
+Weezer:Snow Patrol
+Bullet for My Valentine:Avenged Sevenfold
+Keane:The Clash
+Opeth:Placebo
+Megadeth:Slipknot
+Lady Gaga:Korn
+Red Hot Chili Peppers:Rammstein
+Green Day:Red Hot Chili Peppers
+Led Zeppelin:The Kooks
+Kings of Leon:The Kooks
+The Cure:Kanye West
+Rise Against:Alice in Chains
+Panic! At the Disco:Phoenix
+Panic! At the Disco:Katy Perry
+Bloc Party:Sigur Rós
+Tegan and Sara:Nickelback
+Rihanna:Belle and Sebastian
+Interpol:Britney Spears
+A Perfect Circle:Radiohead
+Tool:Lily Allen
+Queens of the Stone Age:AC/DC
+Muse:Nickelback
+Regina Spektor:All Time Low
+The Smiths:Daft Punk
+The Clash:Death Cab for Cutie
+Radiohead:Slipknot
+The Cure:Vampire Weekend
+Pink Floyd:Aerosmith
+Radiohead:Ke$ha
+Alice in Chains:Three Days Grace
+Kanye West:Portishead
+Slayer:The Offspring
+Lady Gaga:Massive Attack
+Red Hot Chili Peppers:The Offspring
+Muse:Katy Perry
+Ke$ha:Weezer
+David Bowie:The Smiths
+Slipknot:The All-American Rejects
+Black Eyed Peas:Disturbed
+Queens of the Stone Age:Keane
+Pearl Jam:Nickelback
+U2:Led Zeppelin
+Beyoncé:Coldplay
+Arctic Monkeys:Bob Dylan
+The Beatles:Fall Out Boy
+Madonna:Radiohead
+Lily Allen:Kanye West
+Interpol:30 Seconds to Mars
+Madonna:Korn
+Lily Allen:Opeth
+Amy Winehouse:Taylor Swift
+Keane:The Cure
+Incubus:Megadeth
+Regina Spektor:David Bowie
+Nirvana:Placebo
+U2:The Killers
+Opeth:Arctic Monkeys
+Megadeth:Guns N' Roses
+A Perfect Circle:Marilyn Manson
+A Perfect Circle:Gorillaz
+Crystal Castles:Modest Mouse
+The xx:Incubus
+Black Eyed Peas:U2
+Led Zeppelin:Björk
+Tegan and Sara:Michael Jackson
+Pink Floyd:Gorillaz
+Rihanna:The White Stripes
+My Chemical Romance:Franz Ferdinand
+Foo Fighters:Coldplay
+Black Sabbath:Papa Roach
+Queen:Aerosmith
+Paramore:Kings of Leon
+Sigur Rós:Keane
+The Strokes:The Kooks
+Radiohead:Phoenix
+Joy Division:Coldplay
+Eminem:Tool
+blink-182:Björk
+Megadeth:Aerosmith
+The Doors:Jimi Hendrix
+Vampire Weekend:Arctic Monkeys
+Nirvana:A Perfect Circle
+The Rolling Stones:Tool
+Slayer:Weezer
+The Smashing Pumpkins:blink-182
+Depeche Mode:Paramore
+Depeche Mode:Rihanna
+Children of Bodom:Sigur Rós
+Regina Spektor:Slipknot
+Keane:Opeth
+The xx:Red Hot Chili Peppers
+The Kooks:Rammstein
+Taylor Swift:Marilyn Manson
+The Cure:Alice in Chains
+Marilyn Manson:Green Day
+Alice in Chains:Kanye West
+The Smashing Pumpkins:Black Sabbath
+Breaking Benjamin:Pearl Jam
+Britney Spears:Nirvana
+Nirvana:Kasabian
+Phoenix:Britney Spears
+Yeah Yeah Yeahs:Bob Dylan
+Pearl Jam:The Smiths
+Pink Floyd:Rammstein
+Bullet for My Valentine:Blur
+System of a Down:Rammstein
+System of a Down:Slipknot
+The Beatles:Blur
+Korn:The Prodigy
+Red Hot Chili Peppers:Black Eyed Peas
+Rammstein:My Chemical Romance
+Phoenix:Opeth
+Alice in Chains:Beck
+Opeth:The Smiths
+The Strokes:Bob Dylan
+Ke$ha:Bloc Party
+Deftones:Incubus
+Taylor Swift:3OH!3
+Opeth:The Cure
+Pink Floyd:30 Seconds to Mars
+Alice in Chains:blink-182
+Snow Patrol:Kanye West
+Florence + the Machine:Muse
+The Clash:Massive Attack
+Arctic Monkeys:Red Hot Chili Peppers
+The Strokes:Led Zeppelin
+Keane:Slipknot
+Rihanna:Oasis
+Rise Against:Pearl Jam
+Avenged Sevenfold:Fall Out Boy
+Breaking Benjamin:AC/DC
+Beck:Tool
+Bob Dylan:Michael Jackson
+Opeth:Snow Patrol
+Daft Punk:Fall Out Boy
+Kings of Leon:The Strokes
+My Chemical Romance:David Bowie
+Vampire Weekend:Depeche Mode
+The Kooks:Modest Mouse
+The Smashing Pumpkins:Cobra Starship
+Bullet for My Valentine:Sigur Rós
+Radiohead:Coldplay
+Lady Gaga:Joy Division
+Joy Division:The Smashing Pumpkins
+Bob Dylan:Evanescence
+The Cure:Paramore
+Madonna:Kings of Leon
+Disturbed:Britney Spears
+The Cure:Modest Mouse
+Queens of the Stone Age:The Kooks
+The Offspring:Cobra Starship
+Kings of Leon:The Killers
+Children of Bodom:System of a Down
+The Smashing Pumpkins:MGMT
+Pearl Jam:blink-182
+Bloc Party:Iron Maiden
+Paramore:The Offspring
+Deftones:Michael Jackson
+Blur:30 Seconds to Mars
+Crystal Castles:Depeche Mode
+Depeche Mode:Papa Roach
+Nine Inch Nails:Disturbed
+The Smashing Pumpkins:Rammstein
+Oasis:Franz Ferdinand
+Breaking Benjamin:Bloc Party
+Deftones:The Who
+Ramones:Bullet for My Valentine
+Yeah Yeah Yeahs:Death Cab for Cutie
+Nine Inch Nails:The White Stripes
+Tegan and Sara:Muse
+Incubus:Massive Attack
+Paramore:Marilyn Manson
+Bullet for My Valentine:The Killers
+Regina Spektor:Papa Roach
+My Chemical Romance:Depeche Mode
+The Rolling Stones:Aerosmith
+Christina Aguilera:All Time Low
+Massive Attack:Disturbed
+Korn:Deftones
+Guns N' Roses:Beyoncé
+All Time Low:David Bowie
+The Offspring:Portishead
+Weezer:Taylor Swift
+Coldplay:Panic! At the Disco
+The Smashing Pumpkins:Papa Roach
+Pixies:Kanye West
+Sigur Rós:Linkin Park
+Papa Roach:System of a Down
+Megadeth:Foo Fighters
+Lady Gaga:Rihanna
+The Beatles:Weezer
+Ramones:Massive Attack
+Lady Gaga:Vampire Weekend
+Placebo:The Killers
+Radiohead:The White Stripes
+Coldplay:MGMT
+blink-182:The Who
+Britney Spears:Queens of the Stone Age
+Regina Spektor:Blur
+Led Zeppelin:Jimi Hendrix
+Jimi Hendrix:Incubus
+Jimi Hendrix:Interpol
+Bullet for My Valentine:Katy Perry
+System of a Down:Nine Inch Nails
+Nine Inch Nails:Queen
+Death Cab for Cutie:Michael Jackson
+MGMT:The Offspring
+Rammstein:Cobra Starship
+Guns N' Roses:Depeche Mode
+Weezer:The Offspring
+Breaking Benjamin:Rihanna
+Deftones:The White Stripes
+Snow Patrol:Tegan and Sara
+Queen:Belle and Sebastian
+Muse:The All-American Rejects
+Nickelback:Slayer
+Christina Aguilera:Paramore
+Bullet for My Valentine:Regina Spektor
+Rise Against:Evanescence
+Bloc Party:Gorillaz
+Children of Bodom:A Perfect Circle
+Lily Allen:Papa Roach
+3OH!3:Phoenix
+Lady Gaga:Evanescence
+Florence + the Machine:The All-American Rejects
+Yeah Yeah Yeahs:Lady Gaga
+U2:Coldplay
+Black Eyed Peas:Linkin Park
+Snow Patrol:A Perfect Circle
+Pink Floyd:Slayer
+Crystal Castles:Opeth
+Megadeth:Panic! At the Disco
+Beyoncé:Nine Inch Nails
+Muse:Linkin Park
+Crystal Castles:Avril Lavigne
+Paramore:Muse
+Aerosmith:The Offspring
+Placebo:Children of Bodom
+Opeth:blink-182
+Weezer:A Perfect Circle
+Belle and Sebastian:David Bowie
+Britney Spears:Cobra Starship
+Gorillaz:Three Days Grace
+Rise Against:Blur
+Evanescence:Black Eyed Peas
+My Chemical Romance:The Killers
+Nirvana:Fall Out Boy
+Children of Bodom:Aerosmith
+Kanye West:Ramones
+Nine Inch Nails:Foo Fighters
+Three Days Grace:The Smiths
+Breaking Benjamin:Ke$ha
+Britney Spears:Evanescence
+Björk:Lady Gaga
+Beyoncé:Rihanna
+Metallica:The Prodigy
+Bloc Party:Papa Roach
+Black Eyed Peas:Black Sabbath
+Guns N' Roses:The Kooks
+Placebo:Foo Fighters
+Papa Roach:Katy Perry
+Bloc Party:Christina Aguilera
+Beyoncé:The Smiths
+Taylor Swift:Keane
+Black Sabbath:System of a Down
+Ke$ha:Evanescence
+The Cure:Pixies
+Bob Dylan:Nickelback
+Depeche Mode:Ke$ha
+Kanye West:Bob Dylan
+Rihanna:Pixies
+The xx:Rihanna
+David Bowie:Papa Roach
+Blur:Iron Maiden
+Red Hot Chili Peppers:Bob Dylan
+Pearl Jam:Incubus
+Portishead:Michael Jackson
+Black Sabbath:Rammstein
+Arctic Monkeys:David Bowie
+The Strokes:Lily Allen
+Joy Division:Nightwish
+Ramones:David Bowie
+Ke$ha:Eminem
+Pink Floyd:Christina Aguilera
+Muse:Rammstein
+Nickelback:Foo Fighters
+The Beatles:Rise Against
+Modest Mouse:Marilyn Manson
+3OH!3:Incubus
+The Beatles:Guns N' Roses
+Breaking Benjamin:The Smashing Pumpkins
+Taylor Swift:Placebo
+Pixies:Marilyn Manson
+Keane:Oasis
+The Who:Madonna
+Ke$ha:Katy Perry
+Children of Bodom:Green Day
+Breaking Benjamin:Cobra Starship
+Tegan and Sara:Bullet for My Valentine
+The Used:U2
+Rise Against:U2
+Snow Patrol:Panic! At the Disco
+Christina Aguilera:Massive Attack
+The xx:Opeth
+Eminem:Interpol
+Eminem:Queen
+Placebo:Disturbed
+Keane:Muse
+Vampire Weekend:Red Hot Chili Peppers
+Rihanna:The Used
+Disturbed:Led Zeppelin
+The Rolling Stones:Pink Floyd
+Björk:Yeah Yeah Yeahs
+Queen:Jimi Hendrix
+Muse:The Who
+Coldplay:The Killers
+Ramones:Led Zeppelin
+Cobra Starship:Foo Fighters
+Ke$ha:Tool
+Nine Inch Nails:Lady Gaga
+Coldplay:Placebo
+The All-American Rejects:The Strokes
+The Kooks:Lily Allen
+The Smashing Pumpkins:Fall Out Boy
+Evanescence:Lily Allen
+Aerosmith:Alice in Chains
+Britney Spears:The Offspring
+Paramore:The Used
+Pearl Jam:Interpol
+Black Eyed Peas:Foo Fighters
+Marilyn Manson:blink-182
+Coldplay:Led Zeppelin
+Vampire Weekend:Britney Spears
+Tool:Foo Fighters
+Modest Mouse:Tool
+Madonna:Slayer
+Franz Ferdinand:Crystal Castles
+Disturbed:30 Seconds to Mars
+Breaking Benjamin:Evanescence
+Taylor Swift:Guns N' Roses
+The Doors:The White Stripes
+Daft Punk:Papa Roach
+AC/DC:Massive Attack
+Aerosmith:The Who
+Death Cab for Cutie:Katy Perry
+Yeah Yeah Yeahs:Alice in Chains
+Bob Dylan:Cobra Starship
+Ramones:Depeche Mode
+Papa Roach:Opeth
+Tegan and Sara:The Killers
+All Time Low:Radiohead
+Evanescence:Bloc Party
+The Beatles:The All-American Rejects
+Nine Inch Nails:Incubus
+Amy Winehouse:Radiohead
+Massive Attack:Nightwish
+System of a Down:Phoenix
+The Strokes:Crystal Castles
+Ke$ha:Amy Winehouse
+The Who:Pearl Jam
+AC/DC:Led Zeppelin
+The Smiths:Avril Lavigne
+Taylor Swift:Florence + the Machine
+Muse:Eminem
+Belle and Sebastian:Pixies
+Slipknot:Black Sabbath
+30 Seconds to Mars:Evanescence
+David Bowie:Queen
+The Used:Coldplay
+The Used:Florence + the Machine
+David Bowie:U2
+Sigur Rós:The Rolling Stones
+Queens of the Stone Age:Nirvana
+Kanye West:Madonna
+Florence + the Machine:Aerosmith
+Avenged Sevenfold:Korn
+Breaking Benjamin:Fall Out Boy
+Avril Lavigne:Marilyn Manson
+The Cure:Kings of Leon
+Linkin Park:The White Stripes
+Britney Spears:Portishead
+Radiohead:Queen
+Massive Attack:Rammstein
+The Rolling Stones:MGMT
+Korn:Pixies
+Led Zeppelin:Nickelback
+Muse:Pixies
+Franz Ferdinand:Sigur Rós
+3OH!3:Panic! At the Disco
+All Time Low:Oasis
+Britney Spears:The All-American Rejects
+Kanye West:Marilyn Manson
+MGMT:Black Eyed Peas
+Oasis:Children of Bodom
+Ramones:The Smashing Pumpkins
+Korn:Alice in Chains
+A Perfect Circle:Three Days Grace
+Korn:Opeth
+Daft Punk:Beck
+Tegan and Sara:The Cure
+Nickelback:Taylor Swift
+Gorillaz:Blur
+The Smashing Pumpkins:Foo Fighters
+Queen:Portishead
+30 Seconds to Mars:Arctic Monkeys
+Coldplay:Bob Dylan
+Vampire Weekend:Sigur Rós
+Phoenix:U2
+Florence + the Machine:Lady Gaga
+Muse:Kanye West
+blink-182:The Clash
+Nightwish:Pearl Jam
+Pixies:The Smiths
+blink-182:My Chemical Romance
+Evanescence:Vampire Weekend
+Crystal Castles:Papa Roach
+Modest Mouse:Florence + the Machine
+Beyoncé:My Chemical Romance
+The Clash:Ke$ha
+The Smiths:Bloc Party
+David Bowie:The Doors
+Paramore:Kanye West
+Korn:Björk
+Jimi Hendrix:Metallica
+The Cure:Depeche Mode
+Michael Jackson:Incubus
+Yeah Yeah Yeahs:Nine Inch Nails
+Beck:Joy Division
+System of a Down:Amy Winehouse
+The White Stripes:Daft Punk
+Led Zeppelin:Vampire Weekend
+Christina Aguilera:My Chemical Romance
+Coldplay:Black Eyed Peas
+The Who:Bloc Party
+Red Hot Chili Peppers:Three Days Grace
+Snow Patrol:Ramones
+Michael Jackson:Queen
+Radiohead:Incubus
+Kings of Leon:Avril Lavigne
+Coldplay:3OH!3
+Three Days Grace:Bloc Party
+Sigur Rós:The Kooks
+The Doors:Blur
+Avenged Sevenfold:Gorillaz
+Ramones:The Prodigy
+Breaking Benjamin:Korn
+Metallica:Crystal Castles
+blink-182:Paramore
+Aerosmith:Evanescence
+Belle and Sebastian:Yeah Yeah Yeahs
+Yeah Yeah Yeahs:Oasis
+Jimi Hendrix:Franz Ferdinand
+Kanye West:Metallica
+Bloc Party:Rise Against
+The xx:Panic! At the Disco
+Incubus:All Time Low
+Metallica:Gorillaz
+Kings of Leon:Oasis
+Avril Lavigne:The All-American Rejects
+Nine Inch Nails:Linkin Park
+Gorillaz:Vampire Weekend
+Rammstein:Beck
+The Doors:Weezer
+All Time Low:Eminem
+Avenged Sevenfold:Ke$ha
+Foo Fighters:U2
+The Doors:U2
+Marilyn Manson:Placebo
+Madonna:U2
+Eminem:Portishead
+Rammstein:AC/DC
+Depeche Mode:Linkin Park
+Panic! At the Disco:Rihanna
+All Time Low:Massive Attack
+The Killers:Children of Bodom
+Paramore:Metallica
+Britney Spears:Fall Out Boy
+Beyoncé:Incubus
+Nine Inch Nails:Cobra Starship
+Deftones:Rihanna
+Linkin Park:Bloc Party
+Madonna:Aerosmith
+Franz Ferdinand:The Cure
+Nine Inch Nails:A Perfect Circle
+Lady Gaga:Aerosmith
+30 Seconds to Mars:Belle and Sebastian
+The Prodigy:Muse
+Kings of Leon:Alice in Chains
+Queens of the Stone Age:Slipknot
+My Chemical Romance:The Beatles
+The Doors:The Clash
+Beyoncé:Led Zeppelin
+Tool:Queen
+Bloc Party:Tool
+Pink Floyd:Daft Punk
+Taylor Swift:Kanye West
+Pixies:Amy Winehouse
+Queen:U2
+The Kooks:Oasis
+Iron Maiden:Crystal Castles
+Iron Maiden:Ramones
+Death Cab for Cutie:Marilyn Manson
+Britney Spears:Red Hot Chili Peppers
+Joy Division:Red Hot Chili Peppers
+Deftones:Interpol
+Nightwish:30 Seconds to Mars
+Guns N' Roses:Green Day
+Daft Punk:Led Zeppelin
+Arctic Monkeys:Tool
+Pink Floyd:Slipknot
+Rammstein:Sigur Rós
+Avenged Sevenfold:Nine Inch Nails
+The Kooks:Bullet for My Valentine
+Interpol:Beck
+Lady Gaga:Avenged Sevenfold
+Lily Allen:Black Eyed Peas
+All Time Low:Guns N' Roses
+A Perfect Circle:Black Sabbath
+Beyoncé:Death Cab for Cutie
+Kings of Leon:Pink Floyd
+Iron Maiden:Children of Bodom
+Pink Floyd:The Killers
+Evanescence:blink-182
+Placebo:Joy Division
+The Beatles:Green Day
+Oasis:David Bowie
+Avril Lavigne:Radiohead
+Florence + the Machine:The Clash
+Radiohead:Rihanna
+Tool:Belle and Sebastian
+Queen:Sigur Rós
+Lily Allen:The Smiths
+Queen:Massive Attack
+Placebo:The xx
+Regina Spektor:Ramones
+Bloc Party:Regina Spektor
+Coldplay:Snow Patrol
+Coldplay:Incubus
+Daft Punk:Eminem
+Nirvana:Papa Roach
+Modest Mouse:Disturbed
+Bullet for My Valentine:Nickelback
+The Clash:Weezer
+blink-182:30 Seconds to Mars
+Opeth:Weezer
+Metallica:Bullet for My Valentine
+David Bowie:Daft Punk
+Britney Spears:The Who
+3OH!3:Oasis
+Foo Fighters:Avril Lavigne
+Depeche Mode:Jimi Hendrix
+Kings of Leon:3OH!3
+Bob Dylan:Fall Out Boy
+Bob Dylan:Avenged Sevenfold
+The Beatles:Cobra Starship
+Radiohead:Christina Aguilera
+Pearl Jam:Papa Roach
+Eminem:Linkin Park
+Madonna:Queens of the Stone Age
+System of a Down:Daft Punk
+Pearl Jam:Aerosmith
+The All-American Rejects:Madonna
+Tool:The Smashing Pumpkins
+The xx:Evanescence
+Franz Ferdinand:Pixies
+Joy Division:The Who
+Death Cab for Cutie:Lady Gaga
+Alice in Chains:The Killers
+Nirvana:The Strokes
+The Clash:AC/DC
+Black Sabbath:Vampire Weekend
+Aerosmith:Muse
+The Kooks:Foo Fighters
+The White Stripes:Lily Allen
+Rise Against:Queens of the Stone Age
+David Bowie:Black Sabbath
+The Strokes:The Who
+Evanescence:The Smashing Pumpkins
+Kings of Leon:Lady Gaga
+All Time Low:The Used
+All Time Low:Yeah Yeah Yeahs
+Bullet for My Valentine:Lily Allen
+Opeth:Avril Lavigne
+Depeche Mode:Panic! At the Disco
+Gorillaz:Marilyn Manson
+Three Days Grace:Linkin Park
+Guns N' Roses:Panic! At the Disco
+Korn:Aerosmith
+Iron Maiden:The Rolling Stones
+Portishead:Panic! At the Disco
+Deftones:Guns N' Roses
+Nightwish:Slipknot
+The Offspring:Coldplay
+Tegan and Sara:The White Stripes
+Interpol:Nickelback
+Björk:Fall Out Boy
+Blur:Crystal Castles
+The Rolling Stones:Bob Dylan
+Gorillaz:Keane
+Opeth:Blur
+Tegan and Sara:Marilyn Manson
+Gorillaz:Incubus
+Pink Floyd:The Who
+Daft Punk:Yeah Yeah Yeahs
+The xx:Aerosmith
+Alice in Chains:3OH!3
+Arctic Monkeys:Gorillaz
+System of a Down:Radiohead
+Christina Aguilera:Ramones
+Queens of the Stone Age:Black Sabbath
+Belle and Sebastian:Katy Perry
+Pearl Jam:Crystal Castles
+Opeth:Portishead
+blink-182:Joy Division
+Florence + the Machine:Tegan and Sara
+Michael Jackson:Keane
+Oasis:The Killers
+Christina Aguilera:The Rolling Stones
+Tegan and Sara:Yeah Yeah Yeahs
+Pink Floyd:Crystal Castles
+Foo Fighters:The White Stripes
+Kasabian:Foo Fighters
+Linkin Park:Keane
+Children of Bodom:Tegan and Sara
+Three Days Grace:The Rolling Stones
+Pink Floyd:Tegan and Sara
+Joy Division:The xx
+Beyoncé:Slipknot
+Jimi Hendrix:The Beatles
+Opeth:A Perfect Circle
+Kasabian:Britney Spears
+Crystal Castles:Nightwish
+Queens of the Stone Age:Arctic Monkeys
+Phoenix:Nightwish
+Deftones:Yeah Yeah Yeahs
+Depeche Mode:Franz Ferdinand
+Ramones:U2
+Coldplay:Rihanna
+The Beatles:Oasis
+Opeth:Slayer
+Katy Perry:U2
+Ramones:Keane
+Muse:Rihanna
+Tegan and Sara:Red Hot Chili Peppers
+Black Eyed Peas:David Bowie
+Red Hot Chili Peppers:Pink Floyd
+Michael Jackson:Radiohead
+Joy Division:The Prodigy
+Rammstein:Portishead
+Fall Out Boy:3OH!3
+The Clash:Kanye West
+Queen:Interpol
+Alice in Chains:Fall Out Boy
+Rammstein:Three Days Grace
+The Killers:Disturbed
+The Doors:Kanye West
+Three Days Grace:Christina Aguilera
+Incubus:Rise Against
+Red Hot Chili Peppers:Kanye West
+The White Stripes:Three Days Grace
+Oasis:The Who
+Red Hot Chili Peppers:Blur
+Kanye West:Rammstein
+A Perfect Circle:30 Seconds to Mars
+Queens of the Stone Age:Phoenix
+Bloc Party:The Killers
+Rise Against:The Cure
+Tegan and Sara:Aerosmith
+Rammstein:Papa Roach
+Avril Lavigne:Pearl Jam
+Jimi Hendrix:Slayer
+MGMT:Depeche Mode
+Avenged Sevenfold:Papa Roach
+Yeah Yeah Yeahs:Aerosmith
+Green Day:Sigur Rós
+Nirvana:Metallica
+Gorillaz:Belle and Sebastian
+Modest Mouse:The Rolling Stones
+Slayer:Blur
+The All-American Rejects:The Smashing Pumpkins
+Bloc Party:Lady Gaga
+A Perfect Circle:Disturbed
+Ke$ha:Beyoncé
+Gorillaz:Rihanna
+Lily Allen:Eminem
+The Beatles:Phoenix
+The Kooks:Three Days Grace
+Three Days Grace:Phoenix
+Breaking Benjamin:Rammstein
+The Strokes:Slipknot
+Portishead:Bloc Party
+Evanescence:Keane
+Crystal Castles:The Clash
+Children of Bodom:Daft Punk
+Nightwish:The Offspring
+Paramore:Tool
+The Kooks:Pearl Jam
+Pearl Jam:Led Zeppelin
+Tegan and Sara:The Rolling Stones
+Amy Winehouse:Arctic Monkeys
+Christina Aguilera:Regina Spektor
+A Perfect Circle:Breaking Benjamin
+The Prodigy:The White Stripes
+The Beatles:Slipknot
+Bullet for My Valentine:Nightwish
+Franz Ferdinand:Queen
+Amy Winehouse:Beyoncé
+Gorillaz:Katy Perry
+A Perfect Circle:Björk
+Crystal Castles:Michael Jackson
+Franz Ferdinand:Yeah Yeah Yeahs
+Pearl Jam:MGMT
+Pixies:Jimi Hendrix
+Pink Floyd:Vampire Weekend
+Slayer:Joy Division
+Franz Ferdinand:Tool
+Children of Bodom:Led Zeppelin
+Bullet for My Valentine:Panic! At the Disco
+Incubus:The Offspring
+Deftones:The Prodigy
+Pink Floyd:Katy Perry
+Queens of the Stone Age:Papa Roach
+Alice in Chains:Metallica
+Queen:Gorillaz
+Tool:Michael Jackson
+Deftones:The Used
+Megadeth:The Rolling Stones
+Queens of the Stone Age:Pink Floyd
+Muse:Rise Against
+Kings of Leon:Rihanna
+Paramore:Nickelback
+My Chemical Romance:The Smiths
+Keane:A Perfect Circle
+The White Stripes:Franz Ferdinand
+Madonna:The Rolling Stones
+Portishead:3OH!3
+The Used:Kanye West
+Megadeth:Coldplay
+Pixies:Queens of the Stone Age
+The Smiths:Death Cab for Cutie
+Opeth:Bloc Party
+Papa Roach:MGMT
+The Beatles:Snow Patrol
+Lily Allen:The Clash
+Foo Fighters:Bullet for My Valentine
+Daft Punk:Queen
+Britney Spears:Bloc Party
+Coldplay:Portishead
+Oasis:Gorillaz
+The Offspring:Kasabian
+Snow Patrol:3OH!3
+Kings of Leon:Foo Fighters
+Crystal Castles:The White Stripes
+The xx:Alice in Chains
+Interpol:Slipknot
+Coldplay:Belle and Sebastian
+Kings of Leon:The Smashing Pumpkins
+Bullet for My Valentine:The All-American Rejects
+The Prodigy:Guns N' Roses
+The Kooks:Nirvana
+Opeth:The All-American Rejects
+Beck:Paramore
+Muse:Panic! At the Disco
+Foo Fighters:Oasis
+Modest Mouse:Alice in Chains
+The Strokes:Disturbed
+Radiohead:Kanye West
+Björk:Metallica
+Cobra Starship:Phoenix
+Avenged Sevenfold:AC/DC
+Green Day:Bullet for My Valentine
+The Kooks:Alice in Chains
+The Beatles:Iron Maiden
+Led Zeppelin:Breaking Benjamin
+Michael Jackson:Lily Allen
+Bullet for My Valentine:Taylor Swift
+The Killers:Daft Punk
+Guns N' Roses:Regina Spektor
+The Beatles:Rammstein
+Keane:Foo Fighters
+The Prodigy:Children of Bodom
+Avenged Sevenfold:Florence + the Machine
+Belle and Sebastian:Modest Mouse
+blink-182:Amy Winehouse
+Three Days Grace:Aerosmith
+Florence + the Machine:Kasabian
+My Chemical Romance:Bloc Party
+Three Days Grace:Taylor Swift
+Beck:The Smashing Pumpkins
+Florence + the Machine:Bob Dylan
+Three Days Grace:Evanescence
+Nirvana:The Smashing Pumpkins
+Vampire Weekend:Eminem
+The Smiths:The Strokes
+Nightwish:Nirvana
+Massive Attack:Lily Allen
+Gorillaz:Björk
+Florence + the Machine:Led Zeppelin
+The Smashing Pumpkins:Portishead
+Queen:Arctic Monkeys
+AC/DC:Gorillaz
+Coldplay:Eminem
+30 Seconds to Mars:Muse
+Beck:The Rolling Stones
+Beck:Queen
+Avenged Sevenfold:Björk
+Phoenix:Depeche Mode
+Amy Winehouse:Oasis
+Nine Inch Nails:Bob Dylan
+Marilyn Manson:Iron Maiden
+AC/DC:The Who
+The Cure:The All-American Rejects
+Christina Aguilera:Evanescence
+Death Cab for Cutie:Kanye West
+Gorillaz:Crystal Castles
+Portishead:The Killers
+Avril Lavigne:The Used
+Interpol:Incubus
+Black Eyed Peas:Incubus
+My Chemical Romance:MGMT
+Interpol:Breaking Benjamin
+Rammstein:Franz Ferdinand
+Kasabian:Keane
+Oasis:Lily Allen
+Pink Floyd:Lily Allen
+David Bowie:Aerosmith
+Franz Ferdinand:Pink Floyd
+Modest Mouse:Weezer
+Nirvana:Death Cab for Cutie
+Nightwish:AC/DC
+Papa Roach:Beck
+Linkin Park:Panic! At the Disco
+Weezer:Incubus
+Madonna:The xx
+The xx:Papa Roach
+Queens of the Stone Age:The Smiths
+Belle and Sebastian:Amy Winehouse
+The Kooks:Vampire Weekend
+Crystal Castles:Black Eyed Peas
+Bob Dylan:Bullet for My Valentine
+Snow Patrol:Muse
+Katy Perry:Oasis
+Opeth:The Killers
+Madonna:Iron Maiden
+Lady Gaga:David Bowie
+Joy Division:Kanye West
+Arctic Monkeys:All Time Low
+Michael Jackson:Beyoncé
+Joy Division:The Kooks
+Children of Bodom:Björk
+Beck:Michael Jackson
+The Prodigy:Modest Mouse
+The Strokes:Franz Ferdinand
+Foo Fighters:The Smiths
+Vampire Weekend:The Rolling Stones
+The Beatles:Ramones
+Nightwish:Michael Jackson
+Death Cab for Cutie:Panic! At the Disco
+Bullet for My Valentine:Fall Out Boy
+The Beatles:Arctic Monkeys
+Regina Spektor:Interpol
+Ke$ha:Lady Gaga
+Guns N' Roses:Avril Lavigne
+Bloc Party:Ramones
+Lily Allen:Portishead
+Blur:Belle and Sebastian
+Iron Maiden:Slayer
+Massive Attack:Marilyn Manson
+Queens of the Stone Age:Björk
+Evanescence:The Killers
+Bloc Party:Muse
+The Used:Children of Bodom
+Beyoncé:Three Days Grace
+Children of Bodom:Black Eyed Peas
+Michael Jackson:Modest Mouse
+Queen:Opeth
+The Strokes:Cobra Starship
+Daft Punk:Jimi Hendrix
+Yeah Yeah Yeahs:Black Eyed Peas
+Kings of Leon:Pearl Jam
+Madonna:Foo Fighters
+MGMT:Lily Allen
+Kasabian:The Cure
+The Smiths:Bullet for My Valentine
+The Prodigy:Radiohead
+Muse:Bullet for My Valentine
+The Used:The White Stripes
+Evanescence:U2
+Deftones:Placebo
+Foo Fighters:Papa Roach
+Modest Mouse:All Time Low
+Paramore:Rise Against
+Joy Division:Fall Out Boy
+Nightwish:Pink Floyd
+Breaking Benjamin:Christina Aguilera
+Crystal Castles:Coldplay
+Death Cab for Cutie:Ramones
+Fall Out Boy:Foo Fighters
+Opeth:Black Eyed Peas
+Slayer:Red Hot Chili Peppers
+Lily Allen:System of a Down
+Megadeth:Avril Lavigne
+Arctic Monkeys:Guns N' Roses
+Bloc Party:Katy Perry
+The Used:Fall Out Boy
+Franz Ferdinand:Disturbed
+Incubus:Panic! At the Disco
+The Kooks:Black Eyed Peas
+Madonna:Ramones
+Guns N' Roses:blink-182
+The Beatles:Franz Ferdinand
+Beck:blink-182
+Regina Spektor:Taylor Swift
+Evanescence:Katy Perry
+Panic! At the Disco:Nightwish
+The Rolling Stones:Interpol
+Placebo:Aerosmith
+Rammstein:Linkin Park
+Crystal Castles:Muse
+Beck:Eminem
+Led Zeppelin:Panic! At the Disco
+Björk:Nirvana
+Queens of the Stone Age:The Strokes
+The Doors:Paramore
+Britney Spears:The Clash
+Marilyn Manson:Amy Winehouse
+Paramore:Portishead
+Led Zeppelin:Massive Attack
+The Smiths:Blur
+Pearl Jam:Muse
+Tegan and Sara:AC/DC
+Arctic Monkeys:Bullet for My Valentine
+Paramore:Arctic Monkeys
+3OH!3:Rise Against
+Panic! At the Disco:Kanye West
+All Time Low:Sigur Rós
+Led Zeppelin:Opeth
+The Smiths:Vampire Weekend
+Joy Division:Crystal Castles
+The Strokes:Megadeth
+The Cure:Arctic Monkeys
+Interpol:Bob Dylan
+The Smashing Pumpkins:The Who
+Interpol:Portishead
+Foo Fighters:Breaking Benjamin
+Interpol:Black Eyed Peas
+David Bowie:The Rolling Stones
+Placebo:Rihanna
+Britney Spears:Pink Floyd
+Children of Bodom:Ramones
+Alice in Chains:Joy Division
+System of a Down:The Prodigy
+Alice in Chains:Children of Bodom
+Red Hot Chili Peppers:The All-American Rejects
+Keane:Lily Allen
+Sigur Rós:Evanescence
+The Beatles:Kasabian
+Red Hot Chili Peppers:Muse
+Disturbed:Slipknot
+Marilyn Manson:Rise Against
+Lady Gaga:Black Eyed Peas
+Michael Jackson:Slayer
+The Beatles:Sigur Rós
+Pearl Jam:The Strokes
+The Clash:Linkin Park
+Pixies:Iron Maiden
+Nirvana:The Clash
+Foo Fighters:The Offspring
+Phoenix:Sigur Rós
+Björk:Modest Mouse
+The Clash:Black Sabbath
+Incubus:Tegan and Sara
+Crystal Castles:U2
+A Perfect Circle:The Who
+Disturbed:Tool
+Crystal Castles:Bob Dylan
+Sigur Rós:Lily Allen
+Arctic Monkeys:Björk
+The Smashing Pumpkins:Black Eyed Peas
+Gorillaz:The Beatles
+Nirvana:Beyoncé
+My Chemical Romance:Korn
+The Beatles:Opeth
+Black Eyed Peas:Papa Roach
+Arctic Monkeys:Modest Mouse
+Gorillaz:Foo Fighters
+Ke$ha:Foo Fighters
+blink-182:The Killers
+Pink Floyd:Korn
+Amy Winehouse:Massive Attack
+The Clash:Amy Winehouse
+Rise Against:Bob Dylan
+Depeche Mode:Portishead
+Three Days Grace:Breaking Benjamin
+Paramore:My Chemical Romance
+Modest Mouse:Led Zeppelin
+3OH!3:Bullet for My Valentine
+30 Seconds to Mars:Queens of the Stone Age
+Disturbed:Avril Lavigne
+Opeth:Black Sabbath
+Keane:The All-American Rejects
+Björk:Red Hot Chili Peppers
+Queen:All Time Low
+Slipknot:Muse
+Arctic Monkeys:MGMT
+Regina Spektor:The Prodigy
+Franz Ferdinand:Keane
+Radiohead:Panic! At the Disco
+The Offspring:Evanescence
+Amy Winehouse:Ramones
+Nine Inch Nails:My Chemical Romance
+Breaking Benjamin:3OH!3
+Muse:Disturbed
+Taylor Swift:Ke$ha
+Gorillaz:Rise Against
+The Smiths:Amy Winehouse
+Avenged Sevenfold:Kasabian
+Megadeth:Red Hot Chili Peppers
+Nightwish:Rihanna
+Korn:Taylor Swift
+Nightwish:Evanescence
+Linkin Park:Daft Punk
+Kanye West:Foo Fighters
+Ramones:Pearl Jam
+Belle and Sebastian:The White Stripes
+Avenged Sevenfold:Rihanna
+Massive Attack:Foo Fighters
+Keane:Aerosmith
+Daft Punk:Christina Aguilera
+System of a Down:Tool
+Nine Inch Nails:David Bowie
+The Clash:Pink Floyd
+Massive Attack:Vampire Weekend
+The Beatles:AC/DC
+Metallica:Coldplay
+3OH!3:Florence + the Machine
+Papa Roach:Ke$ha
+Katy Perry:Daft Punk
+Regina Spektor:The Beatles
+Snow Patrol:The Rolling Stones
+Phoenix:Michael Jackson
+Amy Winehouse:Alice in Chains
+Crystal Castles:The Beatles
+MGMT:Weezer
+The White Stripes:The Rolling Stones
+The Killers:Björk
+Breaking Benjamin:Lily Allen
+The Doors:The Kooks
+Paramore:Three Days Grace
+Jimi Hendrix:Crystal Castles
+Pink Floyd:Iron Maiden
+Pearl Jam:A Perfect Circle
+Avenged Sevenfold:Pink Floyd
+Ramones:A Perfect Circle
+Green Day:Oasis
+Christina Aguilera:Guns N' Roses
+Avenged Sevenfold:Amy Winehouse
+Pink Floyd:Snow Patrol
+The Cure:Bullet for My Valentine
+Beck:The xx
+Christina Aguilera:Britney Spears
+Cobra Starship:Belle and Sebastian
+Kasabian:Joy Division
+Franz Ferdinand:Megadeth
+Nirvana:Kanye West
+Fall Out Boy:Children of Bodom
+The xx:The Kooks
+The Smashing Pumpkins:Yeah Yeah Yeahs
+Blur:Rihanna
+Opeth:Kasabian
+Foo Fighters:The Clash
+Queen:The Used
+Portishead:The Used
+Madonna:Rise Against
+Portishead:Pink Floyd
+Rise Against:Belle and Sebastian
+Alice in Chains:Linkin Park
+Kasabian:Death Cab for Cutie
+A Perfect Circle:Slipknot
+blink-182:Bullet for My Valentine
+The Cure:AC/DC
+Alice in Chains:Arctic Monkeys
+Phoenix:Yeah Yeah Yeahs
+Arctic Monkeys:The Used
+Alice in Chains:Pink Floyd
+My Chemical Romance:Marilyn Manson
+Snow Patrol:Lily Allen
+Death Cab for Cutie:Fall Out Boy
+Megadeth:Ramones
+Placebo:Katy Perry
+The Offspring:U2
+Green Day:Placebo
+Arctic Monkeys:Incubus
+Marilyn Manson:Britney Spears
+Guns N' Roses:Sigur Rós
+Panic! At the Disco:Placebo
+Cobra Starship:System of a Down
+The Doors:Linkin Park
+The xx:Beyoncé
+Bullet for My Valentine:Evanescence
+30 Seconds to Mars:Beyoncé
+Ramones:Nickelback
+Bullet for My Valentine:Phoenix
+The Clash:Korn
+Crystal Castles:MGMT
+Ke$ha:Jimi Hendrix
+Kasabian:Franz Ferdinand
+The Kooks:Disturbed
+Slipknot:Placebo
+The White Stripes:Yeah Yeah Yeahs
+Nightwish:Foo Fighters
+The All-American Rejects:The Rolling Stones
+Lady Gaga:The Killers
+Florence + the Machine:Joy Division
+Paramore:All Time Low
+U2:Taylor Swift
+Kings of Leon:Coldplay
+The Cure:Metallica
+Tool:Breaking Benjamin
+Opeth:The Rolling Stones
+Deftones:Florence + the Machine
+Led Zeppelin:Incubus
+Pixies:Michael Jackson
+Cobra Starship:Black Eyed Peas
+Coldplay:Amy Winehouse
+Deftones:The Killers
+Tegan and Sara:Kasabian
+The Rolling Stones:Arctic Monkeys
+Breaking Benjamin:Yeah Yeah Yeahs
+Beyoncé:Alice in Chains
+Alice in Chains:The Smiths
+Beyoncé:Fall Out Boy
+Fall Out Boy:The Prodigy
+The White Stripes:Interpol
+The Doors:Pearl Jam
+System of a Down:The Killers
+Pixies:Lady Gaga
+The Prodigy:Rihanna
+Kasabian:Pearl Jam
+Red Hot Chili Peppers:Guns N' Roses
+Megadeth:Kanye West
+30 Seconds to Mars:Kanye West
+Keane:Depeche Mode
+The Doors:Avenged Sevenfold
+A Perfect Circle:Franz Ferdinand
+Tegan and Sara:Beyoncé
+The Rolling Stones:Depeche Mode
+Pearl Jam:AC/DC
+Coldplay:Pink Floyd
+Yeah Yeah Yeahs:Muse
+Jimi Hendrix:Snow Patrol
+Weezer:Foo Fighters
+The Doors:Guns N' Roses
+3OH!3:Guns N' Roses
+Avenged Sevenfold:System of a Down
+Ke$ha:Iron Maiden
+Nine Inch Nails:Radiohead
+Radiohead:The Offspring
+Pearl Jam:Joy Division
+30 Seconds to Mars:Bullet for My Valentine
+Yeah Yeah Yeahs:The Doors
+Belle and Sebastian:Fall Out Boy
+Belle and Sebastian:Queens of the Stone Age
+Led Zeppelin:The Who
+Rihanna:Taylor Swift
+Arctic Monkeys:Rihanna
+Florence + the Machine:Ramones
+Megadeth:Taylor Swift
+Beyoncé:3OH!3
+Weezer:Placebo
+Depeche Mode:Avril Lavigne
+Opeth:The Offspring
+Three Days Grace:Eminem
+Korn:Panic! At the Disco
+Kanye West:All Time Low
+MGMT:Placebo
+Rammstein:Alice in Chains
+Keane:The Killers
+Kanye West:Keane
+The Killers:Iron Maiden
+Aerosmith:Foo Fighters
+Phoenix:Fall Out Boy
+Opeth:Jimi Hendrix
+The Beatles:Vampire Weekend
+Weezer:Tool
+The Kooks:Pink Floyd
+Avril Lavigne:Red Hot Chili Peppers
+Florence + the Machine:Nine Inch Nails
+The Who:Panic! At the Disco
+Kings of Leon:Queen
+Modest Mouse:Oasis
+3OH!3:Three Days Grace
+My Chemical Romance:The Rolling Stones
+The All-American Rejects:Bloc Party
+The Offspring:Belle and Sebastian
+David Bowie:The Who
+The Killers:The Offspring
+The Smiths:The Kooks
+Black Sabbath:Katy Perry
+Yeah Yeah Yeahs:MGMT
+Franz Ferdinand:Alice in Chains
+Pearl Jam:Red Hot Chili Peppers
+Opeth:Joy Division
+Eminem:Placebo
+Aerosmith:Regina Spektor
+Eminem:Snow Patrol
+Guns N' Roses:Bob Dylan
+The Cure:3OH!3
+Regina Spektor:System of a Down
+Interpol:Marilyn Manson
+Franz Ferdinand:Nine Inch Nails
+Tool:Regina Spektor
+Black Eyed Peas:Belle and Sebastian
+Joy Division:Belle and Sebastian
+My Chemical Romance:Coldplay
+Slayer:The Used
+My Chemical Romance:Rise Against
+Snow Patrol:MGMT
+U2:Snow Patrol
+Paramore:Crystal Castles
+David Bowie:Amy Winehouse
+Rammstein:Belle and Sebastian
+The Smiths:Disturbed
+Placebo:Incubus
+Taylor Swift:Foo Fighters
+The Cure:Cobra Starship
+Disturbed:Taylor Swift
+Death Cab for Cutie:Avenged Sevenfold
+Franz Ferdinand:Taylor Swift
+Britney Spears:Bullet for My Valentine
+Panic! At the Disco:Ramones
+Korn:Children of Bodom
+Breaking Benjamin:Red Hot Chili Peppers
+Evanescence:Alice in Chains
+Rise Against:Placebo
+Phoenix:blink-182
+Phoenix:Metallica
+Sigur Rós:The Who
+Nirvana:Radiohead
+Paramore:Jimi Hendrix
+Radiohead:Slayer
+Crystal Castles:Bloc Party
+Snow Patrol:The Who
+Linkin Park:The xx
+AC/DC:Oasis
+Korn:Queens of the Stone Age
+The Clash:A Perfect Circle
+Interpol:Placebo
+Guns N' Roses:Jimi Hendrix
+Nickelback:Kasabian
+Muse:Oasis
+Megadeth:Opeth
+Cobra Starship:The Kooks
+Paramore:The Smashing Pumpkins
+Avenged Sevenfold:30 Seconds to Mars
+Tegan and Sara:Nine Inch Nails
+Nightwish:Blur
+MGMT:Beyoncé
+Black Eyed Peas:Pink Floyd
+Tegan and Sara:Panic! At the Disco
+The Smiths:Katy Perry
+The Smashing Pumpkins:Lily Allen
+Sigur Rós:Nine Inch Nails
+Coldplay:Kanye West
+Bob Dylan:Nightwish
+Depeche Mode:Tool
+Lady Gaga:Radiohead
+Three Days Grace:Lady Gaga
+Radiohead:U2
+Nightwish:The Doors
+Foo Fighters:Rise Against
+Slipknot:Nirvana
+Beyoncé:Interpol
+The Killers:Megadeth
+Slayer:AC/DC
+David Bowie:Tool
+Michael Jackson:The White Stripes
+Madonna:Green Day
+The Beatles:All Time Low
+Fall Out Boy:Cobra Starship
+Cobra Starship:Slipknot
+Amy Winehouse:Katy Perry
+Depeche Mode:Muse
+Fall Out Boy:Korn
+Madonna:Florence + the Machine
+Linkin Park:Arctic Monkeys
+The White Stripes:Breaking Benjamin
+Red Hot Chili Peppers:Led Zeppelin
+Bloc Party:Disturbed
+Queen:Pink Floyd
+3OH!3:AC/DC
+Three Days Grace:Pearl Jam
+Pink Floyd:Kanye West
+Phoenix:David Bowie
+Bullet for My Valentine:Tool
+Rise Against:Radiohead
+The Prodigy:Breaking Benjamin
+Portishead:Ramones
+Oasis:Pixies
+Weezer:Red Hot Chili Peppers
+Megadeth:Crystal Castles
+Arctic Monkeys:Placebo
+Kings of Leon:Sigur Rós
+All Time Low:Alice in Chains
+Iron Maiden:Evanescence
+Tool:Taylor Swift
+Phoenix:Korn
+Crystal Castles:Evanescence
+The Prodigy:Coldplay
+Christina Aguilera:Katy Perry
+Weezer:Daft Punk
+Modest Mouse:Evanescence
+Rihanna:The Cure
+Alice in Chains:Bob Dylan
+Deftones:Metallica
+The Clash:Papa Roach
+The Smashing Pumpkins:Massive Attack
+Portishead:Nickelback
+Rammstein:The Who
+The Cure:The Beatles
+A Perfect Circle:Lady Gaga
+blink-182:David Bowie
+Modest Mouse:Cobra Starship
+Paramore:The All-American Rejects
+Aerosmith:The Strokes
+The xx:Taylor Swift
+Jimi Hendrix:Nirvana
+Interpol:Massive Attack
+Foo Fighters:Opeth
+Michael Jackson:Alice in Chains
+Breaking Benjamin:Franz Ferdinand
+The Rolling Stones:Disturbed
+Rise Against:Panic! At the Disco
+Metallica:The Smiths
+Linkin Park:Franz Ferdinand
+The Used:Rammstein
+Britney Spears:Massive Attack
+The Prodigy:The Strokes
+The Offspring:Nickelback
+Beck:Snow Patrol
+Michael Jackson:Linkin Park
+Pixies:The Clash
+Coldplay:The Kooks
+A Perfect Circle:The Cure
+Incubus:Crystal Castles
+Three Days Grace:Rihanna
+Nine Inch Nails:Pink Floyd
+Pixies:Metallica
+Snow Patrol:Britney Spears
+The Strokes:Phoenix
+Florence + the Machine:Death Cab for Cutie
+Interpol:Kanye West
+The Kooks:Red Hot Chili Peppers
+Gorillaz:Michael Jackson
+Paramore:Led Zeppelin
+Deftones:Nightwish
+Radiohead:Massive Attack
+blink-182:Jimi Hendrix
+Disturbed:Slayer
+Rise Against:Megadeth
+System of a Down:Breaking Benjamin
+The Strokes:Taylor Swift
+The All-American Rejects:Interpol
+Green Day:Death Cab for Cutie
+Franz Ferdinand:Slayer
+The Beatles:Lady Gaga
+Oasis:Led Zeppelin
+Green Day:Vampire Weekend
+System of a Down:Placebo
+Avril Lavigne:Paramore
+Tool:Evanescence
+Snow Patrol:Sigur Rós
+Franz Ferdinand:Katy Perry
+The Beatles:Black Eyed Peas
+Placebo:Black Eyed Peas
+AC/DC:Coldplay
+Avenged Sevenfold:Nirvana
+Madonna:Panic! At the Disco
+Children of Bodom:Yeah Yeah Yeahs
+Linkin Park:My Chemical Romance
+3OH!3:Blur
+Sigur Rós:The Prodigy
+Lily Allen:Iron Maiden
+Evanescence:Korn
+Led Zeppelin:Ke$ha
+Snow Patrol:Portishead
+Joy Division:The Cure
+Ramones:Nightwish
+Snow Patrol:Death Cab for Cutie
+Pearl Jam:Katy Perry
+Beck:Portishead
+Daft Punk:Disturbed
+Pearl Jam:Keane
+Tegan and Sara:Arctic Monkeys
+Daft Punk:Beyoncé
+Eminem:Rise Against
+The Used:Pink Floyd
+The Offspring:Pearl Jam
+Children of Bodom:Rise Against
+Yeah Yeah Yeahs:Keane
+Marilyn Manson:The White Stripes
+Belle and Sebastian:Slipknot
+The Smiths:Placebo
+Rihanna:Bob Dylan
+Blur:A Perfect Circle
+The Beatles:The Strokes
+Rihanna:Slipknot
+Portishead:Amy Winehouse
+Nirvana:My Chemical Romance
+Pink Floyd:Eminem
+Joy Division:Bob Dylan
+Paramore:Incubus
+The Cure:Muse
+Nickelback:Eminem
+Iron Maiden:Incubus
+The Who:Kanye West
+Alice in Chains:Megadeth
+blink-182:Queen
+The Offspring:The xx
+The Doors:Portishead
+Nirvana:AC/DC
+Queens of the Stone Age:Nickelback
+The Beatles:Marilyn Manson
+U2:Gorillaz
+Vampire Weekend:Rihanna
+Children of Bodom:Guns N' Roses
+Coldplay:Black Sabbath
+Snow Patrol:Crystal Castles
+The Kooks:Eminem
+Deftones:3OH!3
+Pink Floyd:Blur
+The White Stripes:Aerosmith
+The Beatles:The Clash
+Breaking Benjamin:Paramore
+Ke$ha:Black Eyed Peas
+The Killers:Ke$ha
+All Time Low:Linkin Park
+Disturbed:Florence + the Machine
+The Offspring:Daft Punk
+David Bowie:Avril Lavigne
+Franz Ferdinand:Panic! At the Disco
+Katy Perry:Rammstein
+The Beatles:Lily Allen
+Panic! At the Disco:The Killers
+Björk:Rihanna
+Beck:Incubus
+The Cure:Nightwish
+Yeah Yeah Yeahs:The Cure
+Nine Inch Nails:Korn
+Beyoncé:Katy Perry
+Nirvana:Interpol
+Coldplay:Nickelback
+The White Stripes:Paramore
+The Offspring:Franz Ferdinand
+The Smiths:Lady Gaga
+The Cure:Three Days Grace
+Marilyn Manson:Blur
+Oasis:Slipknot
+Deftones:Red Hot Chili Peppers
+Nine Inch Nails:Modest Mouse
+Rise Against:The Used
+Taylor Swift:Bloc Party
+Belle and Sebastian:Ramones
+Breaking Benjamin:Vampire Weekend
+The Prodigy:Nine Inch Nails
+Metallica:Guns N' Roses
+Christina Aguilera:Rammstein
+Beyoncé:Marilyn Manson
+Guns N' Roses:Nine Inch Nails
+Snow Patrol:Amy Winehouse
+Madonna:Belle and Sebastian
+Iron Maiden:3OH!3
+Queens of the Stone Age:Michael Jackson
+Beck:The All-American Rejects
+Pearl Jam:Slipknot
+The Smashing Pumpkins:Ke$ha
+Depeche Mode:The Prodigy
+The All-American Rejects:AC/DC
+30 Seconds to Mars:Megadeth
+Phoenix:Katy Perry
+Three Days Grace:Metallica
+Beyoncé:Bob Dylan
+Queen:Korn
+The Doors:Kings of Leon
+Nirvana:Keane
+Snow Patrol:Keane
+Muse:Joy Division
+Nine Inch Nails:Belle and Sebastian
+Queens of the Stone Age:Tool
+Metallica:Eminem
+Paramore:Beyoncé
+Daft Punk:Black Eyed Peas
+Katy Perry:The Beatles
+Massive Attack:System of a Down
+Deftones:Evanescence
+Papa Roach:Children of Bodom
+3OH!3:Eminem
+Oasis:Eminem
+Lily Allen:Foo Fighters
+Coldplay:The All-American Rejects
+Deftones:Foo Fighters
+Marilyn Manson:Foo Fighters
+System of a Down:Queen
+Joy Division:Katy Perry
+Daft Punk:The Who
+The Clash:Coldplay
+Vampire Weekend:System of a Down
+Fall Out Boy:Coldplay
+Breaking Benjamin:Kings of Leon
+Coldplay:Daft Punk
+U2:Nightwish
+The Doors:System of a Down
+The All-American Rejects:Sigur Rós
+Children of Bodom:Amy Winehouse
+Led Zeppelin:The White Stripes
+Coldplay:Rammstein
+Britney Spears:Metallica
+Phoenix:30 Seconds to Mars
+Korn:Coldplay
+All Time Low:Lady Gaga
+Eminem:Children of Bodom
+Eminem:Weezer
+The Doors:Avril Lavigne
+Metallica:Madonna
+System of a Down:Beck
+A Perfect Circle:My Chemical Romance
+Tegan and Sara:The xx
+A Perfect Circle:Papa Roach
+Coldplay:Iron Maiden
+My Chemical Romance:Weezer
+Florence + the Machine:Beck
+David Bowie:Alice in Chains
+Green Day:Black Sabbath
+Papa Roach:Disturbed
+The xx:The Strokes
+Green Day:Modest Mouse
+Lady Gaga:The Doors
+Breaking Benjamin:Kasabian
+Incubus:The Killers
+Slayer:Placebo
+Panic! At the Disco:Lady Gaga
+Weezer:Led Zeppelin
+Kasabian:Amy Winehouse
+Björk:Massive Attack
+Evanescence:Yeah Yeah Yeahs
+Radiohead:Led Zeppelin
+AC/DC:Aerosmith
+Papa Roach:Rise Against
+Rihanna:Black Eyed Peas
+Kasabian:Portishead
+Children of Bodom:AC/DC
+My Chemical Romance:The Who
+Nickelback:Black Eyed Peas
+Amy Winehouse:Kings of Leon
+Evanescence:David Bowie
+Queens of the Stone Age:Regina Spektor
+Portishead:The Cure
+3OH!3:The Smiths
+Madonna:Black Eyed Peas
+The Offspring:Regina Spektor
+Pixies:Massive Attack
+Bullet for My Valentine:Deftones
+Björk:Kanye West
+Madonna:Taylor Swift
+Incubus:Bloc Party
+Red Hot Chili Peppers:Portishead
+Megadeth:Slayer
+Phoenix:Björk
+Cobra Starship:Björk
+Queen:Red Hot Chili Peppers
+Muse:Madonna
+The Smashing Pumpkins:The Smiths
+The Offspring:Amy Winehouse
+U2:Marilyn Manson
+The Used:Black Eyed Peas
+Evanescence:Nirvana
+Snow Patrol:Beyoncé
+Led Zeppelin:MGMT
+Muse:The Rolling Stones
+Ke$ha:Kanye West
+Belle and Sebastian:Lily Allen
+Rise Against:30 Seconds to Mars
+The Rolling Stones:Linkin Park
+Coldplay:Britney Spears
+Rise Against:Christina Aguilera
+Depeche Mode:Incubus
+Pixies:Pearl Jam
+Blur:Beck
+Interpol:All Time Low
+30 Seconds to Mars:Slayer
+The Offspring:Muse
+Cobra Starship:The Doors
+Bob Dylan:Amy Winehouse
+Fall Out Boy:Ramones
+Amy Winehouse:Lily Allen
+Beck:Megadeth
+Britney Spears:Blur
+Kings of Leon:Rammstein
+blink-182:Fall Out Boy
+Foo Fighters:Three Days Grace
+Crystal Castles:Taylor Swift
+Death Cab for Cutie:Rihanna
+Deftones:Pixies
+Panic! At the Disco:Joy Division
+Green Day:Beyoncé
+Korn:The Kooks
+The Beatles:30 Seconds to Mars
+Avenged Sevenfold:Michael Jackson
+David Bowie:Incubus
+Disturbed:Keane
+The Offspring:Phoenix
+Madonna:Disturbed
+The Doors:Britney Spears
+Queen:Slipknot
+Placebo:Avril Lavigne
+Yeah Yeah Yeahs:Arctic Monkeys
+Snow Patrol:Cobra Starship
+Katy Perry:Regina Spektor
+Linkin Park:Pearl Jam
+Avenged Sevenfold:Avril Lavigne
+Aerosmith:The Cure
+Nirvana:Alice in Chains
+Nightwish:3OH!3
+Phoenix:Bob Dylan
+Daft Punk:Panic! At the Disco
+Daft Punk:Ke$ha
+Evanescence:Rammstein
+Regina Spektor:Kanye West
+Kings of Leon:Three Days Grace
+The Smiths:System of a Down
+Bullet for My Valentine:The Used
+Disturbed:Gorillaz
+Pink Floyd:Modest Mouse
+Nickelback:Disturbed
+Crystal Castles:Queen
+Slayer:The xx
+A Perfect Circle:Queens of the Stone Age
+The All-American Rejects:Arctic Monkeys
+Michael Jackson:Black Sabbath
+U2:Lily Allen
+Queen:Alice in Chains
+Incubus:Breaking Benjamin
+Avril Lavigne:MGMT
+Avril Lavigne:Portishead
+Guns N' Roses:The Smashing Pumpkins
+Beck:Aerosmith
+Sigur Rós:Modest Mouse
+Jimi Hendrix:Joy Division
+Death Cab for Cutie:Cobra Starship
+Kasabian:Rammstein
+Weezer:Slipknot
+Joy Division:Michael Jackson
+Massive Attack:Slayer
+Lily Allen:Bob Dylan
+Marilyn Manson:The Offspring
+Kings of Leon:Led Zeppelin
+Red Hot Chili Peppers:Nine Inch Nails
+Madonna:Ke$ha
+The Clash:Marilyn Manson
+The xx:Muse
+Christina Aguilera:Rihanna
+Beck:Metallica
+Depeche Mode:U2
+Opeth:Nickelback
+Blur:Deftones
+Interpol:My Chemical Romance
+The Used:The Offspring
+Weezer:The Who
+Nightwish:Papa Roach
+Bloc Party:Blur
+Avenged Sevenfold:Opeth
+Modest Mouse:Bob Dylan
+Kanye West:Breaking Benjamin
+Queen:Panic! At the Disco
+The All-American Rejects:Gorillaz
+The Who:Amy Winehouse
+Linkin Park:The Cure
+The Clash:Taylor Swift
+Daft Punk:The Cure
+Björk:System of a Down
+Blur:Yeah Yeah Yeahs
+Iron Maiden:The Who
+Kings of Leon:Lily Allen
+System of a Down:30 Seconds to Mars
+Nirvana:Iron Maiden
+Slayer:Linkin Park
+Nightwish:Paramore
+Breaking Benjamin:The Kooks
+Death Cab for Cutie:Incubus
+Modest Mouse:The Used
+Marilyn Manson:System of a Down
+Opeth:AC/DC
+30 Seconds to Mars:Snow Patrol
+AC/DC:Björk
+The Kooks:The White Stripes
+Tool:Nirvana
+Three Days Grace:Incubus
+Radiohead:Arctic Monkeys
+Phoenix:Pearl Jam
+Coldplay:Regina Spektor
+Green Day:Rammstein
+Vampire Weekend:Bloc Party
+Pink Floyd:Amy Winehouse
+Slipknot:Gorillaz
+Kanye West:System of a Down
+Rise Against:blink-182
+Nine Inch Nails:Iron Maiden
+The Killers:Black Eyed Peas
+The Clash:Rise Against
+Megadeth:3OH!3
+Gorillaz:Children of Bodom
+Three Days Grace:Snow Patrol
+Three Days Grace:Panic! At the Disco
+Ramones:Slipknot
+Rammstein:Blur
+Radiohead:The Clash
+Madonna:Depeche Mode
+Children of Bodom:Regina Spektor
+Aerosmith:Avenged Sevenfold
+Britney Spears:Papa Roach
+Nine Inch Nails:Green Day
+Blur:Nine Inch Nails
+Tool:Tegan and Sara
+Cobra Starship:David Bowie
+Three Days Grace:Depeche Mode
+Muse:The Clash
+Kanye West:Phoenix
+Radiohead:The Cure
+Britney Spears:Franz Ferdinand
+Kings of Leon:David Bowie
+Blur:Bob Dylan
+My Chemical Romance:Katy Perry
+Arctic Monkeys:Rammstein
+Christina Aguilera:3OH!3
+Breaking Benjamin:Gorillaz
+Slayer:Amy Winehouse
+Coldplay:Pixies
+The Doors:Metallica
+The All-American Rejects:Kanye West
+Vampire Weekend:Lily Allen
+Iron Maiden:Foo Fighters
+Pixies:The Killers
+The Cure:The Killers
+Red Hot Chili Peppers:Avenged Sevenfold
+Rihanna:Keane
+Depeche Mode:Joy Division
+Tool:The Prodigy
+Children of Bodom:Snow Patrol
+Avril Lavigne:Kasabian
+The Prodigy:David Bowie
+Metallica:Nickelback
+Yeah Yeah Yeahs:Avril Lavigne
+Madonna:Interpol
+Three Days Grace:Madonna
+Joy Division:Evanescence
+Radiohead:The All-American Rejects
+Lady Gaga:Beyoncé
+Michael Jackson:AC/DC
+Radiohead:3OH!3
+Weezer:Pink Floyd
+Modest Mouse:The White Stripes
+Panic! At the Disco:Avenged Sevenfold
+Rihanna:Nine Inch Nails
+Kings of Leon:Nickelback
+Alice in Chains:Green Day
+Red Hot Chili Peppers:Daft Punk
+The Doors:AC/DC
+Muse:Amy Winehouse
+Kings of Leon:The All-American Rejects
+Bloc Party:Slipknot
+Death Cab for Cutie:Black Sabbath
+Panic! At the Disco:Avril Lavigne
+Placebo:Britney Spears
+A Perfect Circle:Panic! At the Disco
+Tegan and Sara:A Perfect Circle
+Pearl Jam:The Clash
+AC/DC:Phoenix
+Snow Patrol:Placebo
+Red Hot Chili Peppers:Bullet for My Valentine
+Opeth:The Prodigy
+The All-American Rejects:Pixies
+Snow Patrol:Alice in Chains
+The Doors:Taylor Swift
+The Killers:David Bowie
+Nine Inch Nails:Led Zeppelin
+Avenged Sevenfold:Black Eyed Peas
+Kanye West:Disturbed
+Crystal Castles:Rise Against
+Beyoncé:Phoenix
+Deftones:The Kooks
+Megadeth:The Clash
+Pink Floyd:Phoenix
+blink-182:Portishead
+Avril Lavigne:Papa Roach
+Black Eyed Peas:Nirvana
+Nickelback:Ke$ha
+The xx:Cobra Starship
+Alice in Chains:AC/DC
+Fall Out Boy:U2
+Lady Gaga:Weezer
+Arctic Monkeys:AC/DC
+Beyoncé:Pink Floyd
+Paramore:Kasabian
+Aerosmith:Depeche Mode
+Sigur Rós:Britney Spears
+Paramore:Interpol
+Keane:Katy Perry
+The Smiths:U2
+The Offspring:The Strokes
+Katy Perry:MGMT
+Cobra Starship:Katy Perry
+Children of Bodom:Kings of Leon
+Depeche Mode:Bullet for My Valentine
+The xx:Oasis
+The Kooks:Madonna
+Nightwish:Aerosmith
+The Smiths:Bob Dylan
+Florence + the Machine:Panic! At the Disco
+Radiohead:Marilyn Manson
+Michael Jackson:U2
+Snow Patrol:Depeche Mode
+The Offspring:The Smiths
+Rammstein:Tool
+Björk:Joy Division
+Beck:Black Eyed Peas
+Avenged Sevenfold:Rise Against
+Green Day:Korn
+Regina Spektor:Nickelback
+Björk:Katy Perry
+Three Days Grace:Vampire Weekend
+Beyoncé:Florence + the Machine
+Bullet for My Valentine:The Prodigy
+Snow Patrol:Rammstein
+AC/DC:Sigur Rós
+Cobra Starship:Paramore
+The Rolling Stones:blink-182
+3OH!3:Michael Jackson
+All Time Low:Metallica
+Bob Dylan:Pixies
+Cobra Starship:blink-182
+Crystal Castles:Katy Perry
+Alice in Chains:Black Eyed Peas
+Kasabian:AC/DC
+Deftones:The Smashing Pumpkins
+Children of Bodom:The Beatles
+3OH!3:Children of Bodom
+Tegan and Sara:Kings of Leon
+The Cure:Weezer
+Weezer:Megadeth
+The Beatles:Rihanna
+A Perfect Circle:Alice in Chains
+Bob Dylan:blink-182
+Depeche Mode:Breaking Benjamin
+Metallica:Cobra Starship
+Death Cab for Cutie:Radiohead
+Nickelback:Rammstein
+Metallica:Oasis
+Florence + the Machine:AC/DC
+The Rolling Stones:Korn
+The Rolling Stones:Ke$ha
+Interpol:U2
+Nightwish:Megadeth
+Black Eyed Peas:The Rolling Stones
+Queen:Bob Dylan
+Daft Punk:Korn
+Belle and Sebastian:The Smiths
+Ramones:Crystal Castles
+Kasabian:Black Eyed Peas
+David Bowie:Christina Aguilera
+The Strokes:Slayer
+Placebo:David Bowie
+Beck:The Cure
+Nickelback:Vampire Weekend
+Muse:Vampire Weekend
+MGMT:Christina Aguilera
+Paramore:The Killers
+My Chemical Romance:System of a Down
+Megadeth:Muse
+Amy Winehouse:The Strokes
+Snow Patrol:Rihanna
+The Kooks:Amy Winehouse
+Coldplay:Florence + the Machine
+Rihanna:Rise Against
+Disturbed:Korn
+Opeth:Marilyn Manson
+The Smiths:Eminem
+Paramore:Coldplay
+Red Hot Chili Peppers:Disturbed
+Panic! At the Disco:Keane
+Crystal Castles:Arctic Monkeys
+Gorillaz:Cobra Starship
+Aerosmith:The Doors
+Queens of the Stone Age:The Doors
+Madonna:The White Stripes
+Pink Floyd:Breaking Benjamin
+Nirvana:Katy Perry
+The Clash:Breaking Benjamin
+Foo Fighters:Death Cab for Cutie
+Black Eyed Peas:The Cure
+Franz Ferdinand:Joy Division
+David Bowie:Björk
+Iron Maiden:Muse
+Yeah Yeah Yeahs:Depeche Mode
+Linkin Park:Tool
+Ramones:The All-American Rejects
+Nine Inch Nails:The Beatles
+Nirvana:Bloc Party
+Korn:Crystal Castles
+Kasabian:The Kooks
+U2:Kasabian
+Avril Lavigne:3OH!3
+Cobra Starship:Sigur Rós
+The Smiths:The Used
+Iron Maiden:The Prodigy
+Red Hot Chili Peppers:Tool
+Green Day:Megadeth
+Madonna:Slipknot
+The Strokes:Placebo
+Black Sabbath:Kanye West
+Papa Roach:Breaking Benjamin
+Coldplay:Rise Against
+Nightwish:Daft Punk
+Joy Division:Madonna
+Ramones:Vampire Weekend
+Evanescence:The Rolling Stones
+U2:Belle and Sebastian
+Lady Gaga:The Smashing Pumpkins
+Black Eyed Peas:Keane
+Keane:Incubus
+The Strokes:Weezer
+Depeche Mode:Nightwish
+Nine Inch Nails:Metallica
+Incubus:Katy Perry
+The Strokes:Britney Spears
+Incubus:Modest Mouse
+Michael Jackson:Interpol
+Lady Gaga:Kanye West
+The Who:Björk
+Black Eyed Peas:Death Cab for Cutie
+Megadeth:Michael Jackson
+Ramones:The Smiths
+Crystal Castles:Pixies
+Avenged Sevenfold:Madonna
+Korn:Black Eyed Peas
+Lily Allen:Pearl Jam
+The xx:Avenged Sevenfold
+Crystal Castles:Lily Allen
+Nirvana:Incubus
+Black Sabbath:The Cure
+Disturbed:Three Days Grace
+The Strokes:Snow Patrol
+The Smashing Pumpkins:Blur
+Michael Jackson:Foo Fighters
+Portishead:Black Eyed Peas
+Death Cab for Cutie:Björk
+Deftones:Beyoncé
+Ke$ha:The Kooks
+Belle and Sebastian:The Clash
+Fall Out Boy:Papa Roach
+Three Days Grace:Queen
+The Rolling Stones:Beyoncé
+My Chemical Romance:3OH!3
+Cobra Starship:Kings of Leon
+Children of Bodom:Massive Attack
+Michael Jackson:Papa Roach
+The Killers:The White Stripes
+Interpol:Snow Patrol
+Bob Dylan:The Offspring
+Amy Winehouse:Beck
+The xx:Franz Ferdinand
+Eminem:David Bowie
+Nine Inch Nails:Daft Punk
+Interpol:Depeche Mode
+Slayer:Sigur Rós
+Korn:Pearl Jam
+Pixies:Snow Patrol
+A Perfect Circle:Linkin Park
+Christina Aguilera:blink-182
+All Time Low:Snow Patrol
+Rise Against:Joy Division
+3OH!3:Linkin Park
+Belle and Sebastian:Vampire Weekend
+Pixies:Fall Out Boy
+Aerosmith:Slayer
+Regina Spektor:Eminem
+Iron Maiden:Eminem
+Nightwish:The Killers
+blink-182:Rammstein
+The Who:Placebo
+Kanye West:Michael Jackson
+My Chemical Romance:Guns N' Roses
+Rammstein:The Rolling Stones
+Katy Perry:Marilyn Manson
+U2:Regina Spektor
+The All-American Rejects:My Chemical Romance
+Tegan and Sara:Britney Spears
+U2:Modest Mouse
+Amy Winehouse:Björk
+Kasabian:Rihanna
+Cobra Starship:Oasis
+Franz Ferdinand:Bullet for My Valentine
+Rise Against:Vampire Weekend
+Franz Ferdinand:Placebo
+Avril Lavigne:Muse
+Oasis:The Rolling Stones
+The Smiths:Slipknot
+Kings of Leon:Red Hot Chili Peppers
+Weezer:Kanye West
+Megadeth:Daft Punk
+Modest Mouse:Franz Ferdinand
+The Clash:Incubus
+The Strokes:Michael Jackson
+Slipknot:Arctic Monkeys
+The Strokes:Fall Out Boy
+Taylor Swift:Blur
+My Chemical Romance:Evanescence
+The Beatles:Radiohead
+Disturbed:Lily Allen
+Queen:Slayer
+Queens of the Stone Age:The Clash
+Regina Spektor:Incubus
+The Smiths:Michael Jackson
+Queens of the Stone Age:Breaking Benjamin
+Keane:3OH!3
+Interpol:Rihanna
+Eminem:Michael Jackson
+The Who:Depeche Mode
+Kanye West:Depeche Mode
+Björk:Eminem
+Radiohead:Keane
+Crystal Castles:Aerosmith
+Cobra Starship:Red Hot Chili Peppers
+All Time Low:Bob Dylan
+Lily Allen:The Who
+Christina Aguilera:Björk
+Coldplay:Lily Allen
+Breaking Benjamin:Queen
+Madonna:Lily Allen
+Rammstein:Daft Punk
+Cobra Starship:Incubus
+Disturbed:Jimi Hendrix
+Linkin Park:Queen
+A Perfect Circle:Massive Attack
+Weezer:Guns N' Roses
+The Beatles:Michael Jackson
+Pink Floyd:A Perfect Circle
+Deftones:Alice in Chains
+Aerosmith:Daft Punk
+Keane:Pixies
+Disturbed:The Prodigy
+Gorillaz:The Clash
+Radiohead:Katy Perry
+Children of Bodom:Radiohead
+Massive Attack:Keane
+The Doors:The Who
+Pearl Jam:The Killers
+Foo Fighters:Disturbed
+Metallica:Christina Aguilera
+Green Day:The All-American Rejects
+Queen:Marilyn Manson
+Alice in Chains:System of a Down
+The Used:Belle and Sebastian
+Christina Aguilera:Queens of the Stone Age
+AC/DC:A Perfect Circle
+Christina Aguilera:Gorillaz
+Massive Attack:Kanye West
+U2:Massive Attack
+The Used:Michael Jackson
+Green Day:Rise Against
+The Prodigy:The Killers
+Yeah Yeah Yeahs:Joy Division
+Queen:The White Stripes
+Kings of Leon:Evanescence
+My Chemical Romance:Lady Gaga
+The Clash:Lady Gaga
+Slayer:Children of Bodom
+Alice in Chains:Keane
+Eminem:The Clash
+Florence + the Machine:blink-182
+Britney Spears:Kings of Leon
+Daft Punk:Guns N' Roses
+My Chemical Romance:The Prodigy
+The Cure:Regina Spektor
+Kings of Leon:Nine Inch Nails
+Korn:U2
+The Doors:The Smiths
+Beyoncé:Lily Allen
+Depeche Mode:Pink Floyd
+Led Zeppelin:The Killers
+Beck:Crystal Castles
+Weezer:Joy Division
+Florence + the Machine:Vampire Weekend
+Pink Floyd:Nickelback
+Daft Punk:Green Day
+Black Eyed Peas:The Clash
+Aerosmith:The Prodigy
+Ke$ha:Snow Patrol
+Modest Mouse:The Smiths
+Crystal Castles:My Chemical Romance
+System of a Down:Pixies
+Red Hot Chili Peppers:The Clash
+Iron Maiden:Keane
+Guns N' Roses:Breaking Benjamin
+Lady Gaga:Guns N' Roses
+The Beatles:The Killers
+All Time Low:blink-182
+Britney Spears:Michael Jackson
+Deftones:Tool
+The Cure:The Offspring
+The Clash:Bloc Party
+Radiohead:Belle and Sebastian
+Franz Ferdinand:David Bowie
+Avril Lavigne:The Smashing Pumpkins
+Björk:Crystal Castles
+Queen:Black Eyed Peas
+Weezer:Michael Jackson
+Slayer:blink-182
+Foo Fighters:Modest Mouse
+Björk:My Chemical Romance
+Nirvana:Blur
+Gorillaz:Regina Spektor
+Belle and Sebastian:MGMT
+Three Days Grace:Pixies
+The All-American Rejects:Nine Inch Nails
+Keane:U2
+Three Days Grace:Katy Perry
+The Clash:Katy Perry
+Black Eyed Peas:AC/DC
+Jimi Hendrix:The Offspring
+Yeah Yeah Yeahs:Cobra Starship
+Linkin Park:Avril Lavigne
+Michael Jackson:The Killers
+Queen:Evanescence
+The Smiths:Slayer
+My Chemical Romance:Phoenix
+The Rolling Stones:Red Hot Chili Peppers
+Green Day:The Used
+Kasabian:The Doors
+Kasabian:Sigur Rós
+Franz Ferdinand:Korn
+Belle and Sebastian:Portishead
+The Rolling Stones:Joy Division
+Linkin Park:Disturbed
+The Clash:Panic! At the Disco
+The Cure:MGMT
+Amy Winehouse:Christina Aguilera
+Tool:The Clash
+A Perfect Circle:The Killers
+Breaking Benjamin:Metallica
+The White Stripes:Gorillaz
+Lady Gaga:Blur
+Guns N' Roses:Incubus
+Yeah Yeah Yeahs:Rammstein
+Arctic Monkeys:Beyoncé
+Eminem:Phoenix
+Avenged Sevenfold:Crystal Castles
+Panic! At the Disco:MGMT
+Nightwish:Coldplay
+The Clash:MGMT
+Crystal Castles:Foo Fighters
+Radiohead:Avenged Sevenfold
+Florence + the Machine:The Kooks
+Amy Winehouse:The Killers
+The Doors:Nirvana
+3OH!3:Pink Floyd
+Kings of Leon:Bloc Party
+Queen:3OH!3
+The xx:The Who
+Sigur Rós:Christina Aguilera
+Papa Roach:Metallica
+Kasabian:Depeche Mode
+Placebo:Bob Dylan
+MGMT:Gorillaz
+Radiohead:Green Day
+Lily Allen:Three Days Grace
+Ramones:The Who
+Eminem:Kanye West
+Iron Maiden:The Smashing Pumpkins
+The Who:Rihanna
+Arctic Monkeys:Korn
+Vampire Weekend:Disturbed
+MGMT:Radiohead
+The Beatles:Muse
+Amy Winehouse:Nirvana
+The Cure:Panic! At the Disco
+A Perfect Circle:Portishead
+Ke$ha:Deftones
+Black Eyed Peas:The Who
+Metallica:A Perfect Circle
+Muse:Portishead
+The Beatles:Placebo
+Franz Ferdinand:Metallica
+Three Days Grace:Black Sabbath
+U2:Beck
+Papa Roach:The White Stripes
+Cobra Starship:Ramones
+The Cure:Phoenix
+Tool:Rihanna
+Jimi Hendrix:Avenged Sevenfold
+Christina Aguilera:Florence + the Machine
+The Who:Queens of the Stone Age
+Iron Maiden:Beyoncé
+Kings of Leon:Green Day
+Daft Punk:Amy Winehouse
+Regina Spektor:Weezer
+Fall Out Boy:Lily Allen
+Guns N' Roses:Marilyn Manson
+Beck:Foo Fighters
+Modest Mouse:Radiohead
+Black Sabbath:Eminem
+Pink Floyd:Megadeth
+The xx:The Smashing Pumpkins
+Rihanna:AC/DC
+Avenged Sevenfold:Phoenix
+My Chemical Romance:Nickelback
+The Used:Papa Roach
+Aerosmith:The Kooks
+All Time Low:The Offspring
+Evanescence:Guns N' Roses
+The Beatles:Yeah Yeah Yeahs
+Kasabian:Linkin Park
+Fall Out Boy:Franz Ferdinand
+Britney Spears:Aerosmith
+Green Day:30 Seconds to Mars
+Keane:Regina Spektor
+The Beatles:Britney Spears
+The Cure:Deftones
+Korn:Joy Division
+Oasis:Slayer
+3OH!3:The Used
+Massive Attack:Red Hot Chili Peppers
+Queens of the Stone Age:Deftones
+Queen:Depeche Mode
+The Beatles:Massive Attack
+Depeche Mode:System of a Down
+Disturbed:Michael Jackson
+The Strokes:Death Cab for Cutie
+Björk:30 Seconds to Mars
+Rammstein:Nightwish
+Metallica:The All-American Rejects
+Children of Bodom:Coldplay
+The Used:The Smashing Pumpkins
+Papa Roach:Keane
+Ramones:The Cure
+3OH!3:Disturbed
+Linkin Park:Katy Perry
+Foo Fighters:Metallica
+Taylor Swift:All Time Low
+Deftones:Modest Mouse
+Snow Patrol:Black Eyed Peas
+Tegan and Sara:Opeth
+A Perfect Circle:Arctic Monkeys
+The Smiths:Sigur Rós
+Iron Maiden:30 Seconds to Mars
+Kasabian:Panic! At the Disco
+Queen:Iron Maiden
+Bob Dylan:Depeche Mode
+30 Seconds to Mars:Papa Roach
+Bob Dylan:Britney Spears
+Yeah Yeah Yeahs:Coldplay
+The Prodigy:The Offspring
+Placebo:Linkin Park
+The Beatles:Megadeth
+Led Zeppelin:The Rolling Stones
+Nirvana:Rihanna
+The Doors:Iron Maiden
+Fall Out Boy:Depeche Mode
+Phoenix:The Used
+30 Seconds to Mars:Gorillaz
+The Cure:Fall Out Boy
+The Prodigy:Amy Winehouse
+Foo Fighters:All Time Low
+Black Eyed Peas:Regina Spektor
+The xx:Daft Punk
+Slipknot:Evanescence
+Florence + the Machine:Pearl Jam
+Coldplay:30 Seconds to Mars
+Amy Winehouse:Weezer
+Nine Inch Nails:AC/DC
+Keane:David Bowie
+Kings of Leon:blink-182
+Pixies:Tool
+30 Seconds to Mars:Nine Inch Nails
+The Rolling Stones:The Offspring
+Ke$ha:Kasabian
+Yeah Yeah Yeahs:AC/DC
+Led Zeppelin:Cobra Starship
+Disturbed:Weezer
+Radiohead:Sigur Rós
+3OH!3:Kasabian
+A Perfect Circle:Oasis
+Gorillaz:Pixies
+Breaking Benjamin:Muse
+Tool:Interpol
+The Smiths:Red Hot Chili Peppers
+Breaking Benjamin:Panic! At the Disco
+Beyoncé:Pixies
+The Who:The Used
+Queens of the Stone Age:Blur
+AC/DC:Taylor Swift
+Avril Lavigne:The Cure
+Radiohead:Lily Allen
+Daft Punk:Paramore
+Megadeth:Three Days Grace
+Bloc Party:The White Stripes
+30 Seconds to Mars:Foo Fighters
+Rihanna:Black Sabbath
+Yeah Yeah Yeahs:U2
+The Clash:The Prodigy
+Korn:Muse
+David Bowie:Bullet for My Valentine
+Pink Floyd:The All-American Rejects
+blink-182:The xx
+The All-American Rejects:Blur
+Ke$ha:Rihanna
+Children of Bodom:Avenged Sevenfold
+Alice in Chains:Muse
+The Rolling Stones:The Used
+Kasabian:Iron Maiden
+Queens of the Stone Age:Portishead
+Kanye West:The xx
+The Used:System of a Down
+Nirvana:Guns N' Roses
+Modest Mouse:Bullet for My Valentine
+Weezer:The Killers
+The All-American Rejects:Incubus
+Britney Spears:Nine Inch Nails
+Children of Bodom:Pixies
+Nightwish:Yeah Yeah Yeahs
+David Bowie:Rise Against
+Evanescence:Phoenix
+Red Hot Chili Peppers:Fall Out Boy
+Korn:The Doors
+Metallica:Portishead
+David Bowie:Avenged Sevenfold
+Muse:Lily Allen
+Jimi Hendrix:30 Seconds to Mars
+The Kooks:Fall Out Boy
+Nightwish:Nine Inch Nails
+Weezer:Interpol
+Korn:Keane
+MGMT:Green Day
+Beyoncé:Red Hot Chili Peppers
+Rammstein:Jimi Hendrix
+Gorillaz:Jimi Hendrix
+Metallica:Black Eyed Peas
+The Beatles:Kings of Leon
+Death Cab for Cutie:Aerosmith
+Metallica:Kasabian
+Amy Winehouse:Aerosmith
+Interpol:Nightwish
+Korn:Tegan and Sara
+Daft Punk:The Prodigy
+Placebo:Megadeth
+The Beatles:Bullet for My Valentine
+Opeth:Beyoncé
+The Beatles:Queens of the Stone Age
+Coldplay:Three Days Grace
+System of a Down:Snow Patrol
+Oasis:Blur
+Megadeth:Gorillaz
+Kasabian:Incubus
+David Bowie:The Beatles
+Marilyn Manson:Evanescence
+Snow Patrol:Arctic Monkeys
+The Kooks:U2
+Iron Maiden:The White Stripes
+The Killers:Rihanna
+Katy Perry:The Offspring
+The Strokes:Pink Floyd
+Muse:Incubus
+Lily Allen:Taylor Swift
+The Strokes:Tool
+Bloc Party:Aerosmith
+Nickelback:Megadeth
+Nightwish:Metallica
+Paramore:Pearl Jam
+Depeche Mode:The Strokes
+Yeah Yeah Yeahs:The Offspring
+Placebo:Pixies
+Depeche Mode:Death Cab for Cutie
+Yeah Yeah Yeahs:30 Seconds to Mars
+The Used:Madonna
+Crystal Castles:The Kooks
+Britney Spears:Nickelback
+The Used:Kings of Leon
+The Clash:Cobra Starship
+The xx:Coldplay
+U2:Jimi Hendrix
+The Cure:David Bowie
+Green Day:3OH!3
+Fall Out Boy:The Clash
+Rammstein:MGMT
+Guns N' Roses:A Perfect Circle
+Bloc Party:David Bowie
+Slipknot:Coldplay
+The Cure:Björk
+Queen:Rammstein
+Disturbed:Green Day
+The Kooks:My Chemical Romance
+blink-182:Eminem
+Jimi Hendrix:Three Days Grace
+Kasabian:Crystal Castles
+The Prodigy:Phoenix
+Rihanna:Evanescence
+Radiohead:The Killers
+Taylor Swift:Rammstein
+The Doors:Rihanna
+Arctic Monkeys:U2
+The xx:Rise Against
+Eminem:Britney Spears
+Led Zeppelin:Linkin Park
+Sigur Rós:The White Stripes
+Avenged Sevenfold:Lily Allen
+A Perfect Circle:Incubus
+Blur:Massive Attack
+Coldplay:Slayer
+Madonna:Portishead
+Bullet for My Valentine:Kasabian
+Pink Floyd:Joy Division
+The Who:3OH!3
+Tegan and Sara:Weezer
+Vampire Weekend:Jimi Hendrix
+blink-182:Black Sabbath
+Tegan and Sara:Iron Maiden
+Queen:The Clash
+Paramore:Slayer
+MGMT:Pink Floyd
+Children of Bodom:Pearl Jam
+Amy Winehouse:Phoenix
+Breaking Benjamin:The Cure
+Muse:AC/DC
+Daft Punk:The Clash
+Lady Gaga:Michael Jackson
+Panic! At the Disco:Beck
+The Kooks:Snow Patrol
+Tool:Alice in Chains
+The Beatles:Metallica
+The Smashing Pumpkins:Queen
+The Prodigy:Queen
+Modest Mouse:Amy Winehouse
+Green Day:Led Zeppelin
+Rihanna:My Chemical Romance
+Lady Gaga:Metallica
+The Strokes:AC/DC
+Death Cab for Cutie:Coldplay
+Panic! At the Disco:Aerosmith
+All Time Low:Ke$ha
+Red Hot Chili Peppers:David Bowie
+The Clash:Blur
+Marilyn Manson:Tool
+Pearl Jam:Guns N' Roses
+Bloc Party:Black Eyed Peas
+Nickelback:AC/DC
+Led Zeppelin:Avenged Sevenfold
+Jimi Hendrix:Slipknot
+Interpol:Nine Inch Nails
+Jimi Hendrix:Linkin Park
+U2:Bullet for My Valentine
+A Perfect Circle:Queen
+A Perfect Circle:The Prodigy
+Nightwish:The Smashing Pumpkins
+Rise Against:Metallica
+Jimi Hendrix:Radiohead
+Queens of the Stone Age:Yeah Yeah Yeahs
+Massive Attack:The All-American Rejects
+Lady Gaga:Opeth
+Death Cab for Cutie:Korn
+Britney Spears:Paramore
+The Used:The Clash
+Avenged Sevenfold:U2
+MGMT:Jimi Hendrix
+Led Zeppelin:The All-American Rejects
+Vampire Weekend:Beck
+Linkin Park:Evanescence
+Radiohead:Interpol
+Children of Bodom:Black Sabbath
+Tool:Lady Gaga
+Muse:The Kooks
+Beyoncé:blink-182
+Madonna:Björk
+The Strokes:Jimi Hendrix
+Regina Spektor:The White Stripes
+Oasis:Kasabian
+Metallica:AC/DC
+My Chemical Romance:Florence + the Machine
+David Bowie:Slipknot
+Snow Patrol:Yeah Yeah Yeahs
+The Rolling Stones:Björk
+blink-182:Death Cab for Cutie
+Placebo:Gorillaz
+Daft Punk:Death Cab for Cutie
+Nickelback:Incubus
+Franz Ferdinand:Nightwish
+Green Day:Michael Jackson
+The Used:The xx
+The Who:Crystal Castles
+Slayer:Alice in Chains
+Muse:Modest Mouse
+U2:Panic! At the Disco
+Marilyn Manson:Queens of the Stone Age
+Iron Maiden:A Perfect Circle
+The Beatles:Panic! At the Disco
+Kasabian:Deftones
+Amy Winehouse:Tegan and Sara
+Panic! At the Disco:Slayer
+Beck:Belle and Sebastian
+Lady Gaga:Foo Fighters
+30 Seconds to Mars:Deftones
+Nine Inch Nails:Megadeth
+Linkin Park:Iron Maiden
+Incubus:The Who
+Iron Maiden:Black Eyed Peas
+The Doors:Fall Out Boy
+MGMT:Ramones
+Beck:Kings of Leon
+The Offspring:Modest Mouse
+Placebo:Sigur Rós
+Alice in Chains:Phoenix
+30 Seconds to Mars:Eminem
+Death Cab for Cutie:Red Hot Chili Peppers
+The Smiths:Panic! At the Disco
+Marilyn Manson:Red Hot Chili Peppers
+The Strokes:Children of Bodom
+Jimi Hendrix:The Prodigy
+Nine Inch Nails:Björk
+The Rolling Stones:The Smashing Pumpkins
+Nirvana:Regina Spektor
+Alice in Chains:The Offspring
+Modest Mouse:System of a Down
+The Rolling Stones:The Cure
+Incubus:Rammstein
+Joy Division:Rammstein
+Guns N' Roses:Paramore
+Lady Gaga:Christina Aguilera
+30 Seconds to Mars:Red Hot Chili Peppers
+Queens of the Stone Age:Incubus
+Bloc Party:Red Hot Chili Peppers
+Ke$ha:Modest Mouse
+Arctic Monkeys:Iron Maiden
+Linkin Park:Yeah Yeah Yeahs
+Crystal Castles:Red Hot Chili Peppers
+The Kooks:Iron Maiden
+Black Eyed Peas:Blur
+Fall Out Boy:Deftones
+Franz Ferdinand:Interpol
+Bloc Party:Fall Out Boy
+The Cure:Foo Fighters
+Panic! At the Disco:Interpol
+Madonna:Nightwish
+David Bowie:The White Stripes
+Radiohead:Korn
+Led Zeppelin:Slayer
+Kings of Leon:The Rolling Stones
+Incubus:Daft Punk
+Lady Gaga:Madonna
+Tool:Black Sabbath
+Children of Bodom:All Time Low
+Keane:Pink Floyd
+The Killers:3OH!3
+Deftones:My Chemical Romance
+Keane:The Rolling Stones
+Breaking Benjamin:Oasis
+Eminem:Madonna
+The Cure:Slayer
+The Doors:Snow Patrol
+blink-182:System of a Down
+Weezer:Iron Maiden
+Paramore:Florence + the Machine
+Interpol:Florence + the Machine
+The Killers:Florence + the Machine
+Massive Attack:Black Sabbath
+Tegan and Sara:Paramore
+Nirvana:Megadeth
+3OH!3:Weezer
+The Doors:Arctic Monkeys
+Avril Lavigne:Vampire Weekend
+Kasabian:The White Stripes
+Linkin Park:Gorillaz
+MGMT:Interpol
+Rise Against:AC/DC
+Florence + the Machine:Iron Maiden
+Guns N' Roses:Slayer
+Korn:Foo Fighters
+Black Eyed Peas:System of a Down
+Kings of Leon:Black Sabbath
+Yeah Yeah Yeahs:Christina Aguilera
+30 Seconds to Mars:Ramones
+System of a Down:All Time Low
+Franz Ferdinand:Iron Maiden
+Queens of the Stone Age:Metallica
+Megadeth:Bloc Party
+Alice in Chains:Led Zeppelin
+Evanescence:Radiohead
+Children of Bodom:Kanye West
+Nickelback:The Cure
+Bullet for My Valentine:Children of Bodom
+Franz Ferdinand:Three Days Grace
+Snow Patrol:Phoenix
+Slayer:Queens of the Stone Age
+Arctic Monkeys:Fall Out Boy
+Depeche Mode:Nickelback
+Yeah Yeah Yeahs:Korn
+A Perfect Circle:Foo Fighters
+Disturbed:Bob Dylan
+Depeche Mode:Oasis
+The All-American Rejects:Christina Aguilera
+Red Hot Chili Peppers:Amy Winehouse
+Taylor Swift:Bob Dylan
+Taylor Swift:Aerosmith
+Black Sabbath:All Time Low
+Green Day:Eminem
+Opeth:Breaking Benjamin
+Radiohead:The Who
+Pearl Jam:Yeah Yeah Yeahs
+Avril Lavigne:Black Sabbath
+Opeth:Incubus
+Aerosmith:Avril Lavigne
+Taylor Swift:Belle and Sebastian
+Aerosmith:Slipknot
+The xx:Children of Bodom
+The Beatles:Slayer
+The Rolling Stones:The Who
+blink-182:Led Zeppelin
+The Clash:Avril Lavigne
+Massive Attack:Tegan and Sara
+The Cure:The Used
+The Doors:Christina Aguilera
+Children of Bodom:Slipknot
+Michael Jackson:Breaking Benjamin
+Radiohead:Kasabian
+Ke$ha:Placebo
+Depeche Mode:The Smiths
+Opeth:Pixies
+Belle and Sebastian:Kings of Leon
+Slipknot:Björk
+Linkin Park:Nirvana
+Panic! At the Disco:blink-182
+Bloc Party:Queens of the Stone Age
+Megadeth:Metallica
+Beyoncé:Kings of Leon
+Florence + the Machine:The Beatles
+Björk:Weezer
+Joy Division:Britney Spears
+The Strokes:Deftones
+Daft Punk:Taylor Swift
+Depeche Mode:Regina Spektor
+Avril Lavigne:Evanescence
+A Perfect Circle:Pixies
+Queens of the Stone Age:Massive Attack
+Ramones:Oasis
+The Doors:Green Day
+Kasabian:Placebo
+blink-182:Snow Patrol
+Slayer:Gorillaz
+Ke$ha:Aerosmith
+The White Stripes:Nirvana
+The Who:System of a Down
+Modest Mouse:AC/DC
+Daft Punk:Metallica
+Rise Against:Opeth
+Michael Jackson:Taylor Swift
+Slipknot:Katy Perry
+Avril Lavigne:The Strokes
+The Smashing Pumpkins:Depeche Mode
+The Used:Vampire Weekend
+Taylor Swift:Avril Lavigne
+Fall Out Boy:Led Zeppelin
+Aerosmith:Guns N' Roses
+The Smiths:The Who
+Gorillaz:David Bowie
+Arctic Monkeys:The Kooks
+Alice in Chains:The Rolling Stones
+Belle and Sebastian:The Rolling Stones
+Florence + the Machine:The Smashing Pumpkins
+Ke$ha:The Cure
+Taylor Swift:Depeche Mode
+Aerosmith:3OH!3
+The Smashing Pumpkins:Death Cab for Cutie
+Beck:Led Zeppelin
+Incubus:Portishead
+Guns N' Roses:Death Cab for Cutie
+Nickelback:Weezer
+The Kooks:Bob Dylan
+Florence + the Machine:Phoenix
+Oasis:Death Cab for Cutie
+Queen:Fall Out Boy
+Blur:Sigur Rós
+Evanescence:Jimi Hendrix
+The Used:David Bowie
+Iron Maiden:Red Hot Chili Peppers
+Phoenix:Lady Gaga
+Sigur Rós:Belle and Sebastian
+Tegan and Sara:Breaking Benjamin
+Florence + the Machine:Ke$ha
+Aerosmith:Metallica
+The Prodigy:Christina Aguilera
+Tool:U2
+The Smiths:MGMT
+Depeche Mode:Beyoncé
+Madonna:Keane
+Ramones:The Killers
+Avril Lavigne:The Kooks
+The Prodigy:Beyoncé
+Nightwish:The Prodigy
+3OH!3:Papa Roach
+Nine Inch Nails:Papa Roach
+The Rolling Stones:Guns N' Roses
+Vampire Weekend:Coldplay
+Amy Winehouse:Gorillaz
+blink-182:Bloc Party
+Bullet for My Valentine:The Offspring
+Oasis:Phoenix
+The Strokes:Black Sabbath
+Lily Allen:Marilyn Manson
+Fall Out Boy:Yeah Yeah Yeahs
+Slipknot:Eminem
+Linkin Park:Incubus
+Nightwish:Oasis
+Megadeth:The Offspring
+blink-182:Disturbed
+Placebo:Christina Aguilera
+Kasabian:Queen
+blink-182:U2
+The Used:The Beatles
+Linkin Park:Radiohead
+Avril Lavigne:Keane
+The Prodigy:Kanye West
+The Beatles:Tool
+The Kooks:Metallica
+Daft Punk:Radiohead
+The Kooks:Children of Bodom
+Three Days Grace:Slayer
+Led Zeppelin:The xx
+Keane:Nickelback
+Queen:Vampire Weekend
+Metallica:Red Hot Chili Peppers
+Portishead:Bob Dylan
+Slipknot:Panic! At the Disco
+Ke$ha:Belle and Sebastian
+Tegan and Sara:Christina Aguilera
+Black Sabbath:The Rolling Stones
+Eminem:Blur
+Deftones:Amy Winehouse
+Nine Inch Nails:Michael Jackson
+Michael Jackson:Christina Aguilera
+Incubus:Children of Bodom
+Nickelback:The Kooks
+Children of Bodom:Joy Division
+Portishead:Blur
+Ke$ha:MGMT
+The White Stripes:Tool
+Depeche Mode:Katy Perry
+Nirvana:The Smiths
+Placebo:Fall Out Boy
+Iron Maiden:Black Sabbath
+The Killers:Belle and Sebastian
+30 Seconds to Mars:Nickelback
+The Used:Bob Dylan
+U2:Pink Floyd
+Tool:Florence + the Machine
+Radiohead:Black Eyed Peas
+All Time Low:30 Seconds to Mars
+Joy Division:Portishead
+Paramore:Yeah Yeah Yeahs
+Taylor Swift:The All-American Rejects
+Tegan and Sara:Lady Gaga
+All Time Low:Nickelback
+U2:Kanye West
+Kings of Leon:Tool
+Linkin Park:Bullet for My Valentine
+The Clash:The Who
+Placebo:Beyoncé
+Belle and Sebastian:Weezer
+Black Sabbath:Linkin Park
+Arctic Monkeys:The Prodigy
+Kings of Leon:Florence + the Machine
+Phoenix:Green Day
+Pink Floyd:Evanescence
+Paramore:The Rolling Stones
+Bullet for My Valentine:Snow Patrol
+Alice in Chains:Guns N' Roses
+David Bowie:Marilyn Manson
+Nickelback:The Killers
+Rammstein:Crystal Castles
+Massive Attack:My Chemical Romance
+Fall Out Boy:Blur
+Green Day:Jimi Hendrix
+Pixies:Bloc Party
+Nirvana:Pixies
+Evanescence:Slayer
+Nickelback:The Clash
+Nirvana:Panic! At the Disco
+A Perfect Circle:The Offspring
+Beyoncé:The Used
+The Prodigy:The Beatles
+Fall Out Boy:Iron Maiden
+The Used:Korn
+Pixies:Red Hot Chili Peppers
+Korn:Nightwish
+Tegan and Sara:3OH!3
+Deftones:Pearl Jam
+Arctic Monkeys:Christina Aguilera
+Green Day:The Killers
+Rihanna:Franz Ferdinand
+The Cure:Sigur Rós
+Alice in Chains:Lady Gaga
+Eminem:Bob Dylan
+The Beatles:Kanye West
+Paramore:Michael Jackson
+Madonna:Rihanna
+The Kooks:Phoenix
+My Chemical Romance:Blur
+David Bowie:The Strokes
+The All-American Rejects:U2
+Bullet for My Valentine:Papa Roach
+Slipknot:The Kooks
+Joy Division:Incubus
+Black Eyed Peas:Rammstein
+30 Seconds to Mars:Radiohead
+Pearl Jam:U2
+The Doors:Pink Floyd
+Iron Maiden:Paramore
+System of a Down:Katy Perry
+Bullet for My Valentine:Kanye West
+30 Seconds to Mars:Linkin Park
+The Used:Ramones
+Gorillaz:Nine Inch Nails
+Children of Bodom:Nightwish
+Ke$ha:Oasis
+Madonna:Alice in Chains
+Massive Attack:Belle and Sebastian
+Slipknot:Kings of Leon
+The Cure:Disturbed
+Michael Jackson:Korn
+Florence + the Machine:Franz Ferdinand
+Kings of Leon:AC/DC
+Nightwish:The Clash
+Green Day:Lily Allen
+Nickelback:Oasis
+The xx:Avril Lavigne
+Jimi Hendrix:Queens of the Stone Age
+Evanescence:Death Cab for Cutie
+Red Hot Chili Peppers:Queens of the Stone Age
+Björk:Lily Allen
+Megadeth:Katy Perry
+The Doors:Bullet for My Valentine
+Modest Mouse:Breaking Benjamin
+Britney Spears:Nightwish
+Deftones:Nirvana
+Nirvana:Muse
+MGMT:Modest Mouse
+Christina Aguilera:System of a Down
+All Time Low:The All-American Rejects
+Metallica:The xx
+Belle and Sebastian:Michael Jackson
+A Perfect Circle:David Bowie
+Incubus:Evanescence
+Ke$ha:Cobra Starship
+blink-182:MGMT
+Kasabian:The Prodigy
+Franz Ferdinand:Beck
+Kings of Leon:Katy Perry
+Christina Aguilera:Iron Maiden
+Slayer:MGMT
+Weezer:Children of Bodom
+Fall Out Boy:Amy Winehouse
+The Prodigy:Black Eyed Peas
+Bullet for My Valentine:The Rolling Stones
+Queen:Nightwish
+3OH!3:Björk
+Tegan and Sara:Keane
+Keane:Placebo
+Oasis:Iron Maiden
+Disturbed:The Used
+Eminem:Foo Fighters
+Three Days Grace:Korn
+Coldplay:Guns N' Roses
+Korn:The All-American Rejects
+Queens of the Stone Age:Ramones
+Kasabian:Guns N' Roses
+All Time Low:The Kooks
+Cobra Starship:Rihanna
+The Killers:Lily Allen
+Avril Lavigne:Nirvana
+Depeche Mode:Weezer
+The Cure:The Prodigy
+All Time Low:The Strokes
+Marilyn Manson:Bloc Party
+Franz Ferdinand:Daft Punk
+The Killers:Britney Spears
+Disturbed:Nirvana
+The Who:Blur
+The Strokes:Bloc Party
+The Who:Interpol
+Foo Fighters:Black Sabbath
+Radiohead:Taylor Swift
+Daft Punk:Massive Attack
+Ke$ha:The White Stripes
+Queen:Avenged Sevenfold
+Bob Dylan:Snow Patrol
+Alice in Chains:Breaking Benjamin
+Portishead:The White Stripes
+All Time Low:Kasabian
+Guns N' Roses:Cobra Starship
+Metallica:Green Day
+Florence + the Machine:Britney Spears
+Incubus:Black Sabbath
+Phoenix:Black Eyed Peas
+Lady Gaga:Incubus
+Beck:The Kooks
+Franz Ferdinand:Paramore
+The Beatles:Depeche Mode
+Nightwish:Katy Perry
+Rise Against:Jimi Hendrix
+Guns N' Roses:Ramones
+Deftones:Kings of Leon
+Queens of the Stone Age:Franz Ferdinand
+Madonna:System of a Down
+Phoenix:Beck
+Pearl Jam:Tegan and Sara
+Metallica:Avenged Sevenfold
+Arctic Monkeys:Coldplay
+Nirvana:The Killers
+Panic! At the Disco:Green Day
+The Offspring:Guns N' Roses
+blink-182:Keane
+Taylor Swift:Kasabian
+The Smashing Pumpkins:Katy Perry
+Modest Mouse:Papa Roach
+Nine Inch Nails:Marilyn Manson
+The All-American Rejects:Evanescence
+Yeah Yeah Yeahs:Beck
+30 Seconds to Mars:Rammstein
+Slayer:Ramones
+Radiohead:AC/DC
+Belle and Sebastian:Phoenix
+Jimi Hendrix:Bob Dylan
+AC/DC:Weezer
+Coldplay:Sigur Rós
+Vampire Weekend:Regina Spektor
+Ramones:The Clash
+Megadeth:Disturbed
+Aerosmith:Red Hot Chili Peppers
+Katy Perry:The Rolling Stones
+Kasabian:Green Day
+The All-American Rejects:The Doors
+Yeah Yeah Yeahs:Lily Allen
+Arctic Monkeys:Weezer
+Led Zeppelin:The Cure
+Incubus:Ke$ha
+30 Seconds to Mars:Katy Perry
+Depeche Mode:30 Seconds to Mars
+Christina Aguilera:Fall Out Boy
+Iron Maiden:Alice in Chains
+MGMT:Kanye West
+Michael Jackson:Opeth
+Taylor Swift:Lady Gaga
+Placebo:Björk
+Kasabian:Nightwish
+The Used:Lily Allen
+30 Seconds to Mars:The Kooks
+Rihanna:U2
+Bullet for My Valentine:Jimi Hendrix
+Eminem:MGMT
+AC/DC:The Kooks
+Rise Against:The Kooks
+The Prodigy:30 Seconds to Mars
+Black Sabbath:Weezer
+Slayer:A Perfect Circle
+Avenged Sevenfold:Slipknot
+Rammstein:Nirvana
+Kasabian:David Bowie
+Lily Allen:Aerosmith
+The Strokes:Kasabian
+Incubus:Eminem
+Eminem:The Beatles
+Interpol:Lily Allen
+Madonna:30 Seconds to Mars
+MGMT:Pixies
+30 Seconds to Mars:Kings of Leon
+Led Zeppelin:Tegan and Sara
+The Used:Blur
+30 Seconds to Mars:3OH!3
+Metallica:Muse
+Yeah Yeah Yeahs:Nickelback
+All Time Low:Florence + the Machine
+Bloc Party:Queen
+Gorillaz:Opeth
+The Offspring:Rammstein
+Pearl Jam:Panic! At the Disco
+Slayer:Black Eyed Peas
+Florence + the Machine:Red Hot Chili Peppers
+Red Hot Chili Peppers:Coldplay
+Depeche Mode:Deftones
+Bloc Party:Massive Attack
+The Used:30 Seconds to Mars
+Pink Floyd:Bob Dylan
+The Smashing Pumpkins:Coldplay
+Kings of Leon:Death Cab for Cutie
+Muse:Phoenix
+The Kooks:Incubus
+My Chemical Romance:All Time Low
+Eminem:Sigur Rós
+Weezer:Fall Out Boy
+Children of Bodom:Kasabian
+Pixies:Foo Fighters
+Deftones:Nickelback
+Interpol:The Strokes
+Papa Roach:Sigur Rós
+Nightwish:Fall Out Boy
+Gorillaz:System of a Down
+Three Days Grace:The Clash
+My Chemical Romance:Muse
+Katy Perry:3OH!3
+The Doors:Nickelback
+Radiohead:Megadeth
+Green Day:Kanye West
+Snow Patrol:Katy Perry
+Nightwish:Keane
+The Cure:The Smashing Pumpkins
+Bob Dylan:Foo Fighters
+Placebo:The White Stripes
+Bullet for My Valentine:Christina Aguilera
+3OH!3:Marilyn Manson
+Radiohead:Beck
+Yeah Yeah Yeahs:Katy Perry
+The Offspring:3OH!3
+Tool:The Who
+Korn:Portishead
+Avenged Sevenfold:Paramore
+The Rolling Stones:Lily Allen
+Queens of the Stone Age:Muse
+The Used:Panic! At the Disco
+Beyoncé:Aerosmith
+Portishead:The Smiths
+Death Cab for Cutie:Megadeth
+Pixies:The xx
+Muse:Foo Fighters
+Avril Lavigne:Oasis
+Fall Out Boy:MGMT
+Weezer:Coldplay
+Portishead:Gorillaz
+Death Cab for Cutie:Avril Lavigne
+Bloc Party:Panic! At the Disco
+Bullet for My Valentine:Black Sabbath
+Crystal Castles:The Offspring
+Sigur Rós:The Strokes
+The All-American Rejects:Placebo
+3OH!3:blink-182
+Amy Winehouse:Rihanna
+Madonna:blink-182
+Nine Inch Nails:Kanye West
+The Beatles:Nickelback
+Korn:Incubus
+Korn:Jimi Hendrix
+The Smashing Pumpkins:Panic! At the Disco
+Alice in Chains:Massive Attack
+The Prodigy:Panic! At the Disco
+Lady Gaga:Rise Against
+The Smiths:Björk
+The Used:Led Zeppelin
+Foo Fighters:Green Day
+Pink Floyd:Fall Out Boy
+Nickelback:The White Stripes
+The Doors:Massive Attack
+Three Days Grace:Portishead
+Bob Dylan:Slayer
+Lady Gaga:Slipknot
+Christina Aguilera:Keane
+The Smashing Pumpkins:Opeth
+Taylor Swift:Avenged Sevenfold
+30 Seconds to Mars:Bloc Party
+Gorillaz:Queens of the Stone Age
+Guns N' Roses:Iron Maiden
+Keane:Bob Dylan
+Marilyn Manson:The Smiths
+The Doors:Gorillaz
+The Smashing Pumpkins:Michael Jackson
+The Prodigy:U2
+The Prodigy:Vampire Weekend
+Rise Against:The Offspring
+Phoenix:Keane
+Interpol:Green Day
+Bob Dylan:Megadeth
+Death Cab for Cutie:System of a Down
+Sigur Rós:U2
+Megadeth:Pixies
+Arctic Monkeys:The Smiths
+Weezer:Breaking Benjamin
+Marilyn Manson:Slayer
+Radiohead:The Kooks
+The Clash:Led Zeppelin
+Modest Mouse:Placebo
+Paramore:Lily Allen
+A Perfect Circle:System of a Down
+Nirvana:The xx
+Modest Mouse:Paramore
+Portishead:System of a Down
+Pink Floyd:Belle and Sebastian
+The Smashing Pumpkins:U2
+The All-American Rejects:Nickelback
+Kings of Leon:Bob Dylan
+David Bowie:The All-American Rejects
+Bloc Party:The Prodigy
+Arctic Monkeys:Taylor Swift
+Lady Gaga:Green Day
+Ramones:Deftones
+Phoenix:Modest Mouse
+Yeah Yeah Yeahs:Regina Spektor
+Snow Patrol:The Used
+Portishead:Crystal Castles
+Coldplay:Blur
+Sigur Rós:30 Seconds to Mars
+Arctic Monkeys:The Killers
+Death Cab for Cutie:The Rolling Stones
+Phoenix:Tegan and Sara
+Muse:A Perfect Circle
+Nickelback:Rise Against
+Tool:Oasis
+Muse:Ke$ha
+The Cure:Snow Patrol
+Queens of the Stone Age:Coldplay
+The Smiths:Nine Inch Nails
+Guns N' Roses:Korn
+Crystal Castles:Slayer
+The Killers:The Kooks
+Tool:Massive Attack
+Lily Allen:Guns N' Roses
+Florence + the Machine:Rammstein
+Björk:Pink Floyd
+Deftones:Slipknot
+Jimi Hendrix:Tool
+All Time Low:Pink Floyd
+Radiohead:Muse
+Tool:Kanye West
+A Perfect Circle:Amy Winehouse
+Rise Against:Breaking Benjamin
+Beck:Rihanna
+Red Hot Chili Peppers:Black Sabbath
+Belle and Sebastian:Marilyn Manson
+Foo Fighters:Phoenix
+The xx:Modest Mouse
+The Rolling Stones:Rise Against
+Snow Patrol:Michael Jackson
+Avril Lavigne:Korn
+Interpol:The Prodigy
+The Strokes:Beck
+U2:Iron Maiden
+Michael Jackson:Oasis
+The All-American Rejects:Kasabian
+The Smiths:Rihanna
+All Time Low:Nine Inch Nails
+30 Seconds to Mars:AC/DC
+Nirvana:System of a Down
+The Doors:Alice in Chains
+Radiohead:The Strokes
+Vampire Weekend:Nirvana
+Franz Ferdinand:Guns N' Roses
+Fall Out Boy:Tegan and Sara
+My Chemical Romance:Three Days Grace
+Ramones:Muse
+Blur:The White Stripes
+Rihanna:Led Zeppelin
+All Time Low:Weezer
+The Smashing Pumpkins:Marilyn Manson
+Incubus:MGMT
+Arctic Monkeys:Depeche Mode
+Pixies:Depeche Mode
+Madonna:Yeah Yeah Yeahs
+Nine Inch Nails:The Clash
+Bob Dylan:Paramore
+Gorillaz:Ramones
+The Doors:Eminem
+Eminem:Breaking Benjamin
+Tegan and Sara:Bloc Party
+Oasis:Avenged Sevenfold
+Slayer:The Killers
+The Prodigy:Bob Dylan
+Aerosmith:Fall Out Boy
+Michael Jackson:Vampire Weekend
+Taylor Swift:Yeah Yeah Yeahs
+Deftones:Portishead
+Death Cab for Cutie:Lily Allen
+Massive Attack:Katy Perry
+Fall Out Boy:30 Seconds to Mars
+Papa Roach:Evanescence
+Lady Gaga:The Offspring
+Modest Mouse:My Chemical Romance
+Oasis:Bloc Party
+Queen:Tegan and Sara
+Britney Spears:Rise Against
+Queen:Bullet for My Valentine
+Metallica:Led Zeppelin
+Slipknot:Britney Spears
+The Beatles:Beck
+The All-American Rejects:Queen
+Linkin Park:Massive Attack
+Regina Spektor:Queen
+Radiohead:Eminem
+Slipknot:Florence + the Machine
+Madonna:Regina Spektor
+The Strokes:Vampire Weekend
+Arctic Monkeys:The White Stripes
+The Doors:Daft Punk
+Alice in Chains:Belle and Sebastian
+MGMT:Queen
+Rise Against:Daft Punk
+Michael Jackson:Kings of Leon
+Yeah Yeah Yeahs:Britney Spears
+Nirvana:Rise Against
+Pink Floyd:Bloc Party
+Britney Spears:3OH!3
+Slipknot:Daft Punk
+Ke$ha:Yeah Yeah Yeahs
+Queen:Amy Winehouse
+Disturbed:The Offspring
+The White Stripes:Phoenix
+Kings of Leon:Ke$ha
+Coldplay:Lady Gaga
+Metallica:Black Sabbath
+Nirvana:Queen
+Sigur Rós:The Doors
+Led Zeppelin:Korn
+The All-American Rejects:Katy Perry
+Joy Division:Radiohead
+Joy Division:Regina Spektor
+Coldplay:Avril Lavigne
+Led Zeppelin:Snow Patrol
+Nine Inch Nails:Weezer
+Children of Bodom:MGMT
+Blur:Black Sabbath
+30 Seconds to Mars:Death Cab for Cutie
+The Killers:Nine Inch Nails
+Weezer:Sigur Rós
+The Who:MGMT
+Nirvana:Aerosmith
+Aerosmith:The Killers
+Bullet for My Valentine:Ke$ha
+Amy Winehouse:Regina Spektor
+Bullet for My Valentine:Joy Division
+Vampire Weekend:Beyoncé
+Britney Spears:Linkin Park
+Deftones:Iron Maiden
+Incubus:Amy Winehouse
+Eminem:Death Cab for Cutie
+Nine Inch Nails:Portishead
+The Smashing Pumpkins:The Prodigy
+Disturbed:System of a Down
+Pearl Jam:Green Day
+Rammstein:Eminem
+The Clash:Rihanna
+Fall Out Boy:All Time Low
+Avril Lavigne:U2
+Regina Spektor:Alice in Chains
+Depeche Mode:Lily Allen
+Taylor Swift:Panic! At the Disco
+Death Cab for Cutie:Slayer
+Madonna:Beyoncé
+Korn:Slayer
+Keane:Interpol
+Eminem:Yeah Yeah Yeahs
+Slipknot:The Prodigy
+Beyoncé:The Beatles
+The Smiths:The White Stripes
+Crystal Castles:Tool
+Guns N' Roses:The Cure
+The White Stripes:Pink Floyd
+Pearl Jam:Oasis
+Phoenix:Bloc Party
+Red Hot Chili Peppers:Placebo
+The Prodigy:Green Day
+All Time Low:Bullet for My Valentine
+Daft Punk:Avenged Sevenfold
+Belle and Sebastian:Bloc Party
+Fall Out Boy:Florence + the Machine
+The Beatles:Queen
+Yeah Yeah Yeahs:Rihanna
+Fall Out Boy:Evanescence
+Three Days Grace:Radiohead
+Beck:Guns N' Roses
+The Smashing Pumpkins:Slayer
+Regina Spektor:Jimi Hendrix
+Interpol:Yeah Yeah Yeahs
+The Cure:Children of Bodom
+Alice in Chains:Eminem
+Kasabian:Jimi Hendrix
+My Chemical Romance:Papa Roach
+Papa Roach:AC/DC
+Regina Spektor:Opeth
+Linkin Park:Metallica
+Oasis:Rammstein
+Led Zeppelin:Joy Division
+The xx:The Prodigy
+The xx:A Perfect Circle
+Kasabian:A Perfect Circle
+Florence + the Machine:Eminem
+Lady Gaga:30 Seconds to Mars
+Belle and Sebastian:AC/DC
+Avenged Sevenfold:The All-American Rejects
+Keane:Fall Out Boy
+Metallica:Blur
+Katy Perry:The Killers
+Aerosmith:Jimi Hendrix
+Pearl Jam:Portishead
+The Clash:Kasabian
+Sigur Rós:The Killers
+Portishead:The Prodigy
+The Used:The All-American Rejects
+Red Hot Chili Peppers:Korn
+Foo Fighters:Depeche Mode
+Florence + the Machine:Nickelback
+Alice in Chains:Black Sabbath
+The Clash:Disturbed
+Rammstein:Bloc Party
+Florence + the Machine:Keane
+Nirvana:Bullet for My Valentine
+Daft Punk:The Smashing Pumpkins
+Death Cab for Cutie:Sigur Rós
+David Bowie:Slayer
+Snow Patrol:Massive Attack
+Cobra Starship:Linkin Park
+My Chemical Romance:Led Zeppelin
+Phoenix:Papa Roach
+The Who:30 Seconds to Mars
+System of a Down:Kings of Leon
+Madonna:Pearl Jam
+Pixies:Queen
+Joy Division:Linkin Park
+The Kooks:Ramones
+Paramore:Weezer
+Beyoncé:The Cure
+Ramones:Lady Gaga
+MGMT:Aerosmith
+The xx:Green Day
+30 Seconds to Mars:Weezer
+Joy Division:The Clash
+Ke$ha:Franz Ferdinand
+The Offspring:Keane
+Lily Allen:Nine Inch Nails
+Deftones:Papa Roach
+Linkin Park:Rihanna
+Pearl Jam:Beck
+Queens of the Stone Age:Radiohead
+Megadeth:blink-182
+Pink Floyd:My Chemical Romance
+Opeth:Pearl Jam
+Keane:Death Cab for Cutie
+The Smashing Pumpkins:Linkin Park
+Aerosmith:Snow Patrol
+Oasis:Marilyn Manson
+Papa Roach:Interpol
+Linkin Park:Björk
+The Kooks:The Offspring
+Incubus:Vampire Weekend
+The Strokes:Madonna
+blink-182:Three Days Grace
+Tool:Pink Floyd
+Pearl Jam:Bloc Party
+The Killers:The Who
+Tegan and Sara:Black Eyed Peas
+Bullet for My Valentine:Breaking Benjamin
+Panic! At the Disco:The White Stripes
+Pink Floyd:Disturbed
+The Beatles:Modest Mouse
+Led Zeppelin:Britney Spears
+Pixies:Daft Punk
+Crystal Castles:Rihanna
+Weezer:Panic! At the Disco
+Vampire Weekend:Phoenix
+Three Days Grace:Kasabian
+The Smiths:Aerosmith
+Blur:Disturbed
+Sigur Rós:Ramones
+Death Cab for Cutie:Amy Winehouse
+Three Days Grace:MGMT
+Pearl Jam:Sigur Rós
+Alice in Chains:U2
+Sigur Rós:Jimi Hendrix
+Children of Bodom:30 Seconds to Mars
+Amy Winehouse:Black Eyed Peas
+Led Zeppelin:Queens of the Stone Age
+Bloc Party:Children of Bodom
+Katy Perry:Rihanna
+Rammstein:Keane
+Ramones:Britney Spears
+Daft Punk:Lady Gaga
+blink-182:Sigur Rós
+Bloc Party:The Beatles
+The Rolling Stones:Avenged Sevenfold
+Oasis:Evanescence
+Arctic Monkeys:The Offspring
+The Prodigy:Foo Fighters
+Weezer:Cobra Starship
+Cobra Starship:Keane
+Linkin Park:Marilyn Manson
+Massive Attack:The Used
+3OH!3:MGMT
+Ke$ha:Massive Attack
+Björk:Beyoncé
+Korn:The Offspring
+System of a Down:Panic! At the Disco
+The Offspring:Black Eyed Peas
+Pixies:Panic! At the Disco
+Kings of Leon:Pixies
+The Rolling Stones:Gorillaz
+Gorillaz:Depeche Mode
+Death Cab for Cutie:U2
+Foo Fighters:Belle and Sebastian
+Death Cab for Cutie:Nickelback
+Nickelback:Black Sabbath
+Interpol:The Killers
+The Rolling Stones:All Time Low
+Tool:MGMT
+Pink Floyd:Black Sabbath
+The Doors:Radiohead
+Three Days Grace:Rise Against
+Crystal Castles:The Smashing Pumpkins
+Christina Aguilera:Madonna
+Radiohead:Weezer
+Joy Division:Foo Fighters
+Arctic Monkeys:Britney Spears
+Rise Against:Beck
+Panic! At the Disco:Christina Aguilera
+Green Day:Incubus
+Alice in Chains:Katy Perry
+Franz Ferdinand:Regina Spektor
+Three Days Grace:The Used
+Vampire Weekend:Deftones
+Rammstein:Aerosmith
+Megadeth:Pearl Jam
+Phoenix:Guns N' Roses
+Bob Dylan:MGMT
+The Used:Interpol
+Beyoncé:Muse
+3OH!3:System of a Down
+Paramore:Evanescence
+Joy Division:Queen
+Megadeth:The Doors
+Queens of the Stone Age:The Smashing Pumpkins
+The Strokes:System of a Down
+David Bowie:Snow Patrol
+Megadeth:Queens of the Stone Age
+Ramones:Tool
+Florence + the Machine:30 Seconds to Mars
+Crystal Castles:Lady Gaga
+Keane:Blur
+Metallica:Incubus
+System of a Down:Lady Gaga
+Björk:The Strokes
+Taylor Swift:Queen
+Sigur Rós:Oasis
+Britney Spears:Modest Mouse
+The Used:Radiohead
+Death Cab for Cutie:The Beatles
+Arctic Monkeys:Slayer
+Linkin Park:blink-182
+Florence + the Machine:Alice in Chains
+Deftones:The All-American Rejects
+Breaking Benjamin:Blur
+Korn:Slipknot
+System of a Down:Led Zeppelin
+Beyoncé:Queens of the Stone Age
+Björk:The Clash
+Regina Spektor:Evanescence
+Eminem:The White Stripes
+Lily Allen:The Prodigy
+Iron Maiden:David Bowie
+Muse:Fall Out Boy
+Jimi Hendrix:AC/DC
+The Strokes:Iron Maiden
+The Offspring:Ramones
+Alice in Chains:Incubus
+Rihanna:Paramore
+Eminem:AC/DC
+Keane:Paramore
+The Cure:My Chemical Romance
+All Time Low:Phoenix
+Red Hot Chili Peppers:Belle and Sebastian
+The Rolling Stones:Panic! At the Disco
+Breaking Benjamin:Madonna
+The Cure:Korn
+Metallica:Children of Bodom
+Papa Roach:Jimi Hendrix
+U2:The White Stripes
+Lady Gaga:Iron Maiden
+Lady Gaga:Queens of the Stone Age
+Jimi Hendrix:Blur
+All Time Low:Rise Against
+Nightwish:Gorillaz
+Marilyn Manson:Keane
+Tegan and Sara:MGMT
+My Chemical Romance:Disturbed
+Interpol:Sigur Rós
+Rammstein:Weezer
+Paramore:Black Eyed Peas
+Amy Winehouse:Yeah Yeah Yeahs
+Daft Punk:Interpol
+Pearl Jam:Blur
+Taylor Swift:Alice in Chains
+Keane:Arctic Monkeys
+Metallica:Placebo
+Pixies:Paramore
+Foo Fighters:Pink Floyd
+Pink Floyd:Sigur Rós
+Children of Bodom:Megadeth
+Green Day:Opeth
+Eminem:Bullet for My Valentine
+Pink Floyd:Paramore
+Pixies:Phoenix
+Interpol:Three Days Grace
+Radiohead:Metallica
+Incubus:Madonna
+Pearl Jam:Placebo
+Lady Gaga:The Cure
+Beck:Linkin Park
+Pixies:Radiohead
+Pixies:Eminem
+Sigur Rós:Breaking Benjamin
+Vampire Weekend:Christina Aguilera
+Aerosmith:Phoenix
+Pearl Jam:The White Stripes
+AC/DC:Crystal Castles
+Evanescence:Beyoncé
+Belle and Sebastian:Metallica
+Bullet for My Valentine:MGMT
+Nightwish:A Perfect Circle
+Daft Punk:Breaking Benjamin
+Lady Gaga:Led Zeppelin
+Oasis:Britney Spears
+Fall Out Boy:Snow Patrol
+The Cure:Incubus
+Radiohead:Red Hot Chili Peppers
+The Smiths:Franz Ferdinand
+The Smiths:The Prodigy
+Massive Attack:Breaking Benjamin
+Phoenix:Joy Division
+AC/DC:Korn
+Blur:The Killers
+Crystal Castles:Vampire Weekend
+Ke$ha:Disturbed
+Arctic Monkeys:Ke$ha
+Disturbed:Lady Gaga
+blink-182:AC/DC
+Modest Mouse:Gorillaz
+The Rolling Stones:Amy Winehouse
+Pixies:Interpol
+Death Cab for Cutie:The All-American Rejects
+Cobra Starship:My Chemical Romance
+Rihanna:David Bowie
+Slipknot:Depeche Mode
+Christina Aguilera:Red Hot Chili Peppers
+The Prodigy:Björk
+Tegan and Sara:Oasis
+Ramones:Coldplay
+The Offspring:Blur
+Kasabian:The Smashing Pumpkins
+Arctic Monkeys:Eminem
+System of a Down:Ramones
+Eminem:Panic! At the Disco
+Tegan and Sara:Sigur Rós
+Panic! At the Disco:Blur
+Lily Allen:The Doors
+Foo Fighters:Evanescence
+Avenged Sevenfold:Yeah Yeah Yeahs
+Linkin Park:Weezer
+MGMT:Björk
+Eminem:Keane
+Disturbed:All Time Low
+Madonna:The Clash
+Lady Gaga:Megadeth
+Deftones:Keane
+Nightwish:System of a Down
+Belle and Sebastian:The Kooks
+Black Eyed Peas:Weezer
+Muse:Massive Attack
+Megadeth:Eminem
+Michael Jackson:Ramones
+Taylor Swift:Gorillaz
+Guns N' Roses:Rihanna
+Red Hot Chili Peppers:U2
+Nirvana:The All-American Rejects
+Rammstein:Megadeth
+Breaking Benjamin:The xx
+Deftones:blink-182
+Opeth:Aerosmith
+Linkin Park:Vampire Weekend
+Britney Spears:Gorillaz
+AC/DC:Guns N' Roses
+Kings of Leon:Franz Ferdinand
+The Kooks:The Smashing Pumpkins
+Christina Aguilera:Muse
+Paramore:The Kooks
+Michael Jackson:Yeah Yeah Yeahs
+Incubus:My Chemical Romance
+Nine Inch Nails:Muse
+Pink Floyd:Interpol
+A Perfect Circle:Eminem
+Phoenix:Crystal Castles
+Placebo:Queen
+Black Sabbath:The Kooks
+Beck:MGMT
+MGMT:Regina Spektor
+Queens of the Stone Age:System of a Down
+Coldplay:Oasis
+The Strokes:The Cure
+Nickelback:Red Hot Chili Peppers
+Slayer:Portishead
+Rammstein:Marilyn Manson
+Beck:Green Day
+Megadeth:The White Stripes
+Black Sabbath:Avenged Sevenfold
+Linkin Park:Slipknot
+Franz Ferdinand:Bob Dylan
+Tegan and Sara:Placebo
+Megadeth:Marilyn Manson
+The Beatles:The Offspring
+Sigur Rós:Depeche Mode
+Kings of Leon:Christina Aguilera
+The Clash:Avenged Sevenfold
+Florence + the Machine:MGMT
+Björk:Incubus
+Nickelback:Nightwish
+Kasabian:System of a Down
+Lady Gaga:Modest Mouse
+Nine Inch Nails:Queens of the Stone Age
+Gorillaz:The Smashing Pumpkins
+Kasabian:Tool
+Jimi Hendrix:Katy Perry
+Vampire Weekend:Interpol
+Bob Dylan:Tegan and Sara
+Modest Mouse:Rise Against
+Coldplay:Massive Attack
+Taylor Swift:Nightwish
+30 Seconds to Mars:The Smiths
+Slipknot:Red Hot Chili Peppers
+My Chemical Romance:Foo Fighters
+Evanescence:Kasabian
+The Used:Aerosmith
+Evanescence:Opeth
+Arctic Monkeys:Muse
+Panic! At the Disco:David Bowie
+Ke$ha:Bob Dylan
+Eminem:Katy Perry
+Death Cab for Cutie:Rise Against
+Bob Dylan:Belle and Sebastian
+All Time Low:MGMT
+Opeth:Katy Perry
+Yeah Yeah Yeahs:The All-American Rejects
+Queen:Nickelback
+Paramore:Taylor Swift
+The Cure:Crystal Castles
+blink-182:Pink Floyd
+Nirvana:Modest Mouse
+Pixies:The Rolling Stones
+The Cure:30 Seconds to Mars
+Cobra Starship:Bullet for My Valentine
+Regina Spektor:Green Day
+Cobra Starship:3OH!3
+U2:Three Days Grace
+The Clash:Slipknot
+The Killers:The All-American Rejects
+AC/DC:Beck
+Guns N' Roses:Bullet for My Valentine
+Interpol:Avenged Sevenfold
+The Used:Bloc Party
+My Chemical Romance:Avenged Sevenfold
+Nickelback:Phoenix
+Regina Spektor:Three Days Grace
+The Kooks:Beyoncé
+Kasabian:The Who
+Tegan and Sara:Interpol
+Bloc Party:Nine Inch Nails
+Madonna:AC/DC
+Avenged Sevenfold:Keane
+Bullet for My Valentine:Placebo
+Led Zeppelin:The Prodigy
+Britney Spears:The Used
+Amy Winehouse:The Doors
+Daft Punk:MGMT
+Snow Patrol:Queens of the Stone Age
+All Time Low:Placebo
+Guns N' Roses:Papa Roach
+Pixies:Joy Division
+The Doors:Nine Inch Nails
+The Used:Gorillaz
+Pearl Jam:Britney Spears
+Keane:Led Zeppelin
+Taylor Swift:Red Hot Chili Peppers
+Foo Fighters:Katy Perry
+The White Stripes:Rammstein
+Vampire Weekend:The Killers
+Korn:Metallica
+Arctic Monkeys:Green Day
+Yeah Yeah Yeahs:The xx
+Incubus:Avenged Sevenfold
+Weezer:Death Cab for Cutie
+30 Seconds to Mars:Taylor Swift
+Linkin Park:Portishead
+Oasis:Snow Patrol
+Linkin Park:The Strokes
+Bloc Party:3OH!3
+Evanescence:3OH!3
+Iron Maiden:Queens of the Stone Age
+The Rolling Stones:The Clash
+Slipknot:The Smashing Pumpkins
+Black Sabbath:Jimi Hendrix
+Florence + the Machine:Lily Allen
+Yeah Yeah Yeahs:Kanye West
+Breaking Benjamin:Death Cab for Cutie
+Disturbed:Yeah Yeah Yeahs
+3OH!3:The All-American Rejects
+Paramore:Massive Attack
+Arctic Monkeys:Marilyn Manson
+My Chemical Romance:Green Day
+The Kooks:Katy Perry
+Ramones:Beyoncé
+Incubus:Slayer
+blink-182:Michael Jackson
+Bob Dylan:Marilyn Manson
+The Smiths:The Rolling Stones
+Paramore:Children of Bodom
+Modest Mouse:Queens of the Stone Age
+Snow Patrol:Nickelback
+Modest Mouse:Portishead
+David Bowie:Guns N' Roses
+The Cure:System of a Down
+Muse:Black Sabbath
+My Chemical Romance:Ramones
+Slipknot:Led Zeppelin
+Rise Against:Slayer
+Ke$ha:Avril Lavigne
+The Strokes:Korn
+Michael Jackson:Cobra Starship
+Christina Aguilera:AC/DC
+Children of Bodom:Deftones
+Kings of Leon:Aerosmith
+The Rolling Stones:Yeah Yeah Yeahs
+The Doors:The Killers
+Pearl Jam:Alice in Chains
+Placebo:Daft Punk
+Lady Gaga:Oasis
+Taylor Swift:Ramones
+Daft Punk:Blur
+Tegan and Sara:Katy Perry
+Papa Roach:Eminem
+MGMT:Alice in Chains
+Rammstein:Beyoncé
+Pixies:The Beatles
+Red Hot Chili Peppers:Beck
+Depeche Mode:Disturbed
+Bullet for My Valentine:Death Cab for Cutie
+Tool:Nine Inch Nails
+The Strokes:Oasis
+Opeth:Death Cab for Cutie
+Taylor Swift:My Chemical Romance
+Megadeth:Linkin Park
+The Smashing Pumpkins:My Chemical Romance
+Muse:Weezer
+Placebo:U2
+Beyoncé:Linkin Park
+30 Seconds to Mars:Pearl Jam
+Muse:Beck
+Interpol:Blur
+System of a Down:The White Stripes
+Evanescence:The Strokes
+Snow Patrol:The All-American Rejects
+Beyoncé:Bloc Party
+Korn:All Time Low
+Muse:Michael Jackson
+Megadeth:The All-American Rejects
+Kasabian:Massive Attack
+Modest Mouse:Slipknot
+The Doors:Led Zeppelin
+3OH!3:Metallica
+Arctic Monkeys:Evanescence
+Green Day:Pixies
+The Strokes:The Killers
+Beyoncé:Massive Attack
+Papa Roach:Three Days Grace
+Slayer:Nightwish
+The Smiths:Evanescence
+Crystal Castles:The Used
+30 Seconds to Mars:David Bowie
+3OH!3:Amy Winehouse
+The xx:Slipknot
+The Killers:Black Sabbath
+Korn:Massive Attack
+The Smashing Pumpkins:Keane
+Placebo:Regina Spektor
+Blur:Snow Patrol
+Slipknot:Yeah Yeah Yeahs
+Vampire Weekend:Bob Dylan
+Taylor Swift:Papa Roach
+The Smiths:Beck
+The Cure:Bob Dylan
+Alice in Chains:Blur
+Belle and Sebastian:The All-American Rejects
+Vampire Weekend:Death Cab for Cutie
+Taylor Swift:Snow Patrol
+30 Seconds to Mars:Metallica
+Children of Bodom:Phoenix
+Portishead:Regina Spektor
+Belle and Sebastian:Björk
+Daft Punk:Snow Patrol
+Placebo:Beck
+Florence + the Machine:Green Day
+Avenged Sevenfold:All Time Low
+Phoenix:Kings of Leon
+Nirvana:Oasis
+AC/DC:The Killers
+The All-American Rejects:The Prodigy
+Nightwish:All Time Low
+Kings of Leon:Kanye West
+Depeche Mode:Modest Mouse
+U2:Papa Roach
+Rihanna:Queens of the Stone Age
+The Beatles:Red Hot Chili Peppers
+U2:Joy Division
+Green Day:Weezer
+Bullet for My Valentine:Queens of the Stone Age
+Beyoncé:The Strokes
+Modest Mouse:Jimi Hendrix
+The Kooks:Avenged Sevenfold
+Christina Aguilera:Linkin Park
+Avenged Sevenfold:Kings of Leon
+Disturbed:Guns N' Roses
+The Offspring:The Clash
+Christina Aguilera:Portishead
+Rihanna:Marilyn Manson
+Amy Winehouse:Opeth
+The Offspring:Tool
+Rammstein:Led Zeppelin
+Muse:Daft Punk
+The Strokes:3OH!3
+Children of Bodom:Three Days Grace
+Death Cab for Cutie:Christina Aguilera
+Avenged Sevenfold:Green Day
+Queens of the Stone Age:Alice in Chains
+The Killers:Bob Dylan
+Avril Lavigne:Weezer
+David Bowie:Nickelback
+Avenged Sevenfold:Britney Spears
+Franz Ferdinand:The Kooks
+Lady Gaga:Eminem
+Katy Perry:Breaking Benjamin
+Tegan and Sara:30 Seconds to Mars
+Ramones:Avenged Sevenfold
+Portishead:Placebo
+Arctic Monkeys:The xx
+Death Cab for Cutie:Paramore
+Metallica:Lily Allen
+Cobra Starship:Three Days Grace
+Guns N' Roses:Björk
+Beyoncé:Weezer
+The Killers:Beyoncé
+Bloc Party:Avril Lavigne
+The Who:Foo Fighters
+The Cure:Michael Jackson
+Pink Floyd:Bullet for My Valentine
+The Cure:Death Cab for Cutie
+Nightwish:David Bowie
+System of a Down:The Smashing Pumpkins
+Incubus:Lily Allen
+Placebo:Oasis
+Lily Allen:Led Zeppelin
+30 Seconds to Mars:Breaking Benjamin
+Nirvana:Portishead
+Rammstein:The Smiths
+Florence + the Machine:Pixies
+Guns N' Roses:Slipknot
+Led Zeppelin:Kanye West
+The Strokes:Breaking Benjamin
+Deftones:Bob Dylan
+Avril Lavigne:Bullet for My Valentine
+All Time Low:Red Hot Chili Peppers
+Modest Mouse:Three Days Grace
+Jimi Hendrix:Belle and Sebastian
+Guns N' Roses:Rise Against
+Pixies:Lily Allen
+The Smiths:Black Sabbath
+The Who:Fall Out Boy
+Breaking Benjamin:Radiohead
+Muse:Taylor Swift
+Keane:Three Days Grace
+My Chemical Romance:Yeah Yeah Yeahs
+Bullet for My Valentine:Madonna
+Guns N' Roses:Placebo
+Deftones:Rammstein
+Michael Jackson:Madonna
+Pearl Jam:Pink Floyd
+Led Zeppelin:Eminem
+Ke$ha:Nightwish
+Green Day:Ke$ha
+Panic! At the Disco:Alice in Chains
+Breaking Benjamin:Keane
+Kasabian:The xx
+The Offspring:Massive Attack
+The Killers:Korn
+Gorillaz:Radiohead
+Bob Dylan:Three Days Grace
+Three Days Grace:Deftones
+The xx:Foo Fighters
+Franz Ferdinand:Bloc Party
+The Killers:Tool
+Sigur Rós:Massive Attack
+Sigur Rós:Alice in Chains
+Foo Fighters:Led Zeppelin
+Evanescence:Ramones
+Pixies:The Smashing Pumpkins
+Disturbed:Metallica
+Death Cab for Cutie:Joy Division
+The Used:Death Cab for Cutie
+Foo Fighters:The Used
+Arctic Monkeys:Nightwish
+Paramore:Megadeth
+All Time Low:Evanescence
+Evanescence:The Beatles
+Lady Gaga:Linkin Park
+Arctic Monkeys:Beck
+Modest Mouse:Bloc Party
+David Bowie:Children of Bodom
+MGMT:The xx
+Tegan and Sara:Rammstein
+Florence + the Machine:Black Eyed Peas
+The Who:Vampire Weekend
+Michael Jackson:Regina Spektor
+Keane:Joy Division
+The Beatles:Nirvana
+Evanescence:Metallica
+System of a Down:Belle and Sebastian
+Sigur Rós:The Used
+Blur:Joy Division
+The Cure:Slipknot
+Ke$ha:Regina Spektor
+Slayer:Eminem
+Red Hot Chili Peppers:Linkin Park
+Pink Floyd:Madonna
+Bullet for My Valentine:My Chemical Romance
+Arctic Monkeys:Panic! At the Disco
+Tool:Gorillaz
+Pink Floyd:Panic! At the Disco
+blink-182:Incubus
+The Rolling Stones:Marilyn Manson
+30 Seconds to Mars:The Doors
+Alice in Chains:Opeth
+Vampire Weekend:blink-182
+Metallica:Yeah Yeah Yeahs
+The xx:Black Eyed Peas
+Vampire Weekend:Björk
+blink-182:Interpol
+Eminem:Belle and Sebastian
+Queen:The Kooks
+Opeth:Eminem
+Daft Punk:Foo Fighters
+Madonna:Gorillaz
+Rise Against:Aerosmith
+Beyoncé:The Clash
+The Clash:Portishead
+Muse:Marilyn Manson
+Pixies:The Kooks
+Rihanna:Florence + the Machine
+The Strokes:Marilyn Manson
+Florence + the Machine:The xx
+Daft Punk:Avril Lavigne
+Avenged Sevenfold:Arctic Monkeys
+Ke$ha:Björk
+30 Seconds to Mars:The All-American Rejects
+Yeah Yeah Yeahs:Guns N' Roses
+Death Cab for Cutie:The Doors
+Lily Allen:A Perfect Circle
+Rise Against:MGMT
+Paramore:Alice in Chains
+Marilyn Manson:Christina Aguilera
+Oasis:Bullet for My Valentine
+Eminem:System of a Down
+Rise Against:The Prodigy
+U2:A Perfect Circle
+Red Hot Chili Peppers:Oasis
+Madonna:Cobra Starship
+Linkin Park:The Used
+The Beatles:Linkin Park
+Breaking Benjamin:Black Eyed Peas
+Amy Winehouse:The xx
+Nine Inch Nails:Children of Bodom
+Nine Inch Nails:The Smashing Pumpkins
+The Beatles:Daft Punk
+Kings of Leon:The Offspring
+Slayer:Pearl Jam
+Regina Spektor:Belle and Sebastian
+The Beatles:Incubus
+Black Sabbath:Phoenix
+Nirvana:Opeth
+The Cure:Iron Maiden
+The Offspring:Led Zeppelin
+Lady Gaga:Jimi Hendrix
+Nirvana:Coldplay
+Joy Division:Avril Lavigne
+Alice in Chains:Red Hot Chili Peppers
+3OH!3:Red Hot Chili Peppers
+Eminem:U2
+The Who:Black Sabbath
+Taylor Swift:Pearl Jam
+The Smashing Pumpkins:Rihanna
+The Doors:MGMT
+Radiohead:Black Sabbath
+Oasis:Black Sabbath
+Papa Roach:The Who
+Linkin Park:Phoenix
+Britney Spears:Rihanna
+Megadeth:Papa Roach
+Muse:Björk
+Interpol:A Perfect Circle
+Pink Floyd:Oasis
+Beck:Korn
+Paramore:Nirvana
+Madonna:Children of Bodom
+Vampire Weekend:The Clash
+Nine Inch Nails:Death Cab for Cutie
+The Smiths:Korn
+The Killers:Eminem
+Ramones:Black Sabbath
+The Who:Modest Mouse
+Crystal Castles:Sigur Rós
+Bullet for My Valentine:Portishead
+Joy Division:MGMT
+Sigur Rós:Avril Lavigne
+Crystal Castles:The Prodigy
+Beyoncé:Queen
+The All-American Rejects:Alice in Chains
+Franz Ferdinand:Amy Winehouse
+3OH!3:Lily Allen
+Coldplay:Ke$ha
+David Bowie:Paramore
+Beyoncé:Avril Lavigne
+The Doors:Ramones
+Oasis:Daft Punk
+Franz Ferdinand:The Prodigy
+Rihanna:Modest Mouse
+The White Stripes:My Chemical Romance
+Snow Patrol:Metallica
+Slipknot:Marilyn Manson
+Britney Spears:Children of Bodom
+Arctic Monkeys:Nickelback
+Daft Punk:Slayer
+blink-182:The All-American Rejects
+Aerosmith:Paramore
+System of a Down:Evanescence
+MGMT:Disturbed
+The Who:The Offspring
+blink-182:Gorillaz
+Keane:Ke$ha
+Papa Roach:Oasis
+The Cure:The Clash
+Joy Division:Marilyn Manson
+The Smiths:A Perfect Circle
+Kasabian:Nine Inch Nails
+Depeche Mode:Led Zeppelin
+Nickelback:Fall Out Boy
+Interpol:The xx
+Franz Ferdinand:Marilyn Manson
+Slipknot:Portishead
+Paramore:Korn
+Evanescence:Eminem
+The Kooks:Portishead
+The White Stripes:Queens of the Stone Age
+The Rolling Stones:Massive Attack
+Britney Spears:Taylor Swift
+Nightwish:Jimi Hendrix
+Nirvana:Crystal Castles
+System of a Down:The Rolling Stones
+The Strokes:Portishead
+My Chemical Romance:Aerosmith
+Arctic Monkeys:Lily Allen
+Guns N' Roses:U2
+Sigur Rós:Amy Winehouse
+Ke$ha:Lily Allen
+Gorillaz:Black Sabbath
+Queen:Green Day
+Linkin Park:MGMT
+Iron Maiden:Kanye West
+Florence + the Machine:Incubus
+Daft Punk:Portishead
+Arctic Monkeys:Bloc Party
+Kings of Leon:Kasabian
+Phoenix:MGMT
+Megadeth:Kasabian
+Foo Fighters:The Killers
+Björk:Panic! At the Disco
+Jimi Hendrix:Alice in Chains
+Nine Inch Nails:Katy Perry
+My Chemical Romance:Amy Winehouse
+Rihanna:The Strokes
+Nightwish:The Used
+The Clash:Guns N' Roses
+Gorillaz:The Killers
+Oasis:The Prodigy
+Green Day:Breaking Benjamin
+Paramore:Amy Winehouse
+Disturbed:The Doors
+Deftones:The Doors
+Led Zeppelin:Megadeth
+Gorillaz:Fall Out Boy
+Modest Mouse:Death Cab for Cutie
+Black Eyed Peas:Modest Mouse
+Phoenix:Red Hot Chili Peppers
+The Killers:Franz Ferdinand
+Modest Mouse:Ramones
+Phoenix:Nirvana
+The Prodigy:Queens of the Stone Age
+Eminem:The Smashing Pumpkins
+Bullet for My Valentine:Paramore
+Nine Inch Nails:Avril Lavigne
+Vampire Weekend:Amy Winehouse
+Nirvana:Massive Attack
+Amy Winehouse:AC/DC
+The Killers:Rammstein
+Phoenix:Incubus
+Modest Mouse:The Killers
+The Doors:A Perfect Circle
+Linkin Park:U2
+Eminem:The Offspring
+Linkin Park:Blur
+Franz Ferdinand:Slipknot
+Lily Allen:Blur
+Disturbed:Joy Division
+Kasabian:Red Hot Chili Peppers
+Gorillaz:Joy Division
+Three Days Grace:The Offspring
+30 Seconds to Mars:Paramore
+Madonna:Rammstein
+The Used:Muse
+Queens of the Stone Age:Placebo
+Florence + the Machine:Cobra Starship
+30 Seconds to Mars:Vampire Weekend
+Rise Against:Led Zeppelin
+Jimi Hendrix:Weezer
+Jimi Hendrix:The White Stripes
+Portishead:The Rolling Stones
+Deftones:Björk
+Belle and Sebastian:Keane
+Bob Dylan:Black Sabbath
+The Smashing Pumpkins:Bullet for My Valentine
+Britney Spears:Radiohead
+All Time Low:Muse
+The Killers:Fall Out Boy
+My Chemical Romance:Kanye West
+Pink Floyd:Rise Against
+Florence + the Machine:Gorillaz
+Cobra Starship:Muse
+Nirvana:Pink Floyd
+30 Seconds to Mars:The White Stripes
+Daft Punk:Tool
+Pixies:The Doors
+Ke$ha:Vampire Weekend
+The Used:Depeche Mode
+Rise Against:Queen
+Arctic Monkeys:Black Sabbath
+Nickelback:Linkin Park
+Lady Gaga:Regina Spektor
+Guns N' Roses:Kings of Leon
+Pink Floyd:Taylor Swift
+The Doors:Papa Roach
+Korn:Ramones
+Cobra Starship:Coldplay
+David Bowie:Kanye West
+Linkin Park:Death Cab for Cutie
+Green Day:Avril Lavigne
+Interpol:Guns N' Roses
+Taylor Swift:Slayer
+Radiohead:Nickelback
+Modest Mouse:Red Hot Chili Peppers
+Queens of the Stone Age:Crystal Castles
+The xx:Massive Attack
+The Strokes:Lady Gaga
+Deftones:Panic! At the Disco
+Pink Floyd:Guns N' Roses
+Pixies:Kasabian
+Nickelback:Lily Allen
+System of a Down:Crystal Castles
+Three Days Grace:Britney Spears
+Madonna:Blur
+Oasis:Queen
+The Prodigy:Kings of Leon
+The Strokes:Nine Inch Nails
+The White Stripes:Bob Dylan
+Pearl Jam:Foo Fighters
+Florence + the Machine:Papa Roach
+The Smashing Pumpkins:Oasis
+Gorillaz:Nirvana
+The Rolling Stones:Breaking Benjamin
+AC/DC:Snow Patrol
+Vampire Weekend:Madonna
+Three Days Grace:Slipknot
+Modest Mouse:The Clash
+The Smashing Pumpkins:Children of Bodom
+blink-182:The Offspring
+AC/DC:Kanye West
+Eminem:Black Eyed Peas
+Regina Spektor:Rihanna
+Rise Against:Arctic Monkeys
+Cobra Starship:Amy Winehouse
+U2:30 Seconds to Mars
+The Used:Red Hot Chili Peppers
+Kasabian:Daft Punk
+Nine Inch Nails:The Used
+Modest Mouse:Megadeth
+The Beatles:Tegan and Sara
+Kasabian:Lily Allen
+Papa Roach:Blur
+Paramore:Fall Out Boy
+3OH!3:Ramones
+Deftones:The Offspring
+AC/DC:The Prodigy
+Linkin Park:Florence + the Machine
+Panic! At the Disco:Sigur Rós
+Björk:Depeche Mode
+Björk:U2
+Death Cab for Cutie:Tool
+Queen:Lady Gaga
+The Doors:Muse
+Avenged Sevenfold:The Offspring
+Opeth:Guns N' Roses
+3OH!3:Vampire Weekend
+Joy Division:Bloc Party
+Weezer:Oasis
+The Prodigy:3OH!3
+Lady Gaga:The Who
+Queen:Paramore
+Bloc Party:Radiohead
+Beck:Coldplay
+Kasabian:The Rolling Stones
+Oasis:30 Seconds to Mars
+Snow Patrol:Tool
+Queen:Snow Patrol
+Oasis:Megadeth
+Megadeth:Florence + the Machine
+Lily Allen:The All-American Rejects
+U2:Paramore
+Amy Winehouse:Jimi Hendrix
+Crystal Castles:Daft Punk
+All Time Low:Marilyn Manson
+Keane:Red Hot Chili Peppers
+Paramore:Panic! At the Disco
+Green Day:Papa Roach
+Coldplay:Marilyn Manson
+30 Seconds to Mars:Modest Mouse
+Coldplay:Breaking Benjamin
+Children of Bodom:Foo Fighters
+Paramore:Rammstein
+Foo Fighters:Paramore
+Tool:Radiohead
+Tegan and Sara:Lily Allen
+Massive Attack:Yeah Yeah Yeahs
+System of a Down:Franz Ferdinand
+Black Eyed Peas:The All-American Rejects
+Pink Floyd:Linkin Park
+Vampire Weekend:Pearl Jam
+The White Stripes:Vampire Weekend
+Tool:Panic! At the Disco
+The Smiths:Oasis
+Belle and Sebastian:Interpol
+blink-182:Green Day
+Taylor Swift:blink-182
+Kanye West:3OH!3
+The Rolling Stones:U2
+Breaking Benjamin:blink-182
+The Kooks:Weezer
+Kanye West:Blur
+Depeche Mode:A Perfect Circle
+Nirvana:Bob Dylan
+Katy Perry:Portishead
+Gorillaz:Interpol
+Daft Punk:Sigur Rós
+Rammstein:Iron Maiden
+Coldplay:Michael Jackson
+Slipknot:The Who
+Christina Aguilera:Alice in Chains
+The Prodigy:Ke$ha
+Nickelback:Breaking Benjamin
+Aerosmith:Incubus
+Katy Perry:The Who
+The All-American Rejects:The Kooks
+System of a Down:Guns N' Roses
+Vampire Weekend:Oasis
+Nightwish:The Smiths
+Beck:Tegan and Sara
+Gorillaz:The Kooks
+Sigur Rós:David Bowie
+Rammstein:Children of Bodom
+Crystal Castles:Death Cab for Cutie
+Nirvana:Depeche Mode
+Slipknot:Papa Roach
+Papa Roach:Placebo
+Marilyn Manson:MGMT
+Lily Allen:Gorillaz
+Arctic Monkeys:Lady Gaga
+Slipknot:Foo Fighters
+The Cure:blink-182
+All Time Low:The xx
+Lily Allen:AC/DC
+Sigur Rós:Rihanna
+Crystal Castles:30 Seconds to Mars
+Daft Punk:Nickelback
+Pixies:Nine Inch Nails
+Slipknot:U2
+Avenged Sevenfold:Depeche Mode
+Pink Floyd:Three Days Grace
+Rihanna:Lily Allen
+Aerosmith:Blur
+Crystal Castles:Marilyn Manson
+MGMT:Foo Fighters
+David Bowie:Pink Floyd
+Linkin Park:Children of Bodom
+Nightwish:My Chemical Romance
+Modest Mouse:Kasabian
+The Used:MGMT
+The Doors:Foo Fighters
+Nickelback:Children of Bodom
+Massive Attack:Taylor Swift
+The Used:Franz Ferdinand
+Paramore:The xx
+Nine Inch Nails:Pearl Jam
+Cobra Starship:Disturbed
+Nightwish:Placebo
+Incubus:Rihanna
+Weezer:Lily Allen
+Kasabian:Beck
+Nine Inch Nails:Jimi Hendrix
+Green Day:The Smiths
+Daft Punk:Marilyn Manson
+Phoenix:Nine Inch Nails
+Disturbed:Incubus
+Snow Patrol:Björk
+My Chemical Romance:Oasis
+A Perfect Circle:Belle and Sebastian
+Blur:Pixies
+Daft Punk:Michael Jackson
+The Clash:Aerosmith
+Yeah Yeah Yeahs:The Kooks
+Phoenix:Disturbed
+Fall Out Boy:Kasabian
+Jimi Hendrix:Nickelback
+Green Day:Tegan and Sara
+Deftones:Gorillaz
+The xx:Nine Inch Nails
+Tool:Papa Roach
+Weezer:Pixies
+Rammstein:The All-American Rejects
+Aerosmith:30 Seconds to Mars
+Iron Maiden:Rise Against
+Alice in Chains:Placebo
+Red Hot Chili Peppers:Incubus
+Oasis:Opeth
+Queen:Kanye West
+The xx:Three Days Grace
+Sigur Rós:Megadeth
+Ke$ha:AC/DC
+Arctic Monkeys:Papa Roach
+Tegan and Sara:Linkin Park
+Depeche Mode:The xx
+Vampire Weekend:Marilyn Manson
+blink-182:Kanye West
+Arctic Monkeys:Massive Attack
+Nine Inch Nails:Evanescence
+Joy Division:System of a Down
+Keane:Portishead
+Placebo:Black Sabbath
+Led Zeppelin:Aerosmith
+The Offspring:Queens of the Stone Age
+Bloc Party:Metallica
+Madonna:Guns N' Roses
+Depeche Mode:The Kooks
+Kings of Leon:Rise Against
+The xx:Snow Patrol
+3OH!3:The White Stripes
+Lady Gaga:Marilyn Manson
+U2:Portishead
+The Who:Bob Dylan
+Aerosmith:Ramones
+David Bowie:The Smashing Pumpkins
+Avenged Sevenfold:Breaking Benjamin
+Oasis:Christina Aguilera
+Slayer:U2
+Weezer:Evanescence
+Fall Out Boy:My Chemical Romance
+David Bowie:Rammstein
+Pixies:The Offspring
+Coldplay:System of a Down
+Slipknot:Paramore
+Snow Patrol:Pearl Jam
+Coldplay:Papa Roach
+Kanye West:The Smashing Pumpkins
+Nightwish:Red Hot Chili Peppers
+Blur:The Kooks
+Daft Punk:Björk
+Blur:Paramore
+The Smashing Pumpkins:3OH!3
+Phoenix:Slipknot
+Papa Roach:The Smiths
+Belle and Sebastian:Death Cab for Cutie
+Tegan and Sara:Regina Spektor
+Oasis:Florence + the Machine
+Franz Ferdinand:Gorillaz
+The Doors:Depeche Mode
+Linkin Park:Guns N' Roses
+Korn:blink-182
+Massive Attack:Michael Jackson
+The All-American Rejects:Phoenix
+Interpol:Joy Division
+Linkin Park:Crystal Castles
+The All-American Rejects:Breaking Benjamin
+The All-American Rejects:A Perfect Circle
+Katy Perry:Taylor Swift
+Three Days Grace:Green Day
+Black Eyed Peas:Michael Jackson
+Madonna:3OH!3
+Björk:Opeth
+Evanescence:Taylor Swift
+Crystal Castles:A Perfect Circle
+Joy Division:The Offspring
+Ramones:Queen
+Avenged Sevenfold:Snow Patrol
+Bob Dylan:Rammstein
+Alice in Chains:Disturbed
+Aerosmith:Gorillaz
+blink-182:Blur
+Death Cab for Cutie:The Offspring
+3OH!3:Placebo
+The Rolling Stones:Ramones
+blink-182:Depeche Mode
+The xx:Keane
+The Strokes:Daft Punk
+The Smashing Pumpkins:Modest Mouse
+The Cure:Megadeth
+30 Seconds to Mars:Portishead
+Tool:30 Seconds to Mars
+Oasis:Guns N' Roses
+Kings of Leon:The Who
+Evanescence:Panic! At the Disco
+Rise Against:Phoenix
+Green Day:Black Eyed Peas
+Incubus:System of a Down
+Modest Mouse:Linkin Park
+Florence + the Machine:Bloc Party
+Weezer:Yeah Yeah Yeahs
+Modest Mouse:Lily Allen
+Deftones:Jimi Hendrix
+U2:MGMT
+Three Days Grace:AC/DC
+Green Day:Massive Attack
+Green Day:Fall Out Boy
+My Chemical Romance:Portishead
+Alice in Chains:The Clash
+The Used:Katy Perry
+Disturbed:Kings of Leon
+Jimi Hendrix:Eminem
+The Smiths:Kanye West
+Pixies:AC/DC
+Taylor Swift:Kings of Leon
+David Bowie:Radiohead
+My Chemical Romance:Michael Jackson
+Papa Roach:Madonna
+The Strokes:Queen
+Panic! At the Disco:Children of Bodom
+Regina Spektor:The Who
+Keane:The Kooks
+Black Eyed Peas:Guns N' Roses
+Nirvana:Ramones
+Paramore:Black Sabbath
+Michael Jackson:Rihanna
+The Used:Tool
+Iron Maiden:The Clash
+The xx:Phoenix
+30 Seconds to Mars:Black Sabbath
+Vampire Weekend:The xx
+Avril Lavigne:Queen
+The Strokes:Pixies
+Incubus:Foo Fighters
+The All-American Rejects:Amy Winehouse
+Nirvana:Lily Allen
+The Beatles:The Kooks
+Placebo:Nine Inch Nails
+Disturbed:Christina Aguilera
+Daft Punk:Rihanna
+Queens of the Stone Age:Joy Division
+3OH!3:Muse
+Crystal Castles:The All-American Rejects
+Keane:Queen
+Death Cab for Cutie:Muse
+Metallica:The Who
+Bloc Party:Foo Fighters
+Massive Attack:The Smiths
+Radiohead:Aerosmith
+Daft Punk:Florence + the Machine
+Pixies:The Prodigy
+The xx:Lady Gaga
+Daft Punk:Black Sabbath
+blink-182:The Strokes
+Alice in Chains:Oasis
+Cobra Starship:The All-American Rejects
+Slipknot:Breaking Benjamin
+Taylor Swift:Björk
+System of a Down:The Clash
+Fall Out Boy:Jimi Hendrix
+The Who:Phoenix
+Green Day:The Offspring
+Korn:Bob Dylan
+Phoenix:Daft Punk
+Foo Fighters:AC/DC
+Kings of Leon:Muse
+Blur:David Bowie
+Pink Floyd:Opeth
+Slipknot:Alice in Chains
+Massive Attack:Modest Mouse
+Crystal Castles:Guns N' Roses
+Eminem:Joy Division
+Snow Patrol:Green Day
+Led Zeppelin:Black Sabbath
+Megadeth:U2
+Crystal Castles:The Rolling Stones
+The Doors:The Strokes
+Katy Perry:Slayer
+Incubus:Nightwish
+Death Cab for Cutie:The Kooks
+Placebo:The Smashing Pumpkins
+Florence + the Machine:U2
+Beck:Pixies
+Aerosmith:Black Sabbath
+Radiohead:Pink Floyd
+Megadeth:MGMT
+Beyoncé:The Offspring
+Deftones:Lady Gaga
+The Doors:Keane
+Children of Bodom:blink-182
+Nine Inch Nails:Regina Spektor
+Three Days Grace:The Smashing Pumpkins
+Bloc Party:Depeche Mode
+Keane:Modest Mouse
+Avril Lavigne:Incubus
+Kings of Leon:Bullet for My Valentine
+Queen:Modest Mouse
+Opeth:Tool
+Ramones:Red Hot Chili Peppers
+Marilyn Manson:Three Days Grace
+Daft Punk:The Used
+Beyoncé:Modest Mouse
+Death Cab for Cutie:Taylor Swift
+Nine Inch Nails:Snow Patrol
+Evanescence:Blur
+Arctic Monkeys:Avril Lavigne
+Joy Division:Aerosmith
+Rise Against:Tool
+The All-American Rejects:The Clash
+Breaking Benjamin:Britney Spears
+Massive Attack:Joy Division
+30 Seconds to Mars:Slipknot
+blink-182:The Smiths
+U2:AC/DC
+Black Eyed Peas:Pearl Jam
+Black Sabbath:The All-American Rejects
+The Offspring:Bloc Party
+Christina Aguilera:Slipknot
+Beyoncé:Cobra Starship
+Foo Fighters:Interpol
+Regina Spektor:My Chemical Romance
+Oasis:Bob Dylan
+The Smashing Pumpkins:30 Seconds to Mars
+All Time Low:Daft Punk
+The Rolling Stones:Slipknot
+Fall Out Boy:Kanye West
+Incubus:Christina Aguilera
+Paramore:Green Day
+The Strokes:The Used
+The Used:The Doors
+Opeth:U2
+AC/DC:Deftones
+Björk:Marilyn Manson
+Rihanna:Eminem
+Belle and Sebastian:Franz Ferdinand
+Metallica:Iron Maiden
+Beck:Opeth
+Regina Spektor:Led Zeppelin
+Linkin Park:Foo Fighters
+The Smashing Pumpkins:Led Zeppelin
+Queens of the Stone Age:Fall Out Boy
+Kings of Leon:Radiohead
+Avril Lavigne:Modest Mouse
+The Smashing Pumpkins:Jimi Hendrix
+Arctic Monkeys:Oasis
+Rammstein:Phoenix
+Massive Attack:Phoenix
+Placebo:Rammstein
+All Time Low:The Cure
+Children of Bodom:Bob Dylan
+Slayer:Avenged Sevenfold
+Beyoncé:Foo Fighters
+blink-182:Coldplay
+Foo Fighters:Regina Spektor
+Depeche Mode:The White Stripes
+Taylor Swift:System of a Down
+Pixies:Black Sabbath
+Interpol:Death Cab for Cutie
+Pink Floyd:Incubus
+Ramones:Blur
+Pixies:Aerosmith
+Deftones:Kanye West
+Nirvana:Madonna
+A Perfect Circle:Beyoncé
+Death Cab for Cutie:Queen
+Marilyn Manson:Breaking Benjamin
+All Time Low:Crystal Castles
+Depeche Mode:Placebo
+Nickelback:Cobra Starship
+MGMT:The Beatles
+Michael Jackson:Avril Lavigne
+Keane:Weezer
+Björk:Bloc Party
+Nirvana:blink-182
+Deftones:Slayer
+Yeah Yeah Yeahs:David Bowie
+Nickelback:Bloc Party
+The Clash:The Killers
+Children of Bodom:Red Hot Chili Peppers
+The Smiths:Christina Aguilera
+Radiohead:Disturbed
+Michael Jackson:Franz Ferdinand
+Megadeth:The Smiths
+Regina Spektor:Nightwish
+The xx:Nightwish
+Nightwish:Tool
+Sigur Rós:System of a Down
+Vampire Weekend:AC/DC
+Nine Inch Nails:MGMT
+Lady Gaga:Interpol
+Tegan and Sara:Queens of the Stone Age
+Kings of Leon:Regina Spektor
+The Cure:Gorillaz
+Death Cab for Cutie:Metallica
+All Time Low:Coldplay
+Red Hot Chili Peppers:Gorillaz
+The Smiths:Ke$ha
+Beck:Nine Inch Nails
+AC/DC:Incubus
+Fall Out Boy:Ke$ha
+Fall Out Boy:Incubus
+30 Seconds to Mars:Placebo
+Björk:Regina Spektor
+30 Seconds to Mars:Nirvana
+Deftones:A Perfect Circle
+The Used:Oasis
+Nirvana:Weezer
+The Killers:Guns N' Roses
+30 Seconds to Mars:Led Zeppelin
+Bloc Party:A Perfect Circle
+Taylor Swift:Nirvana
+Franz Ferdinand:Vampire Weekend
+Metallica:Slayer
+Deftones:MGMT
+Interpol:Slayer
+Slipknot:Tegan and Sara
+Incubus:Yeah Yeah Yeahs
+Amy Winehouse:Michael Jackson
+Slipknot:Black Eyed Peas
+Fall Out Boy:Eminem
+All Time Low:Katy Perry
+Regina Spektor:Deftones
+The Beatles:Pearl Jam
+Arctic Monkeys:Black Eyed Peas
+Queen:Lily Allen
+Black Eyed Peas:Franz Ferdinand
+Queens of the Stone Age:Kanye West
+Björk:Black Sabbath
+Black Sabbath:Madonna
+Madonna:Katy Perry
+Pixies:Pink Floyd
+Queens of the Stone Age:Amy Winehouse
+The Strokes:Incubus
+Björk:Radiohead
+Green Day:Crystal Castles
+Daft Punk:Lily Allen
+Joy Division:Beyoncé
+The Beatles:Korn
+Cobra Starship:Radiohead
+Linkin Park:Kings of Leon
+Nine Inch Nails:Vampire Weekend
+Ramones:Weezer
+Blur:Avril Lavigne
+Avenged Sevenfold:Deftones
+Lily Allen:Regina Spektor
+The xx:U2
+Pixies:Death Cab for Cutie
+Jimi Hendrix:Massive Attack
+My Chemical Romance:Madonna
+Avenged Sevenfold:Megadeth
+Regina Spektor:Snow Patrol
+Bloc Party:The Doors
+Madonna:David Bowie
+All Time Low:U2
+Led Zeppelin:Guns N' Roses
+Rihanna:Massive Attack
+Megadeth:The Who
+Rise Against:Katy Perry
+Rihanna:Pearl Jam
+Korn:Cobra Starship
+Deftones:David Bowie
+The Smiths:Kasabian
+Arctic Monkeys:Cobra Starship
+Snow Patrol:Disturbed
+The Prodigy:The Who
+Deftones:Breaking Benjamin
+Nirvana:Slayer
+The Who:Belle and Sebastian
+Vampire Weekend:Aerosmith
+Michael Jackson:30 Seconds to Mars
+Paramore:Radiohead
+Florence + the Machine:Three Days Grace
+Katy Perry:Avril Lavigne
+Ke$ha:Michael Jackson
+System of a Down:Korn
+Portishead:The All-American Rejects
+The Doors:Black Sabbath
+Snow Patrol:Radiohead
+Breaking Benjamin:Beyoncé
+Disturbed:Panic! At the Disco
+Kanye West:Avenged Sevenfold
+Breaking Benjamin:Megadeth
+The Doors:My Chemical Romance
+The Killers:All Time Low
+Kasabian:Yeah Yeah Yeahs
+Iron Maiden:The All-American Rejects
+Queens of the Stone Age:Opeth
+Franz Ferdinand:Muse
+Belle and Sebastian:Florence + the Machine
+Amy Winehouse:U2
+Evanescence:Muse
+Ke$ha:Death Cab for Cutie
+Blur:Avenged Sevenfold
+Evanescence:The Doors
+Breaking Benjamin:Placebo
+Rammstein:Ramones
+Oasis:Jimi Hendrix
+Crystal Castles:Regina Spektor
+Panic! At the Disco:Foo Fighters
+The Offspring:Children of Bodom
+Beck:Massive Attack
+Interpol:AC/DC
+AC/DC:Black Sabbath
+Depeche Mode:Marilyn Manson
+Björk:Evanescence
+Evanescence:Led Zeppelin
+Madonna:Oasis
+Ramones:Katy Perry
+The Strokes:Tegan and Sara
+Breaking Benjamin:Aerosmith
+The Killers:Beck
+The Cure:Avenged Sevenfold
+Lady Gaga:Children of Bodom
+Arctic Monkeys:Florence + the Machine
+Daft Punk:Belle and Sebastian
+3OH!3:Tool
+Fall Out Boy:The Rolling Stones
+Britney Spears:Björk
+Muse:Bob Dylan
+Gorillaz:Beck
+The Strokes:Rise Against
+Vampire Weekend:Yeah Yeah Yeahs
+Madonna:The Smiths
+Kasabian:30 Seconds to Mars
+Linkin Park:The Killers
+Ramones:All Time Low
+Deftones:Opeth
+Aerosmith:The All-American Rejects
+Avenged Sevenfold:Cobra Starship
+All Time Low:Kings of Leon
+Three Days Grace:Tool
+Papa Roach:Lady Gaga
+Nightwish:Breaking Benjamin
+Franz Ferdinand:U2
+Korn:Rammstein
+Paramore:Disturbed
+Portishead:Jimi Hendrix
+Queen:The Offspring
+Avenged Sevenfold:The Smashing Pumpkins
+Oasis:Massive Attack
+Lady Gaga:Snow Patrol
+The Killers:Queen
+The Smashing Pumpkins:Arctic Monkeys
+Arctic Monkeys:Led Zeppelin
+Muse:The White Stripes
+Madonna:MGMT
+Deftones:Radiohead
+Megadeth:AC/DC
+Iron Maiden:MGMT
+Nickelback:Madonna
+Deftones:Pink Floyd
+Pearl Jam:Depeche Mode
+Vampire Weekend:Paramore
+Sigur Rós:Bob Dylan
+Disturbed:Deftones
+Children of Bodom:Michael Jackson
+Marilyn Manson:Black Sabbath
+Deftones:Death Cab for Cutie
+Iron Maiden:Three Days Grace
+Fall Out Boy:Rihanna
+U2:Aerosmith
+Ramones:Green Day
+Opeth:Disturbed
+Tool:Aerosmith
+Foo Fighters:Rihanna
+Bullet for My Valentine:Amy Winehouse
+The Smiths:Queen
+Taylor Swift:The Killers
+Keane:Crystal Castles
+The Beatles:The Smiths
+Aerosmith:Papa Roach
+Florence + the Machine:Katy Perry
+The Offspring:Depeche Mode
+Bloc Party:The Smashing Pumpkins
+David Bowie:Vampire Weekend
+30 Seconds to Mars:Three Days Grace
+blink-182:Yeah Yeah Yeahs
+System of a Down:Aerosmith
+The Smashing Pumpkins:Weezer
+Phoenix:Weezer
+Christina Aguilera:Avril Lavigne
+Linkin Park:Paramore
+Muse:The Smashing Pumpkins
+Slayer:System of a Down
+The Smiths:Paramore
+Bob Dylan:Slipknot
+The Offspring:Papa Roach
+Portishead:Radiohead
+Arctic Monkeys:Pixies
+Björk:The Doors
+Lady Gaga:Bullet for My Valentine
+Queen:Yeah Yeah Yeahs
+The xx:My Chemical Romance
+The Cure:Oasis
+Disturbed:Breaking Benjamin
+The Offspring:Linkin Park
+Metallica:Amy Winehouse
+Britney Spears:Lady Gaga
+The xx:Fall Out Boy
+3OH!3:Pearl Jam
+The All-American Rejects:Daft Punk
+Coldplay:Bloc Party
+Marilyn Manson:Kasabian
+Depeche Mode:Blur
+System of a Down:The Offspring
+Korn:Linkin Park
+Queens of the Stone Age:Beck
+Queens of the Stone Age:My Chemical Romance
+The Used:AC/DC
+Nightwish:Björk
+Sigur Rós:Ke$ha
+Massive Attack:Three Days Grace
+The Rolling Stones:The Killers
+Joy Division:Kings of Leon
+AC/DC:Bob Dylan
+30 Seconds to Mars:Ke$ha
+Metallica:Bob Dylan
+Nightwish:Black Eyed Peas
+The Who:Michael Jackson
+Interpol:The Smiths
+Daft Punk:Nirvana
+Florence + the Machine:Foo Fighters
+Nine Inch Nails:3OH!3
+Rise Against:Interpol
+Kasabian:Bob Dylan
+Taylor Swift:Modest Mouse
+Amy Winehouse:Kanye West
+Björk:Papa Roach
+Weezer:The White Stripes
+My Chemical Romance:Red Hot Chili Peppers
+Jimi Hendrix:The Cure
+MGMT:Death Cab for Cutie
+Florence + the Machine:Queens of the Stone Age
+Weezer:Massive Attack
+Yeah Yeah Yeahs:Sigur Rós
+Red Hot Chili Peppers:A Perfect Circle
+Opeth:Modest Mouse
+Michael Jackson:Pearl Jam
+Kasabian:Christina Aguilera
+Opeth:Massive Attack
+David Bowie:Ke$ha
+My Chemical Romance:AC/DC
+The Clash:Oasis
+Avenged Sevenfold:Marilyn Manson
+Gorillaz:Avril Lavigne
+Jimi Hendrix:Marilyn Manson
+Korn:Ke$ha
+Lady Gaga:U2
+Rise Against:Avril Lavigne
+The Cure:Placebo
+The Who:Korn
+Britney Spears:The White Stripes
+Rammstein:Pixies
+The Kooks:Kanye West
+Three Days Grace:Yeah Yeah Yeahs
+Ke$ha:Linkin Park
+Coldplay:Jimi Hendrix
+Metallica:Rihanna
+Pearl Jam:Belle and Sebastian
+The Doors:The Beatles
+The Prodigy:MGMT
+The Strokes:Three Days Grace
+Bob Dylan:Massive Attack
+Bullet for My Valentine:Aerosmith
+Beck:Ramones
+Tegan and Sara:Depeche Mode
+The White Stripes:The Who
+Michael Jackson:Rise Against
+Lady Gaga:Fall Out Boy
+Alice in Chains:Ke$ha
+Guns N' Roses:Gorillaz
+Franz Ferdinand:Deftones
+Opeth:The White Stripes
+Death Cab for Cutie:A Perfect Circle
+Nirvana:Yeah Yeah Yeahs
+Taylor Swift:Vampire Weekend
+The Strokes:Papa Roach
+Vampire Weekend:Black Eyed Peas
+Christina Aguilera:The Beatles
+The Kooks:System of a Down
+Slipknot:Iron Maiden
+Regina Spektor:AC/DC
+Rise Against:System of a Down
+Queen:Papa Roach
+Pearl Jam:The Cure
+Green Day:The Clash
+The xx:Katy Perry
+My Chemical Romance:Daft Punk
+The Doors:Oasis
+Tegan and Sara:Death Cab for Cutie
+Alice in Chains:Coldplay
+Beck:Slipknot
+Daft Punk:Britney Spears
+Marilyn Manson:The Kooks
+Papa Roach:Christina Aguilera
+Deftones:The Beatles
+Depeche Mode:The Clash
+The Strokes:A Perfect Circle
+The Cure:Papa Roach
+Bloc Party:Beck
+Ke$ha:U2
+Opeth:Sigur Rós
+Muse:Pink Floyd
+Evanescence:MGMT
+The Who:Avenged Sevenfold
+Marilyn Manson:Beck
+David Bowie:Foo Fighters
+Avril Lavigne:Rammstein
+Snow Patrol:Bloc Party
+The White Stripes:Massive Attack
+Jimi Hendrix:Michael Jackson
+David Bowie:Tegan and Sara
+The xx:The Rolling Stones
+Madonna:The Cure
+The xx:Pearl Jam
+A Perfect Circle:Korn
+The Kooks:Megadeth
+Fall Out Boy:Linkin Park
+Modest Mouse:Regina Spektor
+Arctic Monkeys:Kasabian
+MGMT:Avenged Sevenfold
+The Offspring:Panic! At the Disco
+Kasabian:Aerosmith
+Blur:Queen
+Keane:System of a Down
+Papa Roach:Kasabian
+Arctic Monkeys:Sigur Rós
+Evanescence:Cobra Starship
+Nickelback:Panic! At the Disco
+Green Day:Belle and Sebastian
+The Rolling Stones:Nightwish
+Black Sabbath:Sigur Rós
+The Doors:Queen
+Black Sabbath:Taylor Swift
+blink-182:Crystal Castles
+Papa Roach:Marilyn Manson
+Placebo:Evanescence
+Tegan and Sara:Foo Fighters
+Placebo:Iron Maiden
+Snow Patrol:Florence + the Machine
+Nirvana:Korn
+Paramore:The Prodigy
+The Strokes:Opeth
+Nirvana:The Cure
+Madonna:Daft Punk
+Beyoncé:Yeah Yeah Yeahs
+Björk:Jimi Hendrix
+Snow Patrol:The Offspring
+Green Day:AC/DC
+Snow Patrol:Paramore
+Pixies:Regina Spektor
+Sigur Rós:Aerosmith
+The Smashing Pumpkins:Tegan and Sara
+Red Hot Chili Peppers:Paramore
+Marilyn Manson:Ramones
+30 Seconds to Mars:Franz Ferdinand
+The Smiths:Taylor Swift
+The Smashing Pumpkins:Incubus
+Aerosmith:The Smashing Pumpkins
+My Chemical Romance:Vampire Weekend
+The Kooks:Britney Spears
+Kings of Leon:The White Stripes
+All Time Low:Led Zeppelin
+Ke$ha:The Offspring
+Avril Lavigne:Rihanna
+Regina Spektor:30 Seconds to Mars
+30 Seconds to Mars:Massive Attack
+Slayer:Avril Lavigne
+Modest Mouse:David Bowie
+Massive Attack:Death Cab for Cutie
+Daft Punk:Keane
+The Doors:Beyoncé
+Korn:David Bowie
+Franz Ferdinand:The Who
+Interpol:Bullet for My Valentine
+Yeah Yeah Yeahs:Bullet for My Valentine
+Nightwish:Green Day
+Nickelback:U2
+Nickelback:Aerosmith
+Beyoncé:Gorillaz
+The Prodigy:Yeah Yeah Yeahs
+Florence + the Machine:Breaking Benjamin
+Snow Patrol:Evanescence
+Phoenix:Rihanna
+Nirvana:Tegan and Sara
+Megadeth:Interpol
+Snow Patrol:Gorillaz
+Rihanna:Red Hot Chili Peppers
+Metallica:The Killers
+Kings of Leon:Arctic Monkeys
+Phoenix:Death Cab for Cutie
+Regina Spektor:Red Hot Chili Peppers
+Christina Aguilera:Queen
+The Prodigy:Britney Spears
+Belle and Sebastian:Paramore
+All Time Low:Michael Jackson
+Slipknot:Lily Allen
+Opeth:The Clash
+Disturbed:David Bowie
+Bob Dylan:The All-American Rejects
+Slayer:The Prodigy
+Nightwish:The Beatles
+The Doors:Breaking Benjamin
+Megadeth:The Smashing Pumpkins
+Regina Spektor:Fall Out Boy
+The White Stripes:Kanye West
+Rammstein:Death Cab for Cutie
+Amy Winehouse:Rammstein
+The White Stripes:Katy Perry
+The Beatles:Keane
+Lady Gaga:Keane
+Muse:Tool
+MGMT:Vampire Weekend
+Alice in Chains:Crystal Castles
+Muse:The Strokes
+Daft Punk:Evanescence
+MGMT:The All-American Rejects
+Death Cab for Cutie:3OH!3
+Beck:Depeche Mode
+Nickelback:The Prodigy
+Green Day:Amy Winehouse
+Bloc Party:Led Zeppelin
+A Perfect Circle:The Smashing Pumpkins
+Joy Division:Paramore
+Black Sabbath:Fall Out Boy
+My Chemical Romance:Pearl Jam
+My Chemical Romance:Children of Bodom
+A Perfect Circle:Jimi Hendrix
+Nine Inch Nails:Oasis
+Papa Roach:Rihanna
+Christina Aguilera:The Kooks
+Marilyn Manson:30 Seconds to Mars
+Rise Against:Deftones
+Panic! At the Disco:Belle and Sebastian
+Rise Against:Black Sabbath
+Alice in Chains:Cobra Starship
+Avril Lavigne:Phoenix
+Michael Jackson:The Clash
+Deftones:Oasis
+Avenged Sevenfold:Linkin Park
+Lady Gaga:The Used
+Evanescence:Franz Ferdinand
+Nightwish:Death Cab for Cutie
+The Doors:Crystal Castles
+Coldplay:Franz Ferdinand
+Britney Spears:Lily Allen
+Kings of Leon:Yeah Yeah Yeahs
+Iron Maiden:Depeche Mode
+Blur:Michael Jackson
+The Strokes:The White Stripes
+Disturbed:Marilyn Manson
+Kings of Leon:Marilyn Manson
+The Smiths:Fall Out Boy
+The Prodigy:Lady Gaga
+Linkin Park:Aerosmith
+David Bowie:Pixies
+Queen:30 Seconds to Mars
+Florence + the Machine:Sigur Rós
+Lady Gaga:Franz Ferdinand
+The Beatles:Belle and Sebastian
+U2:Oasis
+Incubus:The Used
+Blur:Korn
+Green Day:The Rolling Stones
+Nirvana:Nickelback
+The Beatles:Taylor Swift
+Opeth:Daft Punk
+Alice in Chains:Interpol
+Nickelback:Three Days Grace
+Incubus:U2
+Death Cab for Cutie:Children of Bodom
+Queen:The Cure
+Opeth:Madonna
+Opeth:The Doors
+Portishead:Yeah Yeah Yeahs
+Black Eyed Peas:Deftones
+Portishead:Tegan and Sara
+Avenged Sevenfold:Beyoncé
+Nightwish:Pixies
+Metallica:The Clash
+Slipknot:Green Day
+The Cure:Marilyn Manson
+The Prodigy:Blur
+Nickelback:Papa Roach
+Metallica:The White Stripes
+Radiohead:Oasis
+Papa Roach:Panic! At the Disco
+Deftones:Beck
+Placebo:Yeah Yeah Yeahs
+Britney Spears:The Smiths
+Tool:Björk
+AC/DC:Iron Maiden
+Bullet for My Valentine:Marilyn Manson
+Tool:Guns N' Roses
+Bob Dylan:Iron Maiden
+System of a Down:Avril Lavigne
+Nirvana:Sigur Rós
+Queens of the Stone Age:Queen
+Ramones:Arctic Monkeys
+Vampire Weekend:Radiohead
+Bullet for My Valentine:Korn
+The Rolling Stones:Nirvana
+Slayer:Foo Fighters
+Ramones:Incubus
+blink-182:Muse
+Arctic Monkeys:Jimi Hendrix
+Rise Against:Beyoncé
+The Smashing Pumpkins:Madonna
+Megadeth:Jimi Hendrix
+Katy Perry:Led Zeppelin
+Katy Perry:Red Hot Chili Peppers
+Britney Spears:Regina Spektor
+Slipknot:Ke$ha
+The Smashing Pumpkins:Bob Dylan
+Interpol:David Bowie
+Blur:Death Cab for Cutie
+AC/DC:MGMT
+Fall Out Boy:Kings of Leon
+Vampire Weekend:Metallica
+Beck:Weezer
+Pink Floyd:Massive Attack
+Queen:Rihanna
+Avenged Sevenfold:Katy Perry
+Green Day:David Bowie
+Opeth:Bob Dylan
+Christina Aguilera:Black Sabbath
+The Prodigy:The Kooks
+Slipknot:Massive Attack
+The Smashing Pumpkins:Amy Winehouse
+Avril Lavigne:Franz Ferdinand
+Weezer:Bloc Party
+Deftones:Coldplay
+David Bowie:Britney Spears
+Megadeth:Depeche Mode
+Lady Gaga:Depeche Mode
+Fall Out Boy:AC/DC
+Green Day:The Strokes
+Katy Perry:Kasabian
+Beck:Death Cab for Cutie
+Led Zeppelin:Sigur Rós
+Madonna:Crystal Castles
+Vampire Weekend:Tool
+The White Stripes:MGMT
+The Used:Evanescence
+My Chemical Romance:Slipknot
+Rise Against:Franz Ferdinand
+The Used:Eminem
+Pink Floyd:Ke$ha
+Death Cab for Cutie:Portishead
+Incubus:Blur
+The Clash:The White Stripes
+Green Day:The Who
+David Bowie:The xx
+Panic! At the Disco:Metallica
+3OH!3:The Clash
+Depeche Mode:Slayer
+The Smashing Pumpkins:The White Stripes
+Interpol:Aerosmith
+Disturbed:Queen
+Keane:Amy Winehouse
+Metallica:Marilyn Manson
+Kings of Leon:Papa Roach
+blink-182:Daft Punk
+Muse:Placebo
+Cobra Starship:Papa Roach
+Alice in Chains:Bloc Party
+The Clash:The Strokes
+Daft Punk:The Rolling Stones
+Foo Fighters:Amy Winehouse
+Depeche Mode:Coldplay
+Florence + the Machine:Rise Against
+The xx:Portishead
+My Chemical Romance:U2
+Portishead:David Bowie
+Breaking Benjamin:My Chemical Romance
+Radiohead:Iron Maiden
+The Kooks:Lady Gaga
+All Time Low:Panic! At the Disco
+Bloc Party:Jimi Hendrix
+Regina Spektor:The Smashing Pumpkins
+Coldplay:Gorillaz
+blink-182:Katy Perry
+Black Sabbath:Cobra Starship
+Arctic Monkeys:Belle and Sebastian
+Phoenix:Iron Maiden
+Queen:Megadeth
+Madonna:Phoenix
+Keane:MGMT
+My Chemical Romance:Eminem
+The White Stripes:The xx
+Joy Division:Nine Inch Nails
+Breaking Benjamin:Taylor Swift
+The Smashing Pumpkins:All Time Low
+A Perfect Circle:Rammstein
+Modest Mouse:The All-American Rejects
+Kings of Leon:U2
+Evanescence:Nickelback
+Beyoncé:Britney Spears
+David Bowie:Breaking Benjamin
+Queen:The Who
+Florence + the Machine:Jimi Hendrix
+Nightwish:Sigur Rós
+blink-182:Oasis
+Rise Against:Korn
+Nirvana:Green Day
+The Smiths:Incubus
+Phoenix:Paramore
+Nirvana:Florence + the Machine
+Green Day:Linkin Park
+Green Day:U2
+Tool:Korn
+Lily Allen:Jimi Hendrix
+Disturbed:Eminem
+The Used:Breaking Benjamin
+Nine Inch Nails:Paramore
+Linkin Park:Snow Patrol
+Metallica:Pink Floyd
+Megadeth:Ke$ha
+Belle and Sebastian:blink-182
+Keane:Coldplay
+Breaking Benjamin:Slayer
+Gorillaz:The Offspring
+All Time Low:Madonna
+Nickelback:Alice in Chains
+Radiohead:Florence + the Machine
+Avenged Sevenfold:Christina Aguilera
+Taylor Swift:Slipknot
+Lady Gaga:blink-182
+Jimi Hendrix:The Rolling Stones
+The Clash:The Kooks
+The Smiths:Pink Floyd
+The xx:Marilyn Manson
+Yeah Yeah Yeahs:Pixies
+The Smashing Pumpkins:The Killers
+Kasabian:Gorillaz
+System of a Down:Fall Out Boy
+Christina Aguilera:Led Zeppelin
+David Bowie:Led Zeppelin
+Kanye West:Pearl Jam
+Björk:The White Stripes
+Vampire Weekend:Daft Punk
+Korn:Amy Winehouse
+Florence + the Machine:The Prodigy
+Massive Attack:Gorillaz
+Three Days Grace:Weezer
+Modest Mouse:The Strokes
+David Bowie:Linkin Park
+blink-182:The Used
+Oasis:Paramore
+A Perfect Circle:Yeah Yeah Yeahs
+Florence + the Machine:Depeche Mode
+U2:Black Sabbath
+The Rolling Stones:3OH!3
+Muse:The Killers
+The Who:Beck
+The Beatles:Aerosmith
+The Beatles:Breaking Benjamin
+Madonna:Paramore
+Snow Patrol:Papa Roach
+The Doors:Placebo
+Placebo:The Offspring
+Keane:Beyoncé
+Nine Inch Nails:Ramones
+Nightwish:Black Sabbath
+Oasis:Crystal Castles
+Regina Spektor:Massive Attack
+Michael Jackson:Arctic Monkeys
+Megadeth:Phoenix
+Daft Punk:Kanye West
+All Time Low:AC/DC
+Evanescence:Portishead
+The Used:My Chemical Romance
+The Rolling Stones:The Prodigy
+Opeth:Rammstein
+All Time Low:Breaking Benjamin
+Guns N' Roses:Black Sabbath
+Franz Ferdinand:The All-American Rejects
+Deftones:Madonna
+blink-182:The Prodigy
+The Who:Rise Against
+Death Cab for Cutie:Regina Spektor
+Placebo:Nickelback
+Slipknot:blink-182
+Beyoncé:Taylor Swift
+Keane:Black Sabbath
+Children of Bodom:Marilyn Manson
+Korn:Marilyn Manson
+David Bowie:The Clash
+Deftones:Muse
+Kanye West:Three Days Grace
+Iron Maiden:Taylor Swift
+Metallica:Massive Attack
+Slipknot:The Offspring
+David Bowie:Beyoncé
+Arctic Monkeys:3OH!3
+Bullet for My Valentine:Opeth
+Foo Fighters:Queen
+Modest Mouse:Aerosmith
+Yeah Yeah Yeahs:The Killers
+Madonna:The Offspring
+Guns N' Roses:The Strokes
+30 Seconds to Mars:MGMT
+Fall Out Boy:Panic! At the Disco
+Bob Dylan:Katy Perry
+Muse:MGMT
+The Smiths:Tool
+Franz Ferdinand:Ramones
+Sigur Rós:MGMT
+The Doors:Black Eyed Peas
+Belle and Sebastian:Evanescence
+The Prodigy:The Doors
+My Chemical Romance:30 Seconds to Mars
+Arctic Monkeys:Portishead
+Björk:Oasis
+The Cure:Green Day
+A Perfect Circle:Regina Spektor
+Nightwish:Tegan and Sara
+Paramore:The Strokes
+The All-American Rejects:Rihanna
+MGMT:The Strokes
+Pink Floyd:Children of Bodom
+Nirvana:Cobra Starship
+David Bowie:Muse
+Florence + the Machine:System of a Down
+Red Hot Chili Peppers:Evanescence
+Oasis:Beck
+The Rolling Stones:AC/DC
+The White Stripes:Guns N' Roses
+The Prodigy:Rammstein
+The xx:The Killers
+Madonna:Red Hot Chili Peppers
+Kanye West:Gorillaz
+Fall Out Boy:Rammstein
+Phoenix:The Doors
+Death Cab for Cutie:Bloc Party
+Britney Spears:blink-182
+Bullet for My Valentine:Black Eyed Peas
+Green Day:A Perfect Circle
+Slipknot:Death Cab for Cutie
+Regina Spektor:Pink Floyd
+Tool:The Kooks
+Taylor Swift:Sigur Rós
+All Time Low:3OH!3
+AC/DC:Queen
+Bob Dylan:Queens of the Stone Age
+Papa Roach:Franz Ferdinand
+Daft Punk:Iron Maiden
+Crystal Castles:Placebo
+Coldplay:Bullet for My Valentine
+Deftones:Phoenix
+Michael Jackson:Iron Maiden
+The Strokes:Coldplay
+Weezer:Queen
+Bloc Party:Lily Allen
+Breaking Benjamin:Portishead
+3OH!3:Regina Spektor
+Children of Bodom:U2
+Sigur Rós:Red Hot Chili Peppers
+Snow Patrol:Marilyn Manson
+Linkin Park:Ramones
+Amy Winehouse:30 Seconds to Mars
+Massive Attack:David Bowie
+Aerosmith:Bob Dylan
+Florence + the Machine:Avril Lavigne
+Led Zeppelin:Death Cab for Cutie
+The White Stripes:Joy Division
+The Smiths:Tegan and Sara
+Tegan and Sara:The Used
+Madonna:The Prodigy
+Arctic Monkeys:Joy Division
+Franz Ferdinand:Blur
+Kings of Leon:Megadeth
+The Rolling Stones:Rihanna
+Deftones:Megadeth
+The White Stripes:Florence + the Machine
+Three Days Grace:The Who
+Nine Inch Nails:Bullet for My Valentine
+Panic! At the Disco:Bob Dylan
+The Doors:Michael Jackson
+Kasabian:The Killers
+Green Day:System of a Down
+Florence + the Machine:Yeah Yeah Yeahs
+Weezer:Alice in Chains
+The Kooks:Rihanna
+Björk:The Used
+Red Hot Chili Peppers:Ke$ha
+Muse:Opeth
+Britney Spears:Foo Fighters
+Kanye West:Jimi Hendrix
+The All-American Rejects:Oasis
+Gorillaz:Paramore
+Nickelback:Korn
+The White Stripes:Snow Patrol
+Guns N' Roses:Britney Spears
+The Killers:Rise Against
+Björk:Coldplay
+Slipknot:Incubus
+Franz Ferdinand:The Doors
+blink-182:Metallica
+Rise Against:The Smashing Pumpkins
+Bullet for My Valentine:The xx
+Franz Ferdinand:Massive Attack
+Sigur Rós:Foo Fighters
+Tool:The Doors
+Queen:Phoenix
+Depeche Mode:The Killers
+Weezer:The Prodigy
+Incubus:Bob Dylan
+Children of Bodom:Depeche Mode
+The All-American Rejects:Children of Bodom
+The Clash:Yeah Yeah Yeahs
+Nickelback:Franz Ferdinand
+Madonna:Arctic Monkeys
+Opeth:System of a Down
+Pixies:Guns N' Roses
+Keane:My Chemical Romance
+The Strokes:Katy Perry
+Interpol:Linkin Park
+Disturbed:The Who
+Megadeth:All Time Low
+MGMT:Black Sabbath
+Franz Ferdinand:blink-182
+Death Cab for Cutie:Alice in Chains
+Nightwish:Led Zeppelin
+Children of Bodom:Evanescence
+Children of Bodom:Ke$ha
+Weezer:Papa Roach
+Phoenix:Breaking Benjamin
+Madonna:Snow Patrol
+Coldplay:The White Stripes
+Coldplay:Tool
+Panic! At the Disco:Cobra Starship
+Nightwish:Alice in Chains
+Evanescence:Pearl Jam
+3OH!3:Crystal Castles
+blink-182:Radiohead
+Fall Out Boy:Sigur Rós
+The All-American Rejects:Vampire Weekend
+Tegan and Sara:The Prodigy
+Snow Patrol:Foo Fighters
+U2:Pixies
+The Smashing Pumpkins:Interpol
+Three Days Grace:Placebo
+The xx:Christina Aguilera
+Red Hot Chili Peppers:MGMT
+Rammstein:Guns N' Roses
+Iron Maiden:Katy Perry
+Björk:Green Day
+Daft Punk:AC/DC
+The Kooks:The Who
+Incubus:Tool
+Korn:Florence + the Machine
+Florence + the Machine:Blur
+The Prodigy:Red Hot Chili Peppers
+Florence + the Machine:Amy Winehouse
+Black Sabbath:The xx
+Radiohead:Bullet for My Valentine
+The Rolling Stones:Blur
+Cobra Starship:Avril Lavigne
+The Rolling Stones:Pearl Jam
+Modest Mouse:The Doors
+Massive Attack:Portishead
+Iron Maiden:Nightwish
+Iron Maiden:Breaking Benjamin
+Bloc Party:Eminem
+The Doors:The xx
+The Killers:Snow Patrol
+Depeche Mode:Cobra Starship
+A Perfect Circle:Evanescence
+Disturbed:Rise Against
+Kings of Leon:Panic! At the Disco
+Black Eyed Peas:Fall Out Boy
+Tegan and Sara:Kanye West
+Nickelback:Katy Perry
+Madonna:Bloc Party
+Led Zeppelin:Michael Jackson
+Cobra Starship:Regina Spektor
+Slipknot:Kasabian
+Slipknot:The White Stripes
+Linkin Park:Nightwish
+Michael Jackson:Pink Floyd
+Massive Attack:Pearl Jam
+Florence + the Machine:A Perfect Circle
+Keane:Tool
+Beyoncé:Nickelback
+Red Hot Chili Peppers:Panic! At the Disco
+Katy Perry:Guns N' Roses
+Slipknot:Rise Against
+Keane:Jimi Hendrix
+Radiohead:Foo Fighters
+Bullet for My Valentine:Crystal Castles
+Nine Inch Nails:Aerosmith
+The xx:Sigur Rós
+Beck:Sigur Rós
+Arctic Monkeys:The Who
+Muse:Papa Roach
+Arctic Monkeys:Regina Spektor
+Nightwish:Avenged Sevenfold
+Pearl Jam:Arctic Monkeys
+Beyoncé:U2
+Arctic Monkeys:The Strokes
+System of a Down:Megadeth
+Madonna:Queen
+My Chemical Romance:Placebo
+Fall Out Boy:Metallica
+Led Zeppelin:The Beatles
+A Perfect Circle:Kanye West
+System of a Down:Pearl Jam
+A Perfect Circle:The Rolling Stones
+Britney Spears:Death Cab for Cutie
+Ramones:Papa Roach
+Red Hot Chili Peppers:The Strokes
+The Doors:Beck
+Pearl Jam:Bullet for My Valentine
+Korn:Depeche Mode
+Slipknot:Rammstein
+Breaking Benjamin:The Smiths
+Crystal Castles:Kings of Leon
+Disturbed:Arctic Monkeys
+Radiohead:Yeah Yeah Yeahs
+System of a Down:Three Days Grace
+Avril Lavigne:Three Days Grace
+Franz Ferdinand:Children of Bodom
+Iron Maiden:Pearl Jam
+Cobra Starship:Nightwish
+blink-182:Foo Fighters
+Led Zeppelin:Nirvana
+Ke$ha:The Strokes
+Nightwish:The Strokes
+Sigur Rós:Incubus
+Queens of the Stone Age:Sigur Rós
+The Clash:Bullet for My Valentine
+Kasabian:Interpol
+Black Sabbath:Slayer
+The Smiths:Avenged Sevenfold
+Madonna:The Beatles
+David Bowie:Depeche Mode
+Queens of the Stone Age:Linkin Park
+Joy Division:A Perfect Circle
+Coldplay:The Cure
+Crystal Castles:Led Zeppelin
+Metallica:Sigur Rós
+Katy Perry:Michael Jackson
+Linkin Park:Pixies
+Modest Mouse:Joy Division
+Nickelback:Guns N' Roses
+The White Stripes:A Perfect Circle
+All Time Low:Aerosmith
+The Beatles:Bob Dylan
+Sigur Rós:Kanye West
+Nine Inch Nails:Opeth
+The Rolling Stones:Nine Inch Nails
+Slipknot:Slayer
+The Kooks:MGMT
+Kanye West:The Strokes
+Kanye West:Beyoncé
+The Beatles:Avenged Sevenfold
+Oasis:Black Eyed Peas
+Slayer:My Chemical Romance
+The Smiths:The Killers
+AC/DC:Placebo
+Joy Division:The Doors
+Gorillaz:3OH!3
+Coldplay:Disturbed
+Rammstein:Bullet for My Valentine
+Kasabian:Blur
+Daft Punk:Queens of the Stone Age
+Vampire Weekend:Kanye West
+Bloc Party:The Kooks
+All Time Low:Green Day
+Arctic Monkeys:Megadeth
+Portishead:Phoenix
+Rihanna:blink-182
+The xx:3OH!3
+The Rolling Stones:Deftones
+The Kooks:A Perfect Circle
+Nickelback:Amy Winehouse
+The Rolling Stones:Eminem
+The All-American Rejects:Pearl Jam
+Joy Division:Snow Patrol
+The Kooks:3OH!3
+Evanescence:The Prodigy
+Belle and Sebastian:Black Sabbath
+Slayer:Regina Spektor
+Franz Ferdinand:Snow Patrol
+Britney Spears:Black Sabbath
+The Smashing Pumpkins:Korn
+David Bowie:Pearl Jam
+Blur:Three Days Grace
+Bloc Party:Bob Dylan
+Pixies:Sigur Rós
+Jimi Hendrix:The Clash
+Kasabian:Michael Jackson
+Madonna:Avril Lavigne
+Pearl Jam:Weezer
+Led Zeppelin:Deftones
+Snow Patrol:Deftones
+Nightwish:Lady Gaga
+My Chemical Romance:Kings of Leon
+Daft Punk:Alice in Chains
+Tegan and Sara:Avril Lavigne
+Madonna:Pixies
+Tegan and Sara:The Kooks
+Björk:Sigur Rós
+Cobra Starship:Franz Ferdinand
+Phoenix:Ke$ha
+Led Zeppelin:Marilyn Manson
+Children of Bodom:The Rolling Stones
+Alice in Chains:Gorillaz
+Placebo:A Perfect Circle
+Slipknot:Opeth
+Panic! At the Disco:AC/DC
+All Time Low:The White Stripes
+Björk:Tegan and Sara
+The Strokes:Eminem
+The White Stripes:The Cure
+Linkin Park:Lily Allen
+Björk:Bob Dylan
+Joy Division:The Strokes
+Nickelback:Iron Maiden
+Christina Aguilera:Foo Fighters
+Alice in Chains:Papa Roach
+The Prodigy:Incubus
+The Smashing Pumpkins:Green Day
+Green Day:Iron Maiden
+Avenged Sevenfold:Weezer
+Rihanna:Kanye West
+Oasis:The White Stripes
+Paramore:The Clash
+Arctic Monkeys:Children of Bodom
+Queens of the Stone Age:Depeche Mode
+Queens of the Stone Age:Interpol
+Beyoncé:Black Sabbath
+Black Eyed Peas:Avril Lavigne
+The Rolling Stones:Metallica
+The Smiths:The xx
+Nine Inch Nails:Slipknot
+Nickelback:Crystal Castles
+Avril Lavigne:Ramones
+Avril Lavigne:Metallica
+Queen:Incubus
+A Perfect Circle:Rise Against
+Blur:Weezer
+Avenged Sevenfold:Guns N' Roses
+Yeah Yeah Yeahs:Panic! At the Disco
+Daft Punk:The Kooks
+Britney Spears:Opeth
+Slayer:Green Day
+Avenged Sevenfold:Alice in Chains
+Gorillaz:Daft Punk
+All Time Low:Papa Roach
+Sigur Rós:Portishead
+Deftones:Marilyn Manson
+Slipknot:All Time Low
+Lily Allen:Joy Division
+Led Zeppelin:Franz Ferdinand
+Joy Division:The Killers
+Rihanna:Jimi Hendrix
+Portishead:Marilyn Manson
+Kanye West:Katy Perry
+Slayer:The Kooks
+The Beatles:Amy Winehouse
+Belle and Sebastian:The Cure
+The Kooks:blink-182
+Nickelback:Massive Attack
+The Beatles:Black Sabbath
+Ke$ha:3OH!3
+Ramones:Kings of Leon
+My Chemical Romance:Britney Spears
+Queens of the Stone Age:blink-182
+30 Seconds to Mars:The Killers
+A Perfect Circle:Aerosmith
+Britney Spears:Crystal Castles
+System of a Down:Linkin Park
+Queens of the Stone Age:The Cure
+Vampire Weekend:Foo Fighters
+Björk:Alice in Chains
+The Cure:The Smiths
+Ramones:blink-182
+The Beatles:Papa Roach
+Slipknot:Nickelback
+Beck:My Chemical Romance
+Three Days Grace:The Prodigy
+Guns N' Roses:Michael Jackson
+Taylor Swift:The Smashing Pumpkins
+Breaking Benjamin:Regina Spektor
+Tool:Yeah Yeah Yeahs
+Muse:Queen
+Gorillaz:The Smiths
+Rise Against:Snow Patrol
+Evanescence:Coldplay
+Snow Patrol:The Clash
+Disturbed:The Smashing Pumpkins
+Pearl Jam:Black Sabbath
+Nirvana:Pearl Jam
+The Smiths:Iron Maiden
+Marilyn Manson:The Used
+Portishead:Nightwish
+Oasis:Korn
+Rammstein:Michael Jackson
+Linkin Park:Kanye West
+Phoenix:The Smiths
+Modest Mouse:Panic! At the Disco
+The Smiths:Yeah Yeah Yeahs
+Beck:Bob Dylan
+Modest Mouse:Pixies
+Nickelback:The Who
+Björk:The Kooks
+Kasabian:Kanye West
+Kings of Leon:Queens of the Stone Age
+Taylor Swift:Fall Out Boy
+Christina Aguilera:Nightwish
+The Offspring:The All-American Rejects
+Korn:Kasabian
+Michael Jackson:Nickelback
+Muse:Jimi Hendrix
+Linkin Park:Amy Winehouse
+Black Sabbath:Megadeth
+Rise Against:Oasis
+Rammstein:The xx
+Avril Lavigne:Kanye West
+Kasabian:Lady Gaga
+The Beatles:Interpol
+Led Zeppelin:Placebo
+Pink Floyd:Yeah Yeah Yeahs
+Metallica:The Offspring
+Gorillaz:The xx
+Disturbed:Björk
+Oasis:Disturbed
+The Offspring:Beck
+Linkin Park:Deftones
+Tool:Iron Maiden
+Michael Jackson:Three Days Grace
+Paramore:Ramones
+Avenged Sevenfold:blink-182
+Led Zeppelin:Amy Winehouse
+Blur:MGMT
+The Killers:Marilyn Manson
+Ke$ha:Pearl Jam
+Disturbed:Katy Perry
+Marilyn Manson:Black Eyed Peas
+The Rolling Stones:Weezer
+The Beatles:Ke$ha
+Taylor Swift:Jimi Hendrix
+The Used:Placebo
+The White Stripes:Black Sabbath
+Oasis:Panic! At the Disco
+My Chemical Romance:Death Cab for Cutie
+Crystal Castles:Deftones
+The All-American Rejects:The White Stripes
+Depeche Mode:Nine Inch Nails
+Madonna:Britney Spears
+Britney Spears:Belle and Sebastian
+Marilyn Manson:Phoenix
+Ke$ha:Rammstein
+Joy Division:The Smiths
+AC/DC:The White Stripes
+The Smashing Pumpkins:The Strokes
+Eminem:Depeche Mode
+Eminem:Nightwish
+Portishead:Lady Gaga
+The Offspring:Taylor Swift
+Korn:Iron Maiden
+Taylor Swift:Eminem
+Lady Gaga:Pearl Jam
+Nirvana:Foo Fighters
+Rammstein:All Time Low
+Yeah Yeah Yeahs:Red Hot Chili Peppers
+Beyoncé:System of a Down
+Slayer:The Doors
+Rihanna:30 Seconds to Mars
+Vampire Weekend:U2
+Belle and Sebastian:Nirvana
+Belle and Sebastian:Placebo
+Modest Mouse:Interpol
+Red Hot Chili Peppers:Franz Ferdinand
+Avenged Sevenfold:Rammstein
+Florence + the Machine:David Bowie
+Keane:Bloc Party
+Rammstein:The Clash
+Nightwish:Lily Allen
+Regina Spektor:Avenged Sevenfold
+Green Day:Rihanna
+Tegan and Sara:Eminem
+Fall Out Boy:David Bowie
+Placebo:Cobra Starship
+The Who:Marilyn Manson
+Nickelback:The Rolling Stones
+Black Sabbath:Regina Spektor
+Iron Maiden:Aerosmith
+Nine Inch Nails:Nickelback
+Taylor Swift:The Rolling Stones
+The All-American Rejects:Tegan and Sara
+Nickelback:The Smashing Pumpkins
+Arctic Monkeys:The Clash
+Massive Attack:Avril Lavigne
+Alice in Chains:Depeche Mode
+blink-182:Aerosmith
+Queens of the Stone Age:Foo Fighters
+Paramore:A Perfect Circle
+Franz Ferdinand:AC/DC
+System of a Down:David Bowie
+Tool:AC/DC
+Fall Out Boy:Beck
+The Doors:Rammstein
+My Chemical Romance:The Offspring
+Linkin Park:Opeth
+All Time Low:Death Cab for Cutie
+Christina Aguilera:Weezer
+Tool:Amy Winehouse
+Nickelback:The Strokes
+Kasabian:MGMT
+Regina Spektor:Avril Lavigne
+Evanescence:Florence + the Machine
+The Prodigy:Gorillaz
+Gorillaz:Rammstein
+Vampire Weekend:Weezer
+Beyoncé:AC/DC
+Rihanna:Rammstein
+Pearl Jam:Death Cab for Cutie
+Opeth:MGMT
+The Beatles:The Smashing Pumpkins
+Alice in Chains:Kasabian
+Red Hot Chili Peppers:The Killers
+Vampire Weekend:Alice in Chains
+3OH!3:Sigur Rós
+MGMT:David Bowie
+Sigur Rós:Paramore
+Rihanna:3OH!3
+Marilyn Manson:Eminem
+Avenged Sevenfold:The White Stripes
+Green Day:Aerosmith
+Keane:Nine Inch Nails
+Avenged Sevenfold:3OH!3
+Red Hot Chili Peppers:Michael Jackson
+Black Sabbath:Bloc Party
+Yeah Yeah Yeahs:Bloc Party
+Modest Mouse:Snow Patrol
+The Beatles:System of a Down
+Megadeth:Tool
+Madonna:Kasabian
+My Chemical Romance:Ke$ha
+Franz Ferdinand:Kanye West
+The White Stripes:Death Cab for Cutie
+Modest Mouse:Black Sabbath
+Guns N' Roses:Nightwish
+Kasabian:Snow Patrol
+The Strokes:Florence + the Machine
+Paramore:Ke$ha
+Avenged Sevenfold:A Perfect Circle
+Tegan and Sara:Franz Ferdinand
+Vampire Weekend:A Perfect Circle
+Amy Winehouse:Nine Inch Nails
+Marilyn Manson:Yeah Yeah Yeahs
+MGMT:The Killers
+Black Sabbath:The Offspring
+Queens of the Stone Age:Panic! At the Disco
+Madonna:Death Cab for Cutie
+Nirvana:Three Days Grace
+Led Zeppelin:Yeah Yeah Yeahs
+Aerosmith:Deftones
+Britney Spears:Beck
+Interpol:Red Hot Chili Peppers
+Metallica:Ke$ha
+Pearl Jam:Tool
+Phoenix:The Rolling Stones
+Three Days Grace:David Bowie
+Lady Gaga:MGMT
+Placebo:Lily Allen
+Fall Out Boy:Michael Jackson
+The Smashing Pumpkins:Metallica
+Crystal Castles:The Killers
+Nirvana:3OH!3
+The xx:Britney Spears
+Depeche Mode:AC/DC
+Daft Punk:30 Seconds to Mars
+Kings of Leon:Modest Mouse
+Amy Winehouse:Slipknot
+Green Day:Blur
+Nirvana:Ke$ha
+Gorillaz:My Chemical Romance
+Taylor Swift:Portishead
+AC/DC:Disturbed
+Gorillaz:The Who
+Incubus:Kanye West
+Modest Mouse:Vampire Weekend
+Bullet for My Valentine:Rise Against
+Aerosmith:Disturbed
+Disturbed:Kasabian
+Nirvana:Red Hot Chili Peppers
+The Clash:Sigur Rós
+U2:The Who
+The Smiths:The Clash
+Nine Inch Nails:The Cure
+Beck:David Bowie
+30 Seconds to Mars:Panic! At the Disco
+Black Sabbath:Evanescence
+Green Day:Katy Perry
+Linkin Park:Breaking Benjamin
+Lady Gaga:Lily Allen
+Slipknot:Snow Patrol
+Taylor Swift:The Kooks
+The Rolling Stones:30 Seconds to Mars
+Interpol:Coldplay
+Regina Spektor:Muse
+Black Sabbath:Korn
+Christina Aguilera:Black Eyed Peas
+Fall Out Boy:Radiohead
+Franz Ferdinand:Nirvana
+Nightwish:Amy Winehouse
+Lady Gaga:The All-American Rejects
+Green Day:Pink Floyd
+Pink Floyd:Lady Gaga
+Christina Aguilera:Kanye West
+Bob Dylan:Linkin Park
+Black Eyed Peas:Gorillaz
+The Strokes:Belle and Sebastian
+Red Hot Chili Peppers:The Who
+The Beatles:Coldplay
+Björk:Florence + the Machine
+Pixies:Tegan and Sara
+Evanescence:AC/DC
+Placebo:Massive Attack
+Slayer:Kanye West
+Disturbed:Fall Out Boy
+Keane:The Smiths
+The Strokes:The Rolling Stones
+Linkin Park:Oasis
+The Strokes:Black Eyed Peas
+Foo Fighters:The Strokes
+The Cure:Bloc Party
+Breaking Benjamin:Black Sabbath
+The All-American Rejects:The Who
+Breaking Benjamin:Beck
+Metallica:Opeth
+Phoenix:Blur
+The Used:The Killers
+Three Days Grace:The All-American Rejects
+Bullet for My Valentine:Disturbed
+Cobra Starship:The Smiths
+Nirvana:Kings of Leon
+Bullet for My Valentine:The White Stripes
+Eminem:Crystal Castles
+Björk:The xx
+30 Seconds to Mars:Korn
+Three Days Grace:Arctic Monkeys
+Death Cab for Cutie:AC/DC
+Eminem:The Who
+Florence + the Machine:The Who
+Phoenix:The Smashing Pumpkins
+Nirvana:Arctic Monkeys
+Nirvana:Children of Bodom
+The Offspring:Nirvana
+Paramore:Eminem
+Marilyn Manson:Cobra Starship
+Daft Punk:3OH!3
+Florence + the Machine:Massive Attack
+Iron Maiden:Sigur Rós
+Beck:The Clash
+David Bowie:Bob Dylan
+Tegan and Sara:Rihanna
+Coldplay:Aerosmith
+Avenged Sevenfold:The Strokes
+The Kooks:Green Day
+The Prodigy:Placebo
+Lily Allen:Queens of the Stone Age
+Red Hot Chili Peppers:AC/DC
+Nickelback:Modest Mouse
+Katy Perry:Queen
+Interpol:The Cure
+Green Day:Taylor Swift
+The xx:Ke$ha
+The Strokes:Bullet for My Valentine
+AC/DC:Portishead
+All Time Low:The Clash
+Yeah Yeah Yeahs:Black Sabbath
+Black Eyed Peas:My Chemical Romance
+Tegan and Sara:The Clash
+Avenged Sevenfold:Tool
+Crystal Castles:Children of Bodom
+Britney Spears:Panic! At the Disco
+Guns N' Roses:The Used
+Madonna:Marilyn Manson
+Radiohead:Beyoncé
+Björk:Franz Ferdinand
+Beck:Björk
+Breaking Benjamin:Arctic Monkeys
+Queens of the Stone Age:David Bowie
+Rise Against:Regina Spektor
+Franz Ferdinand:Avenged Sevenfold
+Eminem:Red Hot Chili Peppers
+The Clash:The xx
+Muse:Black Eyed Peas
+Florence + the Machine:The Cure
+Foo Fighters:3OH!3
+Nirvana:Beck
+Paramore:3OH!3
+Death Cab for Cutie:The xx
+David Bowie:Michael Jackson
+The Rolling Stones:Franz Ferdinand
+Eminem:Massive Attack
+Amy Winehouse:Disturbed
+Led Zeppelin:Belle and Sebastian
+Foo Fighters:Red Hot Chili Peppers
+Slipknot:AC/DC
+Tool:Green Day
+The Who:Massive Attack
+David Bowie:3OH!3
+Panic! At the Disco:The Kooks
+Fall Out Boy:Marilyn Manson
+Muse:System of a Down
+Fall Out Boy:The White Stripes
+Disturbed:Black Sabbath
+Blur:The xx
+Beck:Regina Spektor
+The Strokes:Yeah Yeah Yeahs
+Madonna:Evanescence
+The Used:Nickelback
+Rihanna:The Offspring
+Avril Lavigne:Slipknot
+Nine Inch Nails:Black Sabbath
+Ke$ha:System of a Down
+Iron Maiden:My Chemical Romance
+Kanye West:Cobra Starship
+Black Eyed Peas:Aerosmith
+Placebo:Phoenix
+Pearl Jam:The Prodigy
+Nirvana:Marilyn Manson
+The Clash:30 Seconds to Mars
+Opeth:Three Days Grace
+Opeth:Kings of Leon
+Ramones:Bob Dylan
+The Strokes:Panic! At the Disco
+Keane:All Time Low
+Weezer:U2
+Belle and Sebastian:Muse
+A Perfect Circle:Black Eyed Peas
+Regina Spektor:Florence + the Machine
+Alice in Chains:Pixies
+Evanescence:Megadeth
+Björk:Queen
+Nirvana:Joy Division
+The Rolling Stones:Kanye West
+Death Cab for Cutie:Papa Roach
+3OH!3:Nickelback
+David Bowie:Metallica
+Placebo:Bloc Party
+Korn:Weezer
+Deftones:The Smiths
+Kings of Leon:Massive Attack
+Green Day:Deftones
+Red Hot Chili Peppers:Lily Allen
+Nine Inch Nails:Rammstein
+The Clash:Franz Ferdinand
+Papa Roach:Bob Dylan
+The Kooks:The Cure
+The Who:Yeah Yeah Yeahs
+Snow Patrol:Vampire Weekend
+Paramore:AC/DC
+Cobra Starship:Christina Aguilera
+Radiohead:Tegan and Sara
+The Smiths:Linkin Park
+Florence + the Machine:Metallica
+blink-182:Kasabian
+Interpol:Ke$ha
+Ke$ha:The Used
+MGMT:Portishead
+Crystal Castles:David Bowie
+Green Day:Yeah Yeah Yeahs
+Disturbed:The Beatles
+A Perfect Circle:MGMT
+Beyoncé:Black Eyed Peas
+Kings of Leon:Weezer
+Modest Mouse:Eminem
+Depeche Mode:Evanescence
+Amy Winehouse:Pearl Jam
+Alice in Chains:Portishead
+Panic! At the Disco:Beyoncé
+Florence + the Machine:The Rolling Stones
+Deftones:Katy Perry
+The Killers:Jimi Hendrix
+Amy Winehouse:Blur
+Paramore:Katy Perry
+Coldplay:Christina Aguilera
+Joy Division:Daft Punk
+Modest Mouse:Fall Out Boy
+Korn:Modest Mouse
+Metallica:MGMT
+Avril Lavigne:Iron Maiden
+Foo Fighters:Blur
+The Beatles:Three Days Grace
+Oasis:Kanye West
+The Offspring:The Smashing Pumpkins
+Iron Maiden:All Time Low
+Snow Patrol:Breaking Benjamin
+Korn:Eminem
+Placebo:Vampire Weekend
+All Time Low:Avril Lavigne
+Keane:Metallica
+The Doors:Slipknot
+Green Day:Britney Spears
+Ramones:Rise Against
+The Smiths:Muse
+30 Seconds to Mars:Black Eyed Peas
+Christina Aguilera:Ke$ha
+Arctic Monkeys:Death Cab for Cutie
+Björk:Rammstein
+Keane:Bullet for My Valentine
+Nine Inch Nails:Rise Against
+Beyoncé:Oasis
+Björk:Kasabian
+Panic! At the Disco:The Doors
+Tool:The xx
+Florence + the Machine:Marilyn Manson
+The Strokes:My Chemical Romance
+Avenged Sevenfold:Pearl Jam
+Taylor Swift:A Perfect Circle
+The Rolling Stones:Regina Spektor
+Regina Spektor:Kasabian
+Bob Dylan:Death Cab for Cutie
+30 Seconds to Mars:Incubus
+Megadeth:The Prodigy
+Nickelback:Rihanna
+Papa Roach:Portishead
+Paramore:MGMT
+Interpol:Amy Winehouse
+Cobra Starship:Lady Gaga
+Ke$ha:Pixies
+Death Cab for Cutie:Jimi Hendrix
+Modest Mouse:Blur
+Placebo:Madonna
+blink-182:Pixies
+Black Eyed Peas:Nine Inch Nails
+Green Day:The White Stripes
+Coldplay:Kasabian
+Pixies:Avril Lavigne
+Black Sabbath:Panic! At the Disco
+Kings of Leon:The Smiths
+The Smashing Pumpkins:Vampire Weekend
+Björk:Paramore
+Opeth:Taylor Swift
+The Smiths:Children of Bodom
+David Bowie:AC/DC
+Placebo:Jimi Hendrix
+Rise Against:The White Stripes
+The White Stripes:Beyoncé
+Panic! At the Disco:Amy Winehouse
+Muse:Gorillaz
+Black Sabbath:Franz Ferdinand
+Amy Winehouse:Depeche Mode
+System of a Down:Metallica
+blink-182:Red Hot Chili Peppers
+Madonna:The Killers
+Michael Jackson:The All-American Rejects
+Kanye West:Britney Spears
+Radiohead:Guns N' Roses
+Panic! At the Disco:Vampire Weekend
+Lily Allen:The Cure
+Deftones:The xx
+Weezer:Crystal Castles
+Nirvana:Black Sabbath
+Britney Spears:Black Eyed Peas
+Keane:The White Stripes
+Joy Division:Iron Maiden
+Deftones:Eminem
+The Beatles:The xx
+Led Zeppelin:Portishead
+Florence + the Machine:Weezer
+The Rolling Stones:Papa Roach
+Tegan and Sara:blink-182
+Korn:The White Stripes
+The Who:Nine Inch Nails
+My Chemical Romance:Radiohead
+Yeah Yeah Yeahs:Ramones
+Avril Lavigne:The Prodigy
+Rise Against:Red Hot Chili Peppers
+Gorillaz:Bob Dylan
+Rammstein:Depeche Mode
+Pixies:Led Zeppelin
+Keane:Britney Spears
+Avenged Sevenfold:Disturbed
+Pink Floyd:Beck
+Regina Spektor:The Killers
+Incubus:Oasis
+Massive Attack:Fall Out Boy
+Regina Spektor:Radiohead
+Jimi Hendrix:Pearl Jam
+Florence + the Machine:Placebo
+Björk:Portishead
+Panic! At the Disco:Lily Allen
+Snow Patrol:Guns N' Roses
+Avril Lavigne:Lady Gaga
+Weezer:The Used
+MGMT:Rihanna
+The Doors:The Cure
+Avril Lavigne:Lily Allen
+Tool:Placebo
+My Chemical Romance:Kasabian
+Green Day:Nickelback
+Red Hot Chili Peppers:The White Stripes
+The Beatles:A Perfect Circle
+Marilyn Manson:The Doors
+Evanescence:The White Stripes
+Panic! At the Disco:Nine Inch Nails
+Megadeth:Blur
+Britney Spears:Avril Lavigne
+Massive Attack:Nine Inch Nails
+Radiohead:Placebo
+Florence + the Machine:Guns N' Roses
+Paramore:Papa Roach
+Arctic Monkeys:Interpol
+Breaking Benjamin:The Killers
+Weezer:David Bowie
+Björk:Avril Lavigne
+Christina Aguilera:The White Stripes
+Snow Patrol:Korn
+Jimi Hendrix:Iron Maiden
+Blur:Placebo
+Muse:Avenged Sevenfold
+The All-American Rejects:Regina Spektor
+Slipknot:Michael Jackson
+Crystal Castles:Florence + the Machine
+The Killers:Kanye West
+Gorillaz:Ke$ha
+Black Eyed Peas:blink-182
+Breaking Benjamin:Pixies
+Regina Spektor:Iron Maiden
+Avenged Sevenfold:The Killers
+Red Hot Chili Peppers:The Cure
+Lady Gaga:Black Sabbath
+The Who:Jimi Hendrix
+The Rolling Stones:Placebo
+The Clash:Christina Aguilera
+Kings of Leon:The xx
+Panic! At the Disco:Crystal Castles
+The Smashing Pumpkins:Björk
+Florence + the Machine:Kanye West
+Crystal Castles:Massive Attack
+The All-American Rejects:The Smiths
+Modest Mouse:Daft Punk
+Gorillaz:Tegan and Sara
+Deftones:U2
+A Perfect Circle:Coldplay
+Beyoncé:The All-American Rejects
+Megadeth:Madonna
+Guns N' Roses:Foo Fighters
+blink-182:Papa Roach
+The White Stripes:Amy Winehouse
+Daft Punk:Cobra Starship
+Belle and Sebastian:Depeche Mode
+Belle and Sebastian:Guns N' Roses
+Britney Spears:U2
+Panic! At the Disco:Rammstein
+Queens of the Stone Age:Oasis
+Sigur Rós:Joy Division
+Tegan and Sara:Rise Against
+Linkin Park:Madonna
+Keane:30 Seconds to Mars
+Gorillaz:Iron Maiden
+Kings of Leon:The Clash
+Britney Spears:The Smashing Pumpkins
+Arctic Monkeys:Nine Inch Nails
+Ramones:Tegan and Sara
+Joy Division:Vampire Weekend
+The Used:Nirvana
+Madonna:Weezer
+Queens of the Stone Age:Guns N' Roses
+Nirvana:Nine Inch Nails
+Green Day:Queens of the Stone Age
+Keane:AC/DC
+The Beatles:The Who
+Black Eyed Peas:Queens of the Stone Age
+Coldplay:Modest Mouse
+Led Zeppelin:Gorillaz
+Franz Ferdinand:Aerosmith
+Kings of Leon:Incubus
+The Kooks:Michael Jackson
+Madonna:Jimi Hendrix
+All Time Low:The Doors
+The Kooks:Papa Roach
+Cobra Starship:Iron Maiden
+The xx:Jimi Hendrix
+Modest Mouse:Kanye West
+Nirvana:U2
+MGMT:Queens of the Stone Age
+Alice in Chains:Radiohead
+Queen:Ke$ha
+MGMT:System of a Down
+Michael Jackson:Marilyn Manson
+Queens of the Stone Age:The Killers
+Regina Spektor:Panic! At the Disco
+Cobra Starship:The Used
+Disturbed:Rammstein
+Avril Lavigne:Fall Out Boy
+Vampire Weekend:Blur
+Cobra Starship:Queen
+Paramore:Opeth
+Joy Division:Metallica
+Avril Lavigne:Snow Patrol
+Megadeth:Iron Maiden
+Breaking Benjamin:Nine Inch Nails
+blink-182:Placebo
+Coldplay:David Bowie
+Rammstein:Lady Gaga
+Cobra Starship:U2
+The Prodigy:Massive Attack
+Marilyn Manson:The Prodigy
+Tool:The Cure
+Kanye West:Belle and Sebastian
+Slipknot:Fall Out Boy
+Nickelback:Blur
+Pink Floyd:Florence + the Machine
+Fall Out Boy:Crystal Castles
+Interpol:Iron Maiden
+The Kooks:Nightwish
+Pearl Jam:Disturbed
+Incubus:Pixies
+Arctic Monkeys:Katy Perry
+MGMT:Britney Spears
+Franz Ferdinand:Pearl Jam
+Vampire Weekend:Rammstein
+Christina Aguilera:Beyoncé
+AC/DC:Bullet for My Valentine
+Florence + the Machine:Black Sabbath
+Nirvana:Michael Jackson
+Nickelback:Avril Lavigne
+The Smashing Pumpkins:Pearl Jam
+3OH!3:Korn
+Massive Attack:Black Eyed Peas
+Phoenix:Jimi Hendrix
+Nine Inch Nails:Eminem
+Lady Gaga:Red Hot Chili Peppers
+Lady Gaga:The White Stripes
+Modest Mouse:A Perfect Circle
+Gorillaz:Nickelback
+Aerosmith:Eminem
+Guns N' Roses:Three Days Grace
+The Kooks:Linkin Park
+30 Seconds to Mars:Guns N' Roses
+The Doors:Madonna
+MGMT:Massive Attack
+Metallica:U2
+Ramones:Placebo
+Eminem:Franz Ferdinand
+Avenged Sevenfold:Three Days Grace
+Bullet for My Valentine:A Perfect Circle
+Fall Out Boy:Katy Perry
+Fall Out Boy:Oasis
+Kanye West:Bloc Party
+Interpol:Crystal Castles
+Pearl Jam:Regina Spektor
+Papa Roach:Beyoncé
+Arctic Monkeys:Metallica
+Ke$ha:Black Sabbath
+Disturbed:Evanescence
+U2:The Cure
+Nine Inch Nails:Deftones
+Rammstein:The Cure
+Interpol:Disturbed
+Red Hot Chili Peppers:System of a Down
+The xx:Weezer
+Florence + the Machine:Queen
+MGMT:Bloc Party
+The Beatles:Portishead
+Tegan and Sara:Daft Punk
+Slayer:The Who
+Amy Winehouse:Britney Spears
+The Prodigy:Snow Patrol
+Regina Spektor:The Used
+Gorillaz:Eminem
+Nine Inch Nails:blink-182
+My Chemical Romance:Bob Dylan
+Tool:Bob Dylan
+Interpol:Black Sabbath
+Led Zeppelin:Taylor Swift
+Rise Against:Keane
+The Smiths:Guns N' Roses
+Avril Lavigne:AC/DC
+Ke$ha:Rise Against
+The Prodigy:Black Sabbath
+Eminem:Cobra Starship
+The xx:Michael Jackson
+Opeth:Iron Maiden
+Bloc Party:Slayer
+The Strokes:Gorillaz
+Papa Roach:Pink Floyd
+Slipknot:Metallica
+Avenged Sevenfold:Coldplay
+Guns N' Roses:Blur
+Queens of the Stone Age:Rammstein
+Portishead:Oasis
+The Who:Linkin Park
+Rihanna:System of a Down
+Cobra Starship:Tool
+Regina Spektor:Beyoncé
+Belle and Sebastian:Aerosmith
+System of a Down:Deftones
+Iron Maiden:The Used
+3OH!3:Slipknot
+Paramore:The Who
+Beck:Kanye West
+Keane:The Strokes
+The Clash:Placebo
+The Cure:Taylor Swift
+Kasabian:Led Zeppelin
+Interpol:Muse
+Deftones:The Clash
+Björk:Michael Jackson
+Michael Jackson:MGMT
+Death Cab for Cutie:David Bowie
+The Smiths:Nickelback
+Ramones:Radiohead
+The Beatles:blink-182
+Black Eyed Peas:Katy Perry
+Ke$ha:Britney Spears
+Lily Allen:The Offspring
+Children of Bodom:Queens of the Stone Age
+Breaking Benjamin:The Who
+30 Seconds to Mars:Britney Spears
+Lady Gaga:Placebo
+Opeth:30 Seconds to Mars
+Portishead:Vampire Weekend
+Marilyn Manson:The All-American Rejects
+System of a Down:Tegan and Sara
+System of a Down:U2
+Blur:The Cure
+Björk:Kings of Leon
+Snow Patrol:Nirvana
+Portishead:Disturbed
+Kanye West:Evanescence
+Pink Floyd:Cobra Starship
+The Rolling Stones:Michael Jackson
+Belle and Sebastian:Linkin Park
+Black Eyed Peas:Taylor Swift
+The Cure:Eminem
+The Killers:Phoenix
+The Beatles:Alice in Chains
+AC/DC:The xx
+A Perfect Circle:Michael Jackson
+The Rolling Stones:Foo Fighters
+Nightwish:Beyoncé
+Metallica:Depeche Mode
+Led Zeppelin:Bullet for My Valentine
+Black Sabbath:Kasabian
+Three Days Grace:Death Cab for Cutie
+The Offspring:Florence + the Machine
+Tegan and Sara:Coldplay
+Iron Maiden:Bullet for My Valentine
+U2:Blur
+Rammstein:Regina Spektor
+Britney Spears:Depeche Mode
+AC/DC:Joy Division
+Björk:Foo Fighters
+Christina Aguilera:Green Day
+Depeche Mode:Red Hot Chili Peppers
+blink-182:Weezer
+Phoenix:Interpol
+Korn:Megadeth
+Breaking Benjamin:The Offspring
+Bullet for My Valentine:Megadeth
+Weezer:Gorillaz
+Portishead:Pixies
+30 Seconds to Mars:Christina Aguilera
+The Smashing Pumpkins:Franz Ferdinand
+Bob Dylan:30 Seconds to Mars
+Pearl Jam:Coldplay
+Marilyn Manson:Weezer
+Papa Roach:The All-American Rejects
+Beck:Modest Mouse
+Arctic Monkeys:Franz Ferdinand
+The Clash:Children of Bodom
+The Smiths:AC/DC
+Christina Aguilera:Interpol
+Daft Punk:Bob Dylan
+The All-American Rejects:Foo Fighters
+Ke$ha:Panic! At the Disco
+Ke$ha:The All-American Rejects
+Aerosmith:Marilyn Manson
+David Bowie:Opeth
+Belle and Sebastian:Snow Patrol
+Korn:Lily Allen
+Pixies:Disturbed
+Snow Patrol:Kings of Leon
+Ke$ha:Queens of the Stone Age
+The Clash:Slayer
+Kings of Leon:Metallica
+The xx:Guns N' Roses
+Queen:Pearl Jam
+Led Zeppelin:Iron Maiden
+Christina Aguilera:Snow Patrol
+Nine Inch Nails:U2
+The Doors:blink-182
+All Time Low:Gorillaz
+Kings of Leon:Keane
+Bloc Party:Rihanna
+The Kooks:Massive Attack
+Lady Gaga:Amy Winehouse
+MGMT:Korn
+Ke$ha:Marilyn Manson
+The Rolling Stones:Britney Spears
+Lady Gaga:Nickelback
+The Strokes:Christina Aguilera
+Taylor Swift:Children of Bodom
+Gorillaz:Sigur Rós
+The White Stripes:Disturbed
+3OH!3:Modest Mouse
+Modest Mouse:blink-182
+Nickelback:MGMT
+The Doors:Katy Perry
+Ramones:Alice in Chains
+Death Cab for Cutie:The Killers
+Green Day:Bob Dylan
+Lady Gaga:Beck
+Joy Division:Guns N' Roses
+Kings of Leon:Interpol
+Nine Inch Nails:Madonna
+Massive Attack:Deftones
+Rammstein:Modest Mouse
+Sigur Rós:The Smashing Pumpkins
+Muse:Children of Bodom
+Green Day:Joy Division
+Portishead:Florence + the Machine
+Opeth:Nightwish
+Gorillaz:Yeah Yeah Yeahs
+Sigur Rós:Michael Jackson
+Lady Gaga:AC/DC
+Metallica:The Strokes
+Black Sabbath:Deftones
+Keane:Guns N' Roses
+David Bowie:Katy Perry
+Interpol:The Kooks
+Ramones:Rihanna
+Nine Inch Nails:Coldplay
+The All-American Rejects:Eminem
+Linkin Park:Regina Spektor
+Bullet for My Valentine:Weezer
+Nickelback:Avenged Sevenfold
+Fall Out Boy:Madonna
+Vampire Weekend:Kings of Leon
+Muse:Led Zeppelin
+Christina Aguilera:Franz Ferdinand
+Rihanna:Weezer
+Gorillaz:Pearl Jam
+Kings of Leon:Korn
+Björk:Ramones
+Pink Floyd:The Offspring
+Portishead:Green Day
+Ramones:Metallica
+The xx:Bloc Party
+Franz Ferdinand:Weezer
+The Offspring:Michael Jackson
+The xx:Iron Maiden
+The Doors:Ke$ha
+Deftones:Arctic Monkeys
+Massive Attack:Panic! At the Disco
+Queen:Coldplay
+Ke$ha:Blur
+blink-182:Tool
+The White Stripes:Beck
+Korn:Placebo
+The Offspring:Sigur Rós
+Guns N' Roses:MGMT
+The Smashing Pumpkins:The Clash
+The Beatles:Joy Division
+The Smiths:Snow Patrol
+Katy Perry:Aerosmith
+Three Days Grace:Led Zeppelin
+MGMT:Franz Ferdinand
+Tegan and Sara:Joy Division
+Green Day:Cobra Starship
+Marilyn Manson:Panic! At the Disco
+Evanescence:The Clash
+Tegan and Sara:Modest Mouse
+Kasabian:Beyoncé
