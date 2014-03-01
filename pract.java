@@ -14,18 +14,15 @@ public class pract{
         int lineCount = 0;
         HashMap<String, Integer> map = new HashMap<String, Integer>();
         HashMap<String, Integer> smap = new HashMap<String, Integer>();
-        File f = new File("thing8.txt");
-        // lefile.txt contains a word appearing
-        // n number of times.  The objective
-        // is to creat a hashmap of the word
-        // as the key and number of times the 
-        // word appears as its value.
+        File f = new File("Artist_lists_small.txt");
+        //The hashmap map will contain the number of times
+        // a band appears, using the band name as the key
+        // and the number of times it appears as the value.
 
         Scanner in = new Scanner(f);
 
         while(in.hasNextLine()){
             String[] bands = in.nextLine().split(",");
-            //System.out.println("Size of bands = " + bands.length);
             for(int i = 0; i<bands.length; i++){
 
                 String band = bands[i];
@@ -46,17 +43,14 @@ public class pract{
         }
         in.close();
 
-        //System.out.println(smap.entrySet());
-        //System.out.println("smap size = " + smap.size());
-
         // now search through each band and see if a band in bands[] 
         // appears in smap.  If more than one does, write that pair out to a text file.
         in = new Scanner(f);
-        PrintWriter out = new PrintWriter("output.txt");
+        PrintWriter out = new PrintWriter("temp.txt");
+        
         while(in.hasNextLine()){
             lineCount++;
             String[] bandz = in.nextLine().split(",");
-            //out.println("List #"+lineCount);
             for(int i = 0; i<bandz.length; i++){
 
                 if(smap.containsKey(bandz[i])){
@@ -70,7 +64,7 @@ public class pract{
         out.close();
         in.close();
 
-        in = new Scanner(new File("output.txt"));
+        in = new Scanner(new File("temp.txt"));
 
         PrintWriter outFinal = new PrintWriter("pairs.txt");
         while(in.hasNextLine()){
